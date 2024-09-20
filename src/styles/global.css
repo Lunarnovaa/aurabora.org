@@ -20,19 +20,36 @@ h1, h2, h3, h4 {
     color: #444;
 }
 
+footer {
+    color: gray;
+    text-align: center;
+    margin-top: 40px;
+}
+
+a {
+    color: #444;
+    text-decoration: underline;
+}
+
+footer a {
+    color: #494F55;
+}
+
 /*Style the internal navigation links*/
 .navigation {
     display: inline-block;
-    padding: 0px 10px;
+    padding: 0px 50px;
 }
 .navigation a {
-    color: black;
+    color: #444;
     text-decoration: none;
     font-weight: bold;
-}/*
-.navigation > a:visited,
-.navigation > a:hover,
-.navigation > a:active  {
-    color: black;
-    text-decoration: inherit;
-}       */
+}
+.navigation a:hover {
+    color: darkgray;
+}
+
+.pageDescription {
+    color: #444;
+    font-size: .9rem;
+}

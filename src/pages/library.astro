@@ -3,8 +3,8 @@ import '../styles/global.css';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 
-const pageTitle = "Blogposts";
-const pageDescription = "My collection of blogposts.";
+const pageTitle = "Library";
+const pageDescription = "A collection of resources I hope you may find helpful.";
 ---
 <html lang="en">
 	<head>
@@ -15,12 +15,10 @@ const pageDescription = "My collection of blogposts.";
 		<title>{pageTitle}</title>
 	</head>
 	<body>
-        <Header />
+		<Header />
 		<h1>{pageTitle}</h1>
-		<p class="pageDescription">{pageDescription}</p>
-        <p>
-            <a href="/blogposts/post-1">Post 1</a>
-        </p>
-        <Footer />
+        <p class="pageDescription">{pageDescription}</p>
+
+		<Footer />
 	</body>
 </html>
