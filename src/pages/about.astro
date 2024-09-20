@@ -1,5 +1,8 @@
 ---
 import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
 const pageTitle = "About";
 
 ---
@@ -15,15 +18,7 @@ const pageTitle = "About";
         </style>
 	</head>
 	<body>
-		<div class="navigation">
-            <a href="/">Home</a>
-        </div>
-        <div class="navigation">
-            <a href="/about/">About</a>
-        </div>
-        <div class="navigation">
-            <a href="/blog/">Blogposts</a>
-        </div>
+        <Header />
         <h1>{pageTitle}</h1>
 
         <p>[website name] is a simple website I have built using Astro that serves as the hub for my blogposts and a collection of resources I find to be particularly useful. Its use may grow overtime so be on the lookout for changes.</p>
@@ -46,10 +41,8 @@ const pageTitle = "About";
             <p>My hopes for this website are to open your mind to other possibilities in life and for you to learn more. I hope everything included in this website encourages creativity and curiosity in its readers.</p>
         <h2>Links</h2>
             <div>
-                <a href="https://github.com/Lunarnovaa">Github</a>
-            </div>
-            <div>
                 <a href="https://www.pictureofhotdog.com">A picture of a hotdog for your enjoyment</a>
             </div>
+        <Footer />
     </body>
 </html>
