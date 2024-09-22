@@ -1,5 +1,5 @@
 {
-  description = "auraspeaks development flake";
+  description = "aurabora.org development flake";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
