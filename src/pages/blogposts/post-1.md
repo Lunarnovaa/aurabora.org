@@ -50,8 +50,22 @@ If you watched the video I linked earlier in this blogpost, you've heard most of
 
 So, for the sake of fairness, I'm going to go over one unfortunate issue I can foresee people having with this: it's simply less convenient.
 
-## The Fruits of Inconvenience; Or, Inputs and Outputs
+### A Tangent On The Fruits of Inconvenience
 
 Around a year ago, for my first ever college course, I read *The Shallows: What the Internet Is Doing to Our Brains.* As someone who has been using the Internet since the age of 4 (no, I wasn't an iPad kid, I was a Windows kid), when I saw this book on the reading list, I was instantly a little uncomfortable. The idea of something I've literally grown up with being something that has had adverse effects on my development and existence wasn't something I was sure how to handle. Yet as I read it, I came to understand that it held information broader than its central thesis regarding the Internet; that *convenience is a trap for decay*.
 
-Now, if that sounds kinda wild, I don't blame you. Isn't convenience good? 
+Now, if that sounds kinda wild, I don't blame you. Isn't convenience good? Doesn't it free up our time to do things of actual value, rather than wasting it searching for information, getting somewhere, or, in this case, building a place for your rants and your thoughts?
+
+As much as this is a place for rants, I really don't think this is the post to rant about all of those topics. But what I will rant about is how, if you are letting a matter of "inconvenience" stop you from learning and trying something new, I think you'll find yourself stumped in growth. Growth comes *from inconvenience,* not from fleeing from it, but from running into it and fighting through it. I wanted to make a website. Was it inconvenient. Yes. Did I enjoy it? At times, yes, at other times, no. Would I do it again. Absolutely.
+
+## The Making of this Website
+
+So, that's why I made it. But how did I make it? If you're now interested in doing the same, how can you?
+
+As I explained earlier, I spent a couple weeks learning the basics of HTML, CSS, and Git from The Odin Project around a year ago. I really recommend starting with that. It's easier than you think, they make it super simple.
+
+I personally used [Astro](https://astro.build/) as it's primarily pure CSS and HTML along with some fancy Javascript for scripting. It also has some neat features like YAML frontmatter and even supports writing your blogposts (like this one!) straight into Markdown and converts it into HTML for you. If you don't know what any of that means, that's okay lol. The point is is that I think it makes things easier to use, and also preserves some neat things about web design like keeping everything primarily written in HTML and CSS (I have no qualms having Markdown documents as it's an excellent format). Anywho, I do want to give credit to [Viper](ayats.org) for an awesome website that I took inspiration from.
+
+I followed the basic tutorial that Astro provides, and spent $6 on the aurabora.org domain from [porkbun](porkbun.com), which will cost me ~$10/year to renew. 
+
+I'm still iterating on everything from style, to features, to content, but I've set up what I consider a strong foundation to continue work on, and I'm glad for anyone reading this that you're along for the ride.
