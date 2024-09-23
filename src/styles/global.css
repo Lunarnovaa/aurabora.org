@@ -38,7 +38,7 @@ footer a {
 /*Style the internal navigation links*/
 .navigation {
     display: inline-block;
-    padding: 0px 45px;
+    padding: 0px 11%;
 }
 .navigation a {
     color: #444;
