@@ -1,13 +1,21 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import BlogPost from '../components/BlogPost.astro';
+import '../styles/blogposts.css'
 
-const allBlogposts = await Astro.glob('./blogposts/*.md');
+const allPosts = await Astro.glob('./blogposts/*.md');
 const pageTitle = "Blogposts";
 const pageDescription = "My collection of blogposts.";
 ---
 <BaseLayout pageTitle = {pageTitle} pageDescription = {pageDescription}>
-	<ul>
-		{allBlogposts.map((blogpost) => <BlogPost url={blogpost.url} title={blogpost.frontmatter.title} />)}
-	</ul>
+	<div>
+		<p class="tagslink">
+			<a href="/tags/">Search for blogposts by tag.</a>
+		</p>
+	</div>
+	
+	<div class="blogposts">
+		{allPosts.map((post) => <p class="blogpost">
+			<a id="bloglink"href={post.url}>{post.frontmatter.title}</a>: {post.frontmatter.description}
+		</p> )}
+	</div>
 </BaseLayout>

@@ -1,0 +1,27 @@
+.tagslink {
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.25em;
+}
+
+.blogpost > a {
+    font-size: 1.25em;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.blogposts {
+    display: flexbox;
+    text-align: left;
+}
+
+.blogpost {
+    margin: 1em;
+    border: dotted 1px #a1a1a1;
+    border-radius: .5em;
+    padding: .5em 1em;
+    font-size: .8em;
+    background-color: rgb(202, 253, 185);
+    color: gray;
+}
