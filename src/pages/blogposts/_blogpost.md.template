@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: (title)
-date: (date of publishing)
+pubDate: (date of publishing)
 description: '(description of blogpost)'
 tags: ["(tag-1)", "(tag-2)"]
 ---
