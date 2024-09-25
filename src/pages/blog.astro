@@ -3,13 +3,13 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import '../styles/blogposts.css'
 
 const allPosts = await Astro.glob('./blogposts/*.md');
-const pageTitle = "Blogposts";
-const pageDescription = "My collection of blogposts.";
+const pageTitle = "blogposts";
+const pageDescription = "my collection of blogposts.";
 ---
 <BaseLayout pageTitle = {pageTitle} pageDescription = {pageDescription}>
 	<div>
 		<p class="tagslink">
-			<a href="/tags/">Search for blogposts by tag.</a>
+			<a href="/tags/">search for blogposts by tag.</a>
 		</p>
 	</div>
 	
