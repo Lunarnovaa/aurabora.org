@@ -8,29 +8,9 @@ const { frontmatter } = Astro.props;
     <p class="subtitle">Published {frontmatter.pubDate}</p>
     <slot />
 
-    <div class="tags">
+    <div class="tags"> Tags:
         {frontmatter.tags.map((tag) => (
-            <p class="tag"><a href={`/tags/${tag}`}>{tag}</a></p>
+            <a href={`/tags/${tag}`}> {tag},</a>
         ))}
     </div>
 </BaseLayout>
-
-<style>
-    a {
-      color: #00539F;
-    }
-  
-    .tags {
-      display: flex;
-      flex-wrap: wrap;
-    }
-  
-    .tag {
-      margin: 0.25em;
-      border: dotted 1px #a1a1a1;
-      border-radius: .5em;
-      padding: .5em 1em;
-      font-size: 1.15em;
-      background-color: #F8FCFD;
-    }
-  </style>

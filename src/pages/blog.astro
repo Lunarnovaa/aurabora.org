@@ -14,8 +14,12 @@ const pageDescription = "my collection of blogposts.";
 	</div>
 	
 	<div class="blogposts">
-		{allPosts.map((post) => <p class="blogpost">
-			<a id="bloglink"href={post.url}>{post.frontmatter.title}</a>: {post.frontmatter.description}
-		</p> )}
+		{allPosts.map((post) => <div class="blogpost-box"><a class="blogpost-link" href={post.url}>
+			
+				<div class="blogpost-title">{post.frontmatter.title}</div>
+
+				<div class="blogpost-description">{post.frontmatter.description} Published {post.frontmatter.pubDate}.</div>
+		
+		</a></div> )}
 	</div>
 </BaseLayout>

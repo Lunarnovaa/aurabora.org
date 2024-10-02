@@ -1,27 +1,26 @@
-.tagslink {
-    text-align: center;
-    text-decoration: none;
-    font-weight: bold;
-    font-size: 1.25em;
-}
-
-.blogpost > a {
-    font-size: 1.25em;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-.blogposts {
+.blogpost-box {
     display: flexbox;
-    text-align: left;
+    background-color: #efe9e6;
+    margin: 1em;
+    border: solid 1px black;
+    border-radius: .3em;
 }
 
-.blogpost {
-    margin: 1em;
-    border: dotted 1px #a1a1a1;
-    border-radius: .5em;
-    padding: .5em 1em;
+a.blogpost-link {
+    display: inline-block;
+    text-decoration: none;
+    width: 100%;
+    height: 100%;
+    margin: .5em;
+}
+
+.blogpost-title {
+    font-weight: bold;
+    text-align: left;
+    font-size: 1em;
+}
+
+.blogpost-description {
+    text-align: left;
     font-size: .8em;
-    background-color: rgb(202, 253, 185);
-    color: gray;
 }
