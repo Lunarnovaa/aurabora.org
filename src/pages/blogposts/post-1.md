@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: why this website exists
+title: Why This Website Exists
 pubDate: 23 September 2024
-description: 'why i wrote this website.'
+description: 'why I wrote this website,'
 tags: ["philosophy", "web development"]
 ---
 
@@ -28,13 +28,13 @@ Call me old-fashioned, but I don't think we should be breaking up the most impor
 
 ## Discord and a Tangent On Internet Immortality
 
-As I grew older, I moved my sharing to Discord, "infodumping" everything in a special channel my friends made for that exact purpose. Here, we could (and were encouraged to) rant as long as we wanted. But there's a catch: it's *Discord.* If you want to scroll back up to that ancient rant you wrote that one time, good luck, pray to whatever superpowerful force/entity you believe in, and hope Discord's search feature works alright. And hope even tighter that Discord *never* goes away, and it will, and every single thing you ever ranted about will go away forever with it. And if you think I'm paranoid, and that Discord will never go away, I'm guessing you joined the Internet later than I did and missed all the previous chatting platforms like Skype, Teamspeak, Steam Messages, and a bunch of others that used to be super popular that all gradually have gone into disuse, everything said on it disappearing into the abyss of the forgotten Internet. 
+As I grew older, I moved my sharing to Discord, "infodumping" everything in a special channel my friends made for that exact purpose. Here, we could (and were encouraged to) rant as long as we wanted. But there's a catch: it's *Discord.* If you want to scroll back up to that ancient rant you wrote that one time, good luck, pray to whatever superpowerful force/entity you believe in, and hope Discord's search feature works alright. And hope even tighter that Discord *never* goes away, and it will, and every single thing you ever ranted about will go away forever with it. And if you think I'm paranoid, and that Discord will never go away, I'm guessing you joined the Internet later than I did and missed all the previous chatting platforms like Skype, Teamspeak, Steam Messages, and a bunch of others that used to be super popular that all gradually have gone into disuse, everything said on it disappearing into the abyss of the forgotten Internet.
 
-It's painfully common to see people treat Discord—be it servers or DMs—as timeless Internet Archives. Even I've often used it for long-term storage of files I don't want to lose, stored instructions on tech solutions and modding for my friends, and compiled resources that I found helpful. But I've come to realize this is a seriously dangerous use of Discord. Discord is an Internet messaging application, and it should be treated that way. Nothing on Discord is going to stay there forever. *Discord* is not going to stay there forever. This is another reason why I'm building this website—to replace a couple of those "long-term storage" uses of Discord. 
+It's painfully common to see people treat Discord—be it servers or DMs—as timeless Internet Archives. Even I've often used it for long-term storage of files I don't want to lose, stored instructions on tech solutions and modding for my friends, and compiled resources that I found helpful. But I've come to realize this is a seriously dangerous use of Discord. Discord is an Internet messaging application, and it should be treated that way. Nothing on Discord is going to stay there forever. *Discord* is not going to stay there forever. This is another reason why I'm building this website—to replace a couple of those "long-term storage" uses of Discord.
 
 ## Wisdom From the Past
 
-So...what option do we have? 
+So...what option do we have?
 
 Well, I've recently come into knowledge of an age-old form of journaling that ancient peoples used to refer to as *"Blogging."* Apparently, they just wrote stuff and hosted it on the Internet somewhere. People even bought domains. Crazy, huh?
 
@@ -44,7 +44,7 @@ It does sound crazy when we're so used to how our contemporary, corporate-Intern
 2. You can pretty much choose who has access to its contents by choosing with whom/where you do or do not share the URL.
 3. If you have the time and interest, you can even style your website to personalize it and make it pretty. It's a kind of artform if you want it to be.
 4. You can make easy backups simply by storing/downloading the source code right onto any Hard Drive or USB Drive.
-5. Related to the above, it's timeless—HTML and CSS are never going away, they've been here for the past 40 years and will be here for another. 
+5. Related to the above, it's timeless—HTML and CSS are never going away, they've been here for the past 40 years and will be here for another.
 
 If you watched the video I linked earlier in this blogpost, you've heard most of the points above. Obviously, I'm biased towards this system. I've worked on it, it fits my skillset and passions, it affirms some of my political and philosophical views, and I've invested time into it.
 
@@ -68,6 +68,6 @@ As I explained earlier, I spent a couple weeks learning the basics of HTML, CSS,
 
 I personally used [Astro](https://astro.build/) as it's primarily pure CSS and HTML along with some fancy Javascript. It also has some neat features like YAML frontmatter and even supports writing your blogposts (like this one!) straight into Markdown and converts it into HTML for you. If you don't know what any of that means, that's okay lol. The point is that I think it makes web design easier, and also preserves some neat things about web design like keeping everything primarily written in HTML and CSS (I have no qualms about Markdown as it's an excellent format). Anywho, I do want to give credit to [Viper](https://ayats.org) for an awesome website that I took inspiration from.
 
-I followed the basic tutorial that Astro provides, and spent $6 on the aurabora.org domain from [porkbun](https://porkbun.com), which will cost me ~$10/year to renew. 
+I followed the basic tutorial that Astro provides, and spent $6 on the aurabora.org domain from [porkbun](https://porkbun.com), which will cost me ~$10/year to renew.
 
 I'm still iterating on everything from style, to features, to content, but I've set up what I consider a strong foundation to continue my work on, and I'm excited to continue working on it into the future. Thank you to everyone reading this, and I hope you'll follow me on this next ride.
