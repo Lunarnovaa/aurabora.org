@@ -5,7 +5,7 @@ const { frontmatter } = Astro.props;
 ---
 
 <BaseLayout pageTitle = {frontmatter.title} pageDescription = {frontmatter.description}>
-    <p class="subtitle">published {frontmatter.pubDate}</p>
+    <p class="subtitle">{frontmatter.pubDate}</p>
     <slot />
 
     <div class="tags"> Tags:

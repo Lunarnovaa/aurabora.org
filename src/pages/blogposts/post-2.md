@@ -2,7 +2,7 @@
 layout: ../../layouts/MarkdownPostLayout.astro
 title: On Doomerism
 pubDate: 16 October 2024
-description: 'doing nothing or doing something,'
+description: 'doing nothing or doing something'
 tags: ["philosophy", "activism", "climate change"]
 ---
 

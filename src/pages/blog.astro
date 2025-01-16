@@ -3,6 +3,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import '../styles/blogposts.css'
 
 const allPosts = await Astro.glob('./blogposts/*.md');
+allPosts.sort((a, b) => Date.parse(b.frontmatter.pubDate) - Date.parse(a.frontmatter.pubDate));
+
 const pageTitle = "blogposts";
 const pageDescription = "my collection of blogposts.";
 ---
@@ -15,10 +17,10 @@ const pageDescription = "my collection of blogposts.";
 	
 	<div class="blogposts">
 		{allPosts.map((post) => <div class="blogpost-box"><a class="blogpost-link" href={post.url}>
-			
+				
 				<div class="blogpost-title">{post.frontmatter.title}</div>
 
-				<div class="blogpost-description">{post.frontmatter.description} published {post.frontmatter.pubDate}.</div>
+				<div class="blogpost-description">{post.frontmatter.description}, published {post.frontmatter.pubDate}.</div>
 		
 		</a></div> )}
 	</div>

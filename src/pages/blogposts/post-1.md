@@ -2,7 +2,7 @@
 layout: ../../layouts/MarkdownPostLayout.astro
 title: Why This Website Exists
 pubDate: 23 September 2024
-description: 'why I wrote this website,'
+description: 'why I wrote this website'
 tags: ["philosophy", "web development"]
 ---
 
