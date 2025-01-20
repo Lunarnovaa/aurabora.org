@@ -1,0 +1,9 @@
+html.dark {
+    .nav a {
+        color: #cdd6f4; /* text */
+    }
+    
+    .nav a:hover {
+        color: #6c7086; /* overlay 0 */
+    }
+}

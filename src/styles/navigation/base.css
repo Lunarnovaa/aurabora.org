@@ -1,0 +1,29 @@
+
+.nav a {
+    width: 32%;
+    top: 5rem;
+    margin: 0;
+    display: inline-block;
+}
+.nav a {
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    color: #444;
+}
+
+.expanded {
+    display: unset;
+}
+
+@media screen and (min-width: 636px) {
+    .nav {
+        display: block;
+        position: static;
+        width: auto;
+    }
+
+    .nav a {
+        display: inline-block;
+    }
+}

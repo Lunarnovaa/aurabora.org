@@ -1,0 +1,14 @@
+html.dark {
+    .blogpost-box {
+        background-color: #181825; /* mantle */
+        border-color: #7f849c; /* overlay 1 */
+    }
+    
+    .blogpost-box:hover {
+        border-color: #f5e0dc; /* rosewater */
+    }
+    
+    .blogpost-title, .blogpost-description {
+        color: #cdd6f4; /* text */
+    }    
+}

@@ -1,6 +1,8 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import '../styles/blogposts.css'
+import '../styles/blogposts/base.css';
+import '../styles/blogposts/dark.css';
+import '../styles/blogposts/light.css';
 
 const allPosts = await Astro.glob('./blogposts/*.md');
 allPosts.sort((a, b) => Date.parse(b.frontmatter.pubDate) - Date.parse(a.frontmatter.pubDate));

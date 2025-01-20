@@ -1,8 +1,7 @@
 .blogpost-box {
     display: flexbox;
-    background-color: #efe9e6;
     margin: 1em;
-    border: solid 1px black;
+    border: solid 1px;
     border-radius: .3em;
 }
 

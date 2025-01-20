@@ -1,42 +1,11 @@
+---
+import '../styles/navigation/base.css'
+import '../styles/navigation/dark.css'
+import '../styles/navigation/light.css'
+---
+
 <div class="nav">
     <a href="/">home</a>
     <a href="/blog/">blogposts</a>
     <a href="/library/">library</a>
 </div>
-
-<style>
-
-
-    .nav a {
-        width: 32%;
-        top: 5rem;
-        margin: 0;
-        display: inline-block;
-    }
-    .nav a {
-        text-align: center;
-        text-decoration: none;
-        font-weight: bold;
-        color: #444;
-    }
-    .nav:hover {
-        color: darkgray;
-    }
-
-    .expanded {
-        display: unset;
-    }
-
-    @media screen and (min-width: 636px) {
-        .nav {
-            display: block;
-            position: static;
-            width: auto;
-        }
-
-        .nav a {
-            display: inline-block;
-        }
-
-
-</style>

@@ -1,0 +1,37 @@
+html.dark {
+    background-color: #1e1e2e; /* base */
+    color: #cdd6f4; /* text */
+
+    h1, h2, h3, h4 {
+        font-weight: bold;
+    }
+    
+    h1, h2 {
+        color: #cdd6f4; /* text */
+    }
+    
+    h2 {
+        border-bottom-color: #7f849c; /* overlay 1 */
+    }
+    
+    h3, h4 {
+        color: #bac2de; /* subtext 1 */
+    }
+    
+    a {
+        color: #b4befe; /* lavender */
+    }
+    
+    a:hover {
+        color: #a6adc8; /* subtext 0 */
+    }
+    
+    footer a, .subtitle {
+        color: #a6adc8; /* subtext 0 */
+    }
+    
+    footer a:hover {
+        color: #7f849c; /* overlay 1 */
+    }
+}
+

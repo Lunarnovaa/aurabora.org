@@ -1,5 +1,4 @@
 html {
-    background-color: #FAF9F6;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -16,7 +15,6 @@ body {
 }
 h1, h2, h3, h4 {
     margin: 1rem 0;
-    color: #444;
 }
 
 h1 {
@@ -25,7 +23,7 @@ h1 {
 
 h2 {
     font-size: 1.5rem;
-    border-bottom: 3px solid #bbb;
+    border-bottom: 3px solid;
 }
 
 h3 h4 {
@@ -33,21 +31,14 @@ h3 h4 {
 }
 
 footer {
-    color: gray;
     text-align: center;
     margin-top: 40px;
 }
 
 a {
-    color: #444;
     text-decoration: underline;
 }
 
-footer a {
-    color: #494F55;
-}
-
 .subtitle {
-    color: #444;
     font-size: .9rem;
 }

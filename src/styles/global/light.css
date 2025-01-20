@@ -1,0 +1,35 @@
+html {
+    background-color: #FAF9F6;
+}
+
+h1, h2, h3, h4 {
+    color: #444;
+}
+
+h2 {
+    border-bottom-color: #bbb;
+}
+
+footer {
+    color: gray;
+}
+
+a {
+    color: #444;
+}
+
+a:hover {
+    color: gray;
+}
+
+footer a {
+    color: #494F55;
+}
+
+footer a:hover {
+    color: gray;
+}
+
+.subtitle {
+    color: #444;
+}
