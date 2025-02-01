@@ -16,7 +16,7 @@ Last semester, when I took my first Anthropology classes, I learned that the way
 
 This creates the idea of biology as an essential matter. We are all essentially human, with the same biologies that unify us. It is our culture that marks us as separate.
 
-Understanding gender through this lens left me with confusion and question after question. It justifies and supports the idea that some of us are essentially male and some of us are essentially female (and perhaps some of us are essentially "intersex" in some way), but how we interpret that is different. This could even be understood to say that biologically, I am "male" but culturally, I am "female." This seems to be how many anthropologists understand gender/sex. My professors certainly seem to. On the first day of class, my Archeology professor made a casual aside to "biological males" and "biological females," connoting the notion of a universal, biologically understood sex.
+Understanding gender through this lens left me with confusion and question after question. It justifies and supports the idea that some of us are essentially male and some of us are essentially female (and perhaps some of us are essentially "intersex" in some way), but how we interpret that is different. This could even be understood to say that biologically, I am "male" but culturally, I am "female." This seems to be how many anthropologists understand gender/sex. My professors certainly seem to. On the first day of class, one of my professors made a casual aside to "biological males" and "biological females," connoting the notion of a universal, biologically understood sex.
 
 ## "Humans Are Biocultural"
 
@@ -36,7 +36,7 @@ The first time I *really* got into Gender Studies was when I watched [How Conser
 
 This is why I am so disturbed each time I hear a professor of mine make reference to the Gender/Sex Distinction. When they do so, it naturalizes and enforces a binary and essential stratification upon us. *It* is what distorts, corrupts, and subverts reality. It delegitimizes my reality and imposes their own construction of what is and what can be onto me, demanding I accept that I am somehow "biologically male" regardless of how I look, how I speak, how I dress.
 
-A few of my professors have talked at length about how we can decolonize Anthropology. But I say that to talk about "decolonizing" Anthropology is easy, yet there's no such thing as decolonization without radicalization. And to radicalize Anthropology, we must reject the fundamental colonial and essentialist paradigms with which we are armed.
+Some of my professors have talked at length about how we can decolonize Anthropology. But I say that to talk about "decolonizing" Anthropology is easy, yet there's no such thing as decolonization without radicalization. And to radicalize Anthropology, we must reject the fundamental colonial and essentialist paradigms with which we are armed.
 
 So here's my first step towards radicalizing Anthropology: the Culture/Biology Distinction is to Anthropology what the Gender/Sex Distinction is to Gender Studies. It denies the reality that these things came at the same time, intimately influence one another, and are fundamentally oppressive power structures. In reality, gender constructs sex, and sex constructs gender. Gender is not simply the "interpretation" of sex, and to posit such an idea is to construct hierarchy between the validity of these two concepts.
 
