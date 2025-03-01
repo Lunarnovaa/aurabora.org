@@ -1,7 +1,15 @@
 # aurabora.org
-source code for my website
 
-info about my site is on it, go check it out!
+Source code for my website.
+
+Info about my site is on it, go check it out!
 
 ## PRs
-i am open to PRs if you catch any spelling mistakes or have suggestions for me to make it more readable or have features you think i should add. you can also simply leave an issue and i can do it myself :)
+
+I am open to PRs if you catch any spelling mistakes or have suggestions for me to make it more readable or have features you think I should add. You can also simply leave an issue and I can do it myself :)
+
+## Licenses
+
+All code in this repo is protected under [GPL-3.0](./LICENSE).
+
+All writing is protected under [CC BY 4.0](./src/LICENSE).

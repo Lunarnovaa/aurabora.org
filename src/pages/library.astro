@@ -1,11 +1,27 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import '../styles/blogposts/base.css';
+import '../styles/blogposts/dark.css';
+import '../styles/blogposts/light.css';
 
-//const allSources = await Astro.glob('./sources/*.html');
+const allSources = await Astro.glob('./sources/*.md');
+allSources.sort((a, b) => Date.parse(b.frontmatter.accessDate) - Date.parse(a.frontmatter.accessDate));
+
+
 const pageTitle = "library";
 const pageDescription = "a collection of resources I hope you may find helpful.";
 ---
 <BaseLayout pageTitle = {pageTitle} pageDescription = {pageDescription}>
+    <div>
+        {allSources.map((source) => <div class="blogpost-box"><a class="blogpost-link" href={source.frontmatter.url}>
+           
+            <div class="blogpost-title">{source.frontmatter.title}</div>
+           
+            <div class="blogpost-description">By {source.frontmatter.authors}, published {source.frontmatter.pubDate}.</div>
 
-
+        </a></div>)}
+    </div>
+<div>
+    <p class="subtitle">*Unfortunately, I cannot provide a direct access link.</p>
+</div>
 </BaseLayout>

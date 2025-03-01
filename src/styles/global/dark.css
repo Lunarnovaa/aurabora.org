@@ -25,6 +25,10 @@ html.dark {
     a:hover {
         color: #a6adc8; /* subtext 0 */
     }
+
+    blockquote {
+        border-left-color: #7f849c; /* overlay 1 */
+    }
     
     footer a, .subtitle {
         color: #a6adc8; /* subtext 0 */

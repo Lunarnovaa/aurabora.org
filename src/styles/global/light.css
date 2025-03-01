@@ -22,6 +22,10 @@ a:hover {
     color: gray;
 }
 
+blockquote {
+    border-left-color: #bbb;
+}
+
 footer a {
     color: #494F55;
 }
