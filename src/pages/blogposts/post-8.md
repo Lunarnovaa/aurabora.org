@@ -46,6 +46,18 @@ An important note to consider is that "male" and "female" are gendered terms. As
 
 In essence, I am arguing that the language we use on animals emphatically enforces gender as this natural concept that is firmly rooted in our ecosystems as a necessary, inherent, obvious category. Not only does this erase transgender and especially non-binary identities, but it naturalizes gender hierarchy and encourages the reproduction of patriarchal norms like the misogyny that Cooke discusses.
 
+### A note on the mutability of animal sex
+
+As an aside, I would love to talk about the phenomenon in nature of animals switching their sex. For example, clownfish are either male or unsexed (depending on your perspective) until the largest one in the group becomes a female for the sake of reproduction, taking on the dominant role. In some cases, a male clownfish will then switch sex, becoming a female. Essentially, it seems that clownfish change sex depending on reproductive need. To put it another way, sex, for clownfish, is entirely mutable, mostly depending on social factors.
+
+Now, this is interesting for a few reasons. Firstly, if sex is commonly mutable in different species, then it means sex as a biological category is not static in the way it is presented to us. Instead, sex can change. It is not inherently "natural" in the sense that you are born with it and it can never change. It is, for the clownfish, social, environmental, fluid.
+
+However, these fish are not transgender. Transgender is a human concept. It is a cultural construction, because it is predicated upon *gender*. Again, fish do not have gender.
+
+Also note that it is the *female* clownfish that is dominant. I was shocked to learn that many people still seem to think that a rigid sexual hierarchy is universal or "natural." It's not.
+
+Anyways, just keep this in mind next time you watch *Finding Nemo*.
+
 ## Wrapping it Up
 
 To be clear: I am not advocating for abolishing gendered language for animals, especially pets. I think that gendered language itself is okay. But what I am arguing is that by naturalizing terms like "male" and "female," we lose out on a lot of nuance, distort reality, and erase trans people from existence. I believe that when we talk about biology, we must not use these terms.
