@@ -11,9 +11,11 @@
   in {
     devShells.${system}.default = pkgs.mkShell {
       nativeBuildInputs = with pkgs; [
-        git
         nodejs
         pnpm
+      ];
+      buildInputs = with pkgs; [
+        git
       ];
     };
   };
