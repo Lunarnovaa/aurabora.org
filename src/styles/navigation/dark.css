@@ -1,9 +1,13 @@
 html.dark {
     .nav a {
         color: #cdd6f4; /* text */
+        border-bottom-color: #bac2de; /* subtext 1 */
+
     }
     
     .nav a:hover {
         color: #6c7086; /* overlay 0 */
+        border-bottom-color: #585b70; /* surface 2 */
+
     }
 }

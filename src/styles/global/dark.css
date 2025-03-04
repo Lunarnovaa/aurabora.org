@@ -37,5 +37,13 @@ html.dark {
     footer a:hover {
         color: #7f849c; /* overlay 1 */
     }
+
+    .footnotes, #footnote-label {
+        color: #bac2de; /* subtext 1 */
+    }
+
+    .tags {
+        color: #a6adc8;
+    }
 }
 
