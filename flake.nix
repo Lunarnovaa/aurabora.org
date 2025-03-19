@@ -13,6 +13,7 @@
       nativeBuildInputs = with pkgs; [
         nodejs
         pnpm
+        git
       ];
       buildInputs = with pkgs; [
         git

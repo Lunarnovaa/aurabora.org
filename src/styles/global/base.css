@@ -48,4 +48,23 @@ a {
 
 .subtitle {
     font-size: .9rem;
+    font-style: italic;
 }
+
+.footnotes {
+    font-size: .8rem;
+    text-align: center;
+}
+
+#footnote-label {
+    padding-top: 1em;
+    font-size: 1rem;
+    font-weight: 400;
+    border-bottom-style: none;
+}
+
+.tags {
+    text-align: center;
+    font-size: 0.8rem;
+}
+

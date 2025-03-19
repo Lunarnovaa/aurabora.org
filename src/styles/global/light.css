@@ -37,3 +37,12 @@ footer a:hover {
 .subtitle {
     color: #444;
 }
+
+.footnotes, #footnote-label {
+    color: #444; 
+}
+
+
+.tags {
+    color: #444;
+}

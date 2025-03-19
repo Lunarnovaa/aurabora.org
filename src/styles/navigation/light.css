@@ -1,3 +1,11 @@
+.nav a {
+    color: #444;
+
+    border-bottom-color: #444;
+}
 .nav a:hover {
     color: darkgray;
+
+    border-bottom-color: #bbb;
+
 }
