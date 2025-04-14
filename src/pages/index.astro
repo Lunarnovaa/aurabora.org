@@ -1,4 +1,8 @@
 ---
+import { Image } from 'astro:assets';
+import butlerImage1 from '../imgs/gender-performativity/pt1.jpg';
+import butlerImage2 from '../imgs/gender-performativity/pt2.png';
+
 import BaseLayout from '../layouts/BaseLayout.astro';
 
 const pageTitle = "aurabora.org";
@@ -24,8 +28,22 @@ const pageDescription = "an explanation of my website.";
             <p>I'm a college student studying Anthropology. I consider myself to be a highly well rounded person, however, with interests in many fields such as Philosophy, Politics, Gender Studies, Linguistics, Web Design, Linux Development and many, many more.</p>
             <p>As a queer transgender person <em>(she/they pronouns)</em>, I'm naturally interested in many of these fields that have shaped my own personal identity and continue to shape my existence within society.</p>
             <p>My hopes for this website are to open your mind to other possibilities in life and for you to learn more. I hope everything included in this website encourages creativity and curiosity in its readers.</p>
-            <h2>links</h2>
-            <div>
+            
+        <h2>extras</h2>
+            <p>  
                 <a href="https://www.pictureofhotdog.com">a picture of a hotdog for your enjoyment</a>
-            </div>
+            </p>
+            <p>  
+                Judith Butler's theory of gender performativity, explained with cats (<a href="https://www.themarysue.com/judith-butler-explained-with-cats/">Source</a>)  
+                <Image 
+                    src={butlerImage1}
+                    alt="the first part of butler's theory of gender performance explained with cats"
+                    class="chart"
+                />
+                <Image 
+                    src={butlerImage2}
+                    alt="the second part of butler's theory of gender performance explained with cats"
+                    class="chart"
+                />
+            </p>
 </BaseLayout>
