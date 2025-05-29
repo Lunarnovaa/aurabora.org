@@ -1,160 +1,182 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'Gender/Sex & Culture/Biology'
-pubDate: 31 January 2025
-description: 'analyzing gender through the biocultural approach of anthropology'
-tags: ["gender", "anthropology"]
+title: 'Sex: A Fragment of Bioculture'
+pubDate: 29 May 2025
+description: 'redefining what it means to have a body'
+tags: ["gender", "philosophy", "biology"]
 ---
 
-Hi there. Recently I've been struggling in Anthropology hearing too many of my
-quite educated professors reference gender/sex in quite essentialist ways, even
-the well-meaning ones. It's made me question the field of Anthropology, and
-flung me into confusion and doubt on how my experience with and understanding of
-gender factors into Anthropological knowledge.
+## Outline
 
-Recently, however, I read about a paradigm of studying humans that refutes the
-separation between biology and culture, instead combining them into one concept
-of "bioculture." First, I'm going to explain how I was initially taught to think
-about the relationship between biology and culture. I will then explain, in
-contrast, the biocultural paradigm. Finally, I will integrate that into a
-radical, holistic, complete understanding of gender/sex to firmly reject both
-essentialist sex and, more broadly, the Gender/Sex Distinction.
+1. Introduction
+2. All Too Common: The Sex/Gender Division
+   1. The Seduction of Simplicity
+   2. Oh, the modifications you will make!
+3. Why does the sex/gender division exist?
+   1. The History of Sex in Biology
+   2. The Conservative Underbelly of Sex/Gender
+4. Moving Forward: Constructing a New Framework
+   1. Deconstructing Gender
+   2. The Body: A Vessel of Performance
+5. Bioculture: A Reintegration of Gender
 
-## "Culture Interprets Biology"
+_Please note, this blogpost has been rewritten. For the old version, see
+[here](/old/post-7)._
 
-Last semester, when I took my first Anthropology classes, I learned that the way
-culture functions in relation to biology is that while biology is a strict,
-necessary thing that all humans share universally, culture is a group's
-interpretation of their biology. For example, we all have hunger, but what we
-choose to eat, how we choose to eat, when we choose to eat, all of that is
-decided and performed culturally.
+A strange, unnerving sense of contradiction has emerged for me over the past few
+years. As someone for whom sex is, quite literally, a defining element of my
+experience, my struggle with it as a paradoxically supposedly deterministic
+element I am labored and cursed with and also a liberatory, compelling element
+of my transgender experience, and this struggle makes itself clear as I began to
+look around my world and understand how not just trans individuals, but cishet
+ones must reconcile these polarizing and contradictory elements of sex, and not
+just sex, but of gender, of this amorphous blob of meaning that seems so
+callously hollow one must wonder how it ever came to be.
 
-This creates the idea of biology as an essential matter. We are all essentially
-human, with the same biologies that unify us. It is our culture that marks us as
-separate.
+So today, I will chart this meaning. I will not just explore, but deeply
+interrogate the underlying elements, the histories, the presumptions, the
+narratives, and the conclusions. It is unendingly clear to me that if I am ever
+to understand my own existence, it is these elements of being that must not just
+be understood but deconstructed and reconstructed. And accordingly, I will
+reconstruct these meanings.
 
-Understanding gender through this lens left me with confusion and question after
-question. It justifies and supports the idea that some of us are essentially
-male and some of us are essentially female (and perhaps some of us are
-essentially "intersex" in some way), but how we interpret that is different.
-This could even be understood to say that biologically, I am "male" but
-culturally, I am "female." This seems to be how many anthropologists understand
-gender/sex. My professors certainly seem to. On the first day of class, one of
-my professors made a casual aside to "biological males" and "biological
-females," connoting the notion of a universal, biologically understood sex.
+## All Too Common: The Sex/Gender Division
 
-## "Humans Are Biocultural"
+If you have been in the queer community for much time, you have almost certainly
+heard this idea. Simply put, it is that while a person may be of a certain sex,
+that does not necessarily follow that they are of a certain gender. In essence,
+this critical conception of sex/gender argues these two be two wholey discrete
+and independent categories. That they do not necessarily align, do not
+necessarily bundle, they exist separately. It maintains sex as a specific,
+biological category of male/female, but constructs gender to explain away all
+those who do not fit into this binary.
 
-I have a strong disdain for textbooks. In my experience, they are usually
-decades behind the times, with a serious lack of multidisciplinary or
-intersectional understanding, showcasing a lack of curiosity or any real depth.
-So imagine my surprise when I opened up my textbook for my Biological
-Anthropology course and it began to discuss a more critical approach to
-understanding the relationship between biology and culture.
+In its contemporary conception, this acts as the foundation on which trans
+identity rests. It is critical in fields like Anthropology, which finds its neat
+dividing line to be oh so alluring, oh so seductive. And certainly, it is a very
+seductive metaphor.
 
-In this approach, Anthropologists understand any given human to be a product of
-both their biology and their culture, but not in a separable way. Part of this
-is understanding that biology represents both the immutable as well as the
-mutable aspects of our body—genes, organs, skin, hair—the inside as well the
-outside. In essence, our biology is our body.
+Each time I notice the sex/gender division in my life, it becomes clear it was
+never made for us. It was never made for queer individuals. It was made by and
+for cishet folks. It is specifically such a simplistic, neat little idea that
+separates the complex from the simplistic, that it appears, on first glance, to
+be a rather liberating idea. But the deeper we inspect it, the more disturbing
+that very idea becomes. For this neat dichotomy between sex and gender does not
+actually account for the complex reality. Rather, it serves to mask it, and
+allow those who adopt it to end the conversation there.
 
-An obvious example is hair; while the "culture interprets biology" argument
-might say that hair is essential and biological, but that one's culture
-interprets its value and form, the biocultural approach highlights that the form
-one's hair takes is simultaneously interpreted, instructed, and shaped by one's
-culture as well as one's biology. If a person lives in the cold, their biology
-may adapt to fit the cold weather, growing thicker hair. Yet, their culture
-tells them how to shape it, where to let it grow and where not to grow, which
-may or may not keep them warm. If a person is lost in the cold and their culture
-instructs them to shave their facial and head hair, they may die of frostbite.
-If a person is lost in the cold and their biology does not grow thick, bushy
-hair, they may die of frostbite. These necessarily and inherently overlap and
-combine—they are inseparable from one another.
+### I am the bones that are speaking to you
 
-Another good example is what you eat. If you eat unhealthily, your biology will
-reflect that, perhaps becoming overweight. However, your culture is what
-instructs what you eat, either through norms or through the restriction of your
-choices. Your culture affects your biology. However, if your biology limits what
-you can eat, perhaps with some kind of digestion issue, your biology affects how
-you exist within culture. You may only be able to eat the unhealthy foods your
-culture gives as an option. In this case, biology and culture come together to
-affect itself. The distinction between biology and culture stops functioning
-properly, because they intersect to have several effects, caused by your
-bioculture.
+Recently, a professor of mine shared a talk she gave at a conference a few years
+back on Bioarchaeology (which is simply the excavation and study of human
+biological remains.) In it, she makes a very important note at the beginning, a
+disclaimer: she states that while Bioarchaeologists can _sometimes_ infer sex
+from bones, this is not the same thing as gender, that these are discrete
+categories. She, of course, proceeded to actively gender each and every
+individual she discussed.
 
-In essence, this approach rejects the idea that culture interprets biology. No,
-in fact, culture influences biology, and biology influences culture. If my
-culture shifts from a foraging economy to an agricultural economy, I may end up
-with more cavities due to a greater reliance on grain. Culture directly affects
-biology.
+What is interesting here is not that a cishet archaeologist chose to gender
+their skeletons. Nor is it particularly surprising to me that a liberal
+archaeologist did so while citing the sex/gender division as a protective oath
+in the manner of a land acknowledgement. Rather, what is most interesting to me
+is how this reveals how the sex/gender division casts each of these concepts for
+the average academic, in particular.
 
-## Refuting the Gender/Sex Distinction, for Anthropology
+Just a single layer underneath this conception of sex/gender lies a deeper idea
+that while gender is a fluid, cultural, _subjective_ element, sex is objective.
+Sex is scientific. Sex is observable, predictable, determined. Sex is
+_objective_. While this notion casts itself as a progressive impulse of noting
+the variablity and cultural definition of gender, what it is actually doing is
+protecting the presumed objectifity of sex.
 
-The first time I _really_ got into Gender Studies was when I watched
-[How Conservatives Invented Gender Studies](https://www.youtube.com/watch?v=QLWKYTxLYT4)
-from Alexander Avila. What most stuck out to me in this video was when he
-pointed out that the idea of gender and sex as being separate things was _not at
-all_ an idea that came from Gender Studies, or queer people at all for that
-matter. In fact, it came from cis people trying to justify gender roles in the
-face of intersex people's existence. To make it brief, as they realized that sex
-was _not_ binary, they rationalized binary gender as a separate, still natural
-and essential, phenomenon from sex. Frankly, the idea of being "biologically"
-your assigned gender at birth is quite distressing for most trans people. It
-rationalizes and justifies the transphobic narrative that we are distorting
-reality and subverting the natural order of things. The understanding that the
-Gender/Sex Distinction was in fact a construction by binary gender essentialists
-was incredibly comforting and empowering to me as a trans person.
+When she spoke, I was a little disturbed. Yes, absolutely, for myself and the
+queer community, but also because of the subject matter. Because, it positions
+our specific understanding of sex as not just accurate but in fact universal.
+That, in every moment of time, sex acts as a simplistic, scientific feature. In
+fact, this is rather colonial. We argue sex is of the bones. But who might
+disagree? We may think that, from just a few bones, we can dictate and govern an
+individuals' sex, and that this matters. Who may disagree?
 
-This is why I am so disturbed each time I hear a professor of mine make
-reference to the Gender/Sex Distinction. When they do so, it naturalizes and
-enforces a binary and essential stratification upon us. _It_ is what distorts,
-corrupts, and subverts reality. It delegitimizes my reality and imposes their
-own construction of what is and what can be onto me, demanding I accept that I
-am somehow "biologically male" regardless of how I look, how I speak, how I
-dress.
+Will you let the bones speak? What will they say? Perhaps we may hear whispers
+emanating from their mandible, yet are too busy analyzing their teeth for
+chromosomes. Perhaps if we put our ear right up to their ribs, we will hear the
+beat of a heart undefined by our society, yet we cannot even begin to fathom
+what that could be. Wrap your hand around their femur, and you will feel the
+aroma of the individual, yet all we can do is compare its circumference to our
+sheet of preconceived ratios and expectations.
 
-Some of my professors have talked at length about how we can decolonize
-Anthropology. But I say that to talk about "decolonizing" Anthropology is easy,
-yet there's no such thing as decolonization without radicalization. And to
-radicalize Anthropology, we must reject the fundamental colonial and
-essentialist paradigms with which we are armed.
+Instead, we conquer. We speak for the bones, and tell the world that they are
+exactly in line with how we happen to view the world. Isn't it so convenient
+that we can cleanly cleave off gender from sex like a doctor cleaves off an
+infected limb? We must not let the infection spread. We must not let the bones
+speak.
 
-So here's my first step towards radicalizing Anthropology: the Culture/Biology
-Distinction is to Anthropology what the Gender/Sex Distinction is to Gender
-Studies. It denies the reality that these things came at the same time,
-intimately influence one another, and are fundamentally oppressive power
-structures. In reality, gender constructs sex, and sex constructs gender. Gender
-is not simply the "interpretation" of sex, and to posit such an idea is to
-construct hierarchy between the validity of these two concepts.
+### Oh, the modifications you will make!
 
-## Concluding Remarks
+If gender is so untethered to the body, then oh why must we change it? For
+years, I struggled with this question. I struggled to reconcile my endless
+desire for the modification of the body with the unyielding demands of feminist
+philosophy. You see, if I am separated into the body and the mind, the former
+holding sex and the latter holding gender, then why must I exert my mind onto my
+body?
 
-Gender/Sex is understood by the people around you both biologically and
-culturally, both by how you look and how you act, how others treat you and how
-your body is—if a person has boobs, then according to the Gender/Sex
-Distinction, that person is, at least in some way, "biologically female," right?
-Guess what: the sitting President of the United States of America has boobs. To
-refer to "biological sex" is functionally meaningless because it is not just our
-biology that matters when it comes to gender/sex, it is also our culture to such
-an extent where these two blend and influence one another that they become,
-functionally, the same. I modify my biology by shaving my legs because our
-culture says that less body hair is more feminine. People treat me differently
-culturally because my biology is more feminine—or, as a darker example, I have
-to justify my cultural expression because I had testosterone running through my
-body for years.
+The core idea here is body issues. My mom recently told me that in college, she
+wrote a paper on this subject. In it, she argued that trans people should not
+make such intensive modifications to their body. That trans people should,
+instead, socially transition, sure, but not quite take hormones, absolutely not
+get surgery. Because isn't that just plastic surgery, the desire of which
+derived from body issues implanted in them by patriarchy and transphobia?
 
-These are not separable. Does this mean that, in many ways, my gender/sex is
-different from a cis woman's? Yes, of course! It also means that one cis woman's
-gender/sex is different from another's. Does a tall, hairy cis woman experience
-gender/sex in our culture that defines femininity in accordance with white
-supremacist standards the same way as a short, skinny cis woman? No. This also
-highlights that my biology is not the same as a cis man's. I am not
-"biologically male," lmao. Honestly, the fact that some people think that is
-kind of hilarious to me, because it is so painstakingly obvious to me that that
-is not true, as someone who lives it.
+God, there is such an allure to the argument. Its seductive logic intoxicates
+me, begs me to embrace it, to deny my desires, to fulfill its demands. And yet,
+like another substance that has a rather intoxicating effect, its consequences
+seem undesirable and toxic. Why must I forgo the modification of the body? Is my
+desire for modification purely derived from body issues?
 
-Gender/Sex is biocultural. Just as to place an essential distinction between
-biology and culture denies the nuanced reality of humanity, so to does the
-essential distinction between gender and sex. Do these things differ?
-Absolutely. But fundamentally, they must be understood as intersecting, with a
-tight relationship, influencing and affecting one another.
+There's a certain narrative all trans people (especially those who undergo
+medical transition) know. (I will be telling it from my perspective, as a
+transfem.) I was born a woman. I have known my whole life. When I was young, I
+used to wish to wake up as a girl. Sometimes, I'd dream it. When I look into the
+mirror, I expect to see a woman, and feel misery when I don't. I used to dress
+up in my mother's or my sister's clothes when I was home alone. I've tried to
+deny it and hide it my whole life, but I can't anymore.
+
+Do I believe most of this? No, not really. But we don't tell it because we
+believe it. We tell it because we know it's what they want to hear. The doctors.
+The therapists. The pyschoanalysts. Our parents. Our employers. Our teachers.
+Sometimes even our loved ones.
+
+And if we do not tell it, our desires, our needs, and our medication will be
+delayed and denied.
+
+But what does this narrative _really tell_? Where does it _really come from_? At
+its core, the narrative tells a story of two components of being: sex and
+gender. When we tell it, we are telling them that our gender is out of phase
+with our sex. And it's not like you can modify gender, right? That's simply the
+essence of our true self! So we modify the body.
+
+But what is a true self? And what the hell is the essence of it? Queer people
+are often casted as finding our true self. We do not choose to be gay, we are
+born this way. We come out and say, "this is me." We cast ourselves in this
+light for a very specific purpose―to appeal to the essence of gender. And in so
+doing, we justify our desires for the modification of our sex with a narrative
+of pain and dislocation. We say, "imagine if you were in the body of the
+opposite sex!" As if that is all there is to our experience.
+
+Surely, for many, even most, this is a critical component. But is it all? Is it
+the strongest motivator? I am not so sure.
+
+Considering the paper my mother once wrote, it hinges on the false idea that
+trans people transition out of pain. But do we always? To some extent, I did.
+But you know what else I transitioned for? The joy. The _euphoria_. The
+happiness and ecstasy one feels when they look into their mirror and see their
+"[Dream Girl]()." Oh, the modifications we make. It is ecstatic and joyful and
+just fucking awesome.
+
+It was never that my gender was out of phase with my sex. I do not modify myself
+simply to bring my sex in line with my gender. What a bland and boring
+narrative. I am glad I no longer must tell it.
+
+---
+
+## 
