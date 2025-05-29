@@ -179,4 +179,49 @@ narrative. I am glad I no longer must tell it.
 
 ---
 
-## 
+While it is said that this division is for us, it should be abundantly clear
+this is a lie. It is not for us. In fact, it is an accomodation of our existence
+to fit within an inherently queerphobic framework. But why? When? And How? These
+are the questions we must ask, before moving forward.
+
+## Biology: A Crisis of Faith
+
+It has recently become abundantly clear that sex in nature is in fact not
+binary, male/female, and does not really conform to our prescriptions of what it
+"should" be. But how long have we actually known this? Is this actually a new
+discovery?
+
+With the closing of the nineteenth century, the field of biology had a bit of a
+revolution. The discovery of evolution heralded in a new era of research and
+discovery. Biology would never be the same. And importantly, neither would
+"Sex."
+
+Alexander Avila, in his video essay _How Conservatives Invented Gender
+Ideology_, charts the history of what is today labeled by the far-right "Gender
+Ideology." In it, he notes a critical component being exactly what we are
+discussing here toady: the sex/gender division. In discussion of its formation,
+he considers this revolution in biology. As biologists began to study sex, they
+were on the edge of their seats. Finally, they thought, they would
+
+> find some kind of final Essence, some fundamental distinguishing characters
+> that would finally explain all of the assumed differences between men and
+> women. The masculine and feminine. The metaphor to end all metaphors. The
+> logic of difference itself. But instead, they found something else.
+> (43:21-43:38)
+
+Obviously, they did not find any kind of essence to establish patriarchy in
+science[^1]. In fact, they found something deeply challenging. Biologists
+quickly found that, like my previous blogpost,
+[_Liberating Biology_](/blogposts/post-8), points out, nature is actually rather
+_queer_:
+
+> Biologists discovered that sex wasn't actually
+
+[^1]: Interestingly, science still seems a bit stuck on this pursuit. The gender
+    gene, which itself deserves a whole blogpost, is incessently discussed. Even
+    in _Bitch_, the author can't help but think about the essential difference
+    between men and women. She, of course, points it to the sexual
+    differentiation of men for reproduction. But is there really any essential
+    difference between men and women? Even in the realm of "Sex," whatever that
+    means? The very fact that our society is so transfixed on this pursuit is
+    itself enlightening. But why must there be any difference at all?
