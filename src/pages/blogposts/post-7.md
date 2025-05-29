@@ -220,7 +220,7 @@ _queer_:
 > bodily communication all intertwined with other functional systems. Biologists
 > found that many species were naturally "intersexual," or at least that most
 > lifeforms carried diverse sexual potentials. And they eventually came to find
-> that humans weren't so different.
+> that humans weren't so different. (43:49–44:16)
 
 Now, I hope this isn't news to you. But let's really put this in perspective. In
 western tradition, maleness and femaleness are seem as fundamentally in
@@ -259,9 +259,97 @@ that's fair, because it's not like gender is a physical feature.
 
 In the early part of the nineteenth century, biologists encountered a crisis of
 faith. And in order to save their faith in dualist gender, they severed gender
-from sex.
+from sex. As Avila puts it,
 
-### The Construction of Gender
+> They assumed that nature would give them that coherence, and when it didn't,
+> they created that coherence at the expense of the lives they labeled
+> incoherent. (57:28–57:37)
+
+This is the history of gender, the supposed savior of the trans community.
+
+## Moving Forward: Constructing a New Framework
+
+If the very framework on which our existence rests is in fact antithetical to
+our existence, then it should be no wonder that we feel insane. Hermeneutical
+injustice is so integral to our existence that it is literally our founding
+feeling. So how do we move forward? How can we reframe and re-envision our
+existence to justify itself? What can we turn to?
+
+At times, it feels impossible to keep going. Struggling against the words of our
+professors, the contradictions of the narratives we must tell, the violence of
+our founding hermeneutics, the imprisonment, the policing, the murders, the
+lies, the hate. And yet, we know we must. But if we are ever to do more than
+survive, we must create new narratives for us, not for our doctors. We must
+undermine the ontology of gender and liberate our possibilities for us all. And
+we must reunite our bodies with our selfs.
+
+In the conclusion of _Gender Trouble_, Judith Butler closes by arguing that we
+must "denaturalize" gender and thereby end the policing of it. Is the crux of
+the problem that we must justify that we truly "biogals," natural women and
+truly born to be such, or that there is even the conception of a "proper woman"?
+Is the problem that our sex does not necessarily imply a gender, or that
+anything ever could possibly imply, demand, or enforce a gender? Is the problem
+that others see our gender differently than we believe is right, or that we
+attempt to justify some kind of gendered essence?
+
+I believe that to move forward, we must move beyond gender―that is not to say we
+must forgo its existence, but that the framework must begin with the element our
+society deems indiscutable, that is, sex.
+
+### The Body: Not Just a Vessel, but The Performance
+
+On my first read through of _Gender Trouble_, I interpreted gender to be the
+focus of discussion, and the theory of performativity to be deeply focused on
+it. I really struggled with the book, not just intellectually, but personally. I
+felt so conflicted. Because if gender is nothing more than a performance, a
+"doing" that only creates the illusion of a natural gender, then what is the
+justification for altering our sex to align with our gender? If there is no
+natural gender, then why not just be the sex we are assigned at birth?
+
+After about a year of contemplation and further exploration, I have realized
+that my internalization of the sex/gender division greatly misled me on my
+reading of Butler. The theory of gender performativity is obviously discussing
+something fluid, cultural, constructed, and according to the sex/gender
+division, must therefore be speaking exclusively of gender―after all, sex isn't
+cultural at all, is it?
+
+But the body is not simply a vessel in which the performance of genders
+transpires. Rather, the body itself _is_ the performance. The body is not merely
+a surface onto which gender is inscribed, but is itself the substance of the
+performance.
+
+How do we define the body? Is it the raw muscle and bones, the color and finish
+of the skin, the structure of the chest and limbs, the extent of protrusion of
+the hips? Is it the chromosomes, the genes, the blood? Is it the ribcage, the
+femur, the pelvis? What _really_ is the body?
+
+If you're at all into style, you are probably well aware that the clothes one
+adorns modifies the body. It morphs, mutates, and modifies the silhouette, can
+alter the way you are viewed and gendered. From one set of clothes to another,
+an observer may think you are male, female, or simply be confused.
+
+What about when I put on my makeup? The eyeliner changes the shape of my face.
+The blush alters the texture of my expression. The lip tint enlarges or shrinks
+my lips. At will, I can alter the vessel I inhabit. I can morph and mold the
+substance of my being―_that_ is the performance.
+
+Why must the performance be a window into the deeper essence of the self? Why
+must there be an essence to the self? Shortly before I realized I was
+transgender, I tried to adopt some masculine characteristics. I bought
+masculine-smelling deodorant for literally the first time in my life, tried to
+find a more masculine style beyond the bland sweatpants-and-t-shirt style I
+could bare wearing, and thought I'd be happier if I just was a bit better at
+being a dude. I learned into the performance in the way society told me I must,
+and it really didn't make me any happier. But is it that the cause of
+unhappiness is a disconnect from performance and internal sense of gender, or
+that I just really didn't like performing my body in such a way, didn't like
+that particular substance of being?
+
+This is an alternate narrative that I have felt for a while. But recently, one
+more piece of the puzzle has come into focus, something I have discovered within
+the realm of Anthropology: Bioculture.
+
+## Bioculture: A Reintegration of Gender Into the Body
 
 [^1]: Interestingly, science still seems a bit stuck on this pursuit. The gender
     gene, which itself deserves a whole blogpost, is incessently discussed. Even
