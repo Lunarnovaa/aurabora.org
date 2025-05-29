@@ -207,7 +207,7 @@ were on the edge of their seats. Finally, they thought, they would
 > that would finally explain all of the assumed differences between men and
 > women. The masculine and feminine. The metaphor to end all metaphors. The
 > logic of difference itself. But instead, they found something else.
-> (43:21-43:38)
+> (43:21–43:38)
 
 Obviously, they did not find any kind of essence to establish patriarchy in
 science[^1]. In fact, they found something deeply challenging. Biologists
@@ -215,7 +215,53 @@ quickly found that, like my previous blogpost,
 [_Liberating Biology_](/blogposts/post-8), points out, nature is actually rather
 _queer_:
 
-> Biologists discovered that sex wasn't actually
+> Biologists discovered that sex wasn't a simple binary division symbollically
+> contained in a genital. Sex was a complex system of hormones and internal
+> bodily communication all intertwined with other functional systems. Biologists
+> found that many species were naturally "intersexual," or at least that most
+> lifeforms carried diverse sexual potentials. And they eventually came to find
+> that humans weren't so different.
+
+Now, I hope this isn't news to you. But let's really put this in perspective. In
+western tradition, maleness and femaleness are seem as fundamentally in
+opposition to one another―dualist in nature (and that concept of "nature" is
+extremely important). Women were feminine, delicate, weak, submissive, and men
+were strong, dominant, powerful, clever. These concepts existed in totalizing
+opposition to one another, and each independently had a constructed image of
+what is and is not "proper"―a "proper" man, a "proper" woman.
+
+So what happens when the science, then a newfound weapon of empire, begins to
+fail to confirm these beliefs? Well, what occurs is a crisis.
+
+Frederick Nietzsche wrote excessively about "Nihilism." In sum, he argued that
+as science, particularly biology, began to bear fruit invalidating the church's
+arguments of God and Heaven, Europe would begin to have a crisis of meaning. In
+other words, "God is dead, and we have killed Him." And when this crisis of
+faith transpires, there is nowhere to go but down. Nietzsche argued one reaction
+to Nihilism was that, if God's Objectivity did not actually exist, we must
+create our own God. In eugenics, we are our own God. In Nazi Germany, Hitler is
+God. And in biology, Gender is God.
+
+On the dawn of these breakthroughs, the entire sexed structure of society began
+to fall apart. "Sexism" as an ordering of society crumpled to dust. But, of
+course, there would be a saving grace.
+
+At its core, the sex/gender division frees gender from sex. And that means that
+we can freely modify gender regardless of sex. So when intersex children are
+born, we do just that. We mutilate them without their permission, we tell them
+how they must act, how they must dress. We assign each and every baby born in a
+hospital a gender and tell them that is what they are, regardless of their sex.
+And when some of us later say, "Actually, I'm this gender," that's okay, because
+it's not like we're suggesting that the entire framework of gender is flawed. In
+fact, we're validating it. We are telling the world that, despite our sex, we
+are either male or female! Sometimes the doctors just get it a little wrong. And
+that's fair, because it's not like gender is a physical feature.
+
+In the early part of the nineteenth century, biologists encountered a crisis of
+faith. And in order to save their faith in dualist gender, they severed gender
+from sex.
+
+### The Construction of Gender
 
 [^1]: Interestingly, science still seems a bit stuck on this pursuit. The gender
     gene, which itself deserves a whole blogpost, is incessently discussed. Even
