@@ -345,9 +345,10 @@ unhappiness is a disconnect from performance and internal sense of gender, or
 that I just really didn't like performing my body in such a way, didn't like
 that particular substance of being?
 
-This is an alternate narrative that I have felt for a while. But recently, one
-more piece of the puzzle has come into focus, something I have discovered within
-the realm of Anthropology: Bioculture.
+This is an alternate narrative that I have felt for a while. There is certainly
+an appeal to it, but I have still felt that it is missing _something_. Recently,
+however one last piece of the puzzle has come into focus, something I have
+discovered within the realm of Anthropology: Bioculture.
 
 ## Bioculture: A Reintegration of Gender Into the Body
 
