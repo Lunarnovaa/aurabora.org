@@ -374,6 +374,58 @@ culture: Bioculture.
 
 ### A Biocultural Account of Sex, The Body, and Gender
 
+Bioculture is a simple portmanteau of the words "Biology" and "Culture." Its
+meaning reflects that, attempting to highlight that to understand a person's
+biology without understanding their culture in conjunction is a grave error. For
+example, if we are to understand hair, we must understand not just biology, but
+culture: is it purely biological how the hair is cut? To what length? How about
+its style? As a quick example on that note, is it simply biological that, in our
+society, girls tend to have long hair, and boys tend to have short hair? Is it
+purely cultural? It's both. The form of the hair is often biological (for
+example, I tend to have wavy hair, but others may have straight), but its cut
+can be cultural. It can also be biological. People on chemo tend to have no hair
+at all. Is that cultural? Or is it biological? Again, its both.
+
+Let's take this hair metaphor and start running with it. Did you know that
+testosterone makes your hair a bit thicker? So when I started my transition, the
+first thing I did was get my hair cut―a cultural modification to a biological
+component. But when I began taking estrogen, my hair thinned out a bit―a
+biological alteration to a cultural component. Do you see how these two
+structures are so intimately interlinked, it can often be exceedingly difficult
+to separate them? It would be more accurate to describe them as a dense mesh, a
+network that pulls and pushes in on itself, tangles and expands, than merely two
+factors that feed into one another. At a certain point, it becomes so impossible
+to separate them, we label them as one.[^3]
+
+Let's take this one step further. What if I was in a society where short hair
+was considered feminine, and long hair was considered masculine? When I came
+out, I would've had long hair. And rather than getting a minor, feminine cut and
+then growing it out, I would've simply cut it short, and continued to do so. But
+still, when I took estrogen, my hair would thin out a bit. So here we have two
+slightly different modification to the body, each influenced by our culture, and
+influenced by biology, ultimately resting in this intersection between our
+conception of "feminine" and our body's reaction to a given
+instruction-set―estrogen.
+
+I believe that "The Body" is this intersection. That substance that I talked
+about is _far_ from authoritative, but it is more like a symbolic product of
+Sex, which is the biological instruction-set (and is incredibly mutable and not
+at all binary) and Gender, which is the cultural interpretation of physical
+elements. "The Body" is not really anything, rather, it is an illusion―a sock
+puppet―between the light of Gender (the intensity and hue of which influences
+the illusion) and the blocking object of Sex (the shape and transparency of
+which likewise influences the illusion).
+
+Understanding The Body to be not an authority but a product reveals the
+dimensions of it and free us to explore each and every component of this
+illusion in the fullest sense. It is not that our body is irrelevant, or that
+there is no "Gender Identity" that matters (which produces a kind of authority
+of "Gender Expression"), but that each and every one of these compenents
+influence one another in a tight-knit web of order, consequence, and influence,
+producing the final product: The Body.
+
+### What is Identity? Or, Feeling Gender
+
 [^1]: Interestingly, science still seems a bit stuck on this pursuit. The gender
     gene, which itself deserves a whole blogpost, is incessently discussed. Even
     in _Bitch_, the author can't help but think about the essential difference
@@ -394,3 +446,13 @@ culture: Bioculture.
     of gender performativity denies a "being" (_especially_ pre-discursive) of
     gender, instead arguing that the "doing" of gender creates the illusion of a
     "being."
+
+[^3]: For a fascinating comparison, just like we have begun to consider biology
+    and culture so interlinked we label them in conjunction, so too have the
+    connections between plants and fungus become so well known that we now label
+    them as one: micorrhiza. In fact, the very products of "plants" are
+    literally modified by and dependent on the fungus that make up the
+    mycorrhiza. That fruit you're eating? It's not just of a plant, but of the
+    relationship between plants and fungus. For more information, I strongly
+    recommend checking out _Entangled Life: How Fungi Make Our Worlds, Change
+    Our Minds & Shape Our Futures_ by Merlin Sheldrake.
