@@ -420,11 +420,51 @@ Understanding The Body to be not an authority but a product reveals the
 dimensions of it and free us to explore each and every component of this
 illusion in the fullest sense. It is not that our body is irrelevant, or that
 there is no "Gender Identity" that matters (which produces a kind of authority
-of "Gender Expression"), but that each and every one of these compenents
+of "Gender Expression"), but that each and every one of these components
 influence one another in a tight-knit web of order, consequence, and influence,
 producing the final product: The Body.
 
-### What is Identity? Or, Feeling Gender
+## One Final Question, Two Final Answers: Feeling Gender
+
+There is one last question that I believe needs answering. What is it that
+compels us to construct our Body in the way that we desire? What creates,
+envisions, and maintains this desire in ourselves? What leads to its drifting
+throughout our life? Why, or as what, do we feel Gender?
+
+To be honest, I don't really have a good answer. And I don't really want to. I
+feel gender because I do. I continuously reformulate my Body as I do because I
+wish to, for fun, for exploration, simply to satisfy the interest, the need,
+itself. If you wish to pose, suggest, or advocate for an answer, be my guest.
+But do we need one? Do we need a justification to reimagine our selfs?
+
+If you are looking to explore this question, I will leave a few breadcrumbs to
+follow―beware, they may lead you astray. First is the primacy of the self, in
+that we are strangely born with some kind of desire, path, or goal we must
+pursue. This path suggest some kind of determinism or pre-destination, a
+simplistic and neat (but not necessarily incorrect) answer that allows us to
+pursue our paths as we desire without fear.
+
+The alternative path is perhaps more treacherous. If you align yourselves with
+the post-modernists, the very idea of an original essence may leave your stomach
+turning, and you may desire another path away. Perhaps there is no
+pre-discursive self, no pre-destined path, no determined desire. Instead,
+perhaps, just as The Body is a admonious admixture of Gender and Sex, so too is
+that feeling you are imbued with one of every experience you and your family has
+felt―every sight, every word, every feeling, every scent, every touch, each and
+every bit of your existence mixing into a certain kind of soup unique enough so
+that none will ever share it with you. Perhaps it, like everything else, is in
+large part a product of some form of socialization, of cultural narratives and
+metaphors, of stories told to you at bedtime (or simply the lack thereof), of
+characters and plotlines and settings you found yourself enraptured in at a
+young age. And if you were to ever look back at any of these components, none of
+it would add up, or perhaps all of it would, in a special kind of way that you
+could never predict, simply because at a certain point, the whole becomes too
+divergent to break into its parts.
+
+Regardless of your answer, if you have one at all, I hope you've learned
+something from this post. I hope you look at the world just a little bit
+differently. But most of all, I hope you look at yourself just a little bit
+differently, and I hope you can never look at your self the same way again.
 
 [^1]: Interestingly, science still seems a bit stuck on this pursuit. The gender
     gene, which itself deserves a whole blogpost, is incessently discussed. Even
