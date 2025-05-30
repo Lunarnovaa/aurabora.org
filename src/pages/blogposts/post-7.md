@@ -25,7 +25,7 @@ hermeneutics.
 
 My guiding light, through all of this, has been the body. The body is not merely
 a physical form as either a vessel or a prison of gender. Rather, it is the very
-core of my experience. In dealing with this hermeneutical injustice, the body
+core of my experience. In dealing with this hermaneutical injustice, the body
 has offered me safety and continuity, heralding me through my transition even as
 I struggle against the only frameworks I am offered to interpret my existence.
 
@@ -43,68 +43,68 @@ that must be understood, deconstructed, and reconstructed in our own image.
 
 ## All Too Common: The Sex/Gender Division
 
-If you have been in the queer community for much time, you have almost certainly
-heard this idea. Simply put, it is that while a person may be of a certain sex,
-that does not necessarily follow that they are of a certain gender. In essence,
-this critical conception of sex/gender argues these two be two wholey discrete
-and independent categories. That they do not necessarily align, do not
-necessarily bundle, they exist separately. It maintains sex as a specific,
-biological category of male/female, but constructs gender to explain away all
-those who do not fit into this binary.
+Most allies and queer people have heard of the sex/gender division. Simply put,
+it is that while a person may be of a certain sex, that does not necessarily
+follow that they are of a certain gender. In essence, this critical conception
+of sex/gender argues these are two wholly discrete and independent categories.
+That they do not necessarily align, and do not necessarily bundle―rather, they
+exist separately. It maintains sex as a specific, biological category of
+male/female (although occasionally includes intersex), but constructs gender to
+mold all those who do not cleanly conform to the binary into a different kind of
+binary for the interpretation of the outsider.
 
 In its contemporary conception, this acts as the foundation on which trans
 identity rests. It is critical in fields like Anthropology, which finds its neat
-dividing line to be oh so alluring, oh so seductive. And certainly, it is a very
-seductive metaphor.
+dividing line to be intimately alluring and seductive. And certainly, it is a
+very neat little framework.
 
-Each time I notice the sex/gender division in my life, it becomes clear it was
-never made for us. It was never made for queer individuals. It was made by and
-for cishet folks. It is specifically such a simplistic, neat little idea that
-separates the complex from the simplistic, that it appears, on first glance, to
-be a rather liberating idea. But the deeper we inspect it, the more disturbing
-that very idea becomes. For this neat dichotomy between sex and gender does not
-actually account for the complex reality. Rather, it serves to mask it, and
-allow those who adopt it to end the conversation there.
+Yet each time I notice the sex/gender division in my life, it becomes ever more
+clear it was never made for us. It was never made for queerness. It was made by
+and for cishet folks. It is specifically such a simplistic, neat little idea
+that separates the complex from the simplistic, that it appears, on first
+glance, to be a rather comfortable idea. But the deeper we inspect it, the more
+disturbing that very idea becomes. For this neat dichotomy between sex and
+gender does not actually account for the complex reality. Rather, it serves to
+mask it, and allow those who adopt it to end the conversation there.
 
 ### I am the bones that are speaking to you
 
 Recently, a professor of mine shared a talk she gave at a conference a few years
-back on Bioarchaeology (which is simply the excavation and study of human
-biological remains.) In it, she makes a very important note at the beginning, a
-disclaimer: she states that while Bioarchaeologists can _sometimes_ infer sex
-from bones, this is not the same thing as gender, that these are discrete
-categories. She, of course, proceeded to actively gender each and every
-individual she discussed.
+back on bioarchaeology (which is simply the excavation and study of human
+biological remains). In it, she makes a very important note, a disclaimer: she
+states that while bioarchaeologists can _sometimes_ infer sex from bones, this
+is not the same thing as gender, that these are discrete categories. She, of
+course, proceeded to actively gender each and every set of bones she discussed.
 
 What is interesting here is not that a cishet archaeologist chose to gender
 their skeletons. Nor is it particularly surprising to me that a liberal
 archaeologist did so while citing the sex/gender division as a protective oath
 in the manner of a land acknowledgement. Rather, what is most interesting to me
-is how this reveals how the sex/gender division casts each of these concepts for
-the average academic, in particular.
+is that this reveals who the sex/gender division is _really_ for: the academic.
 
 Just a single layer underneath this conception of sex/gender lies a deeper idea
-that while gender is a fluid, cultural, _subjective_ element, sex is objective.
-Sex is scientific. Sex is observable, predictable, determined. Sex is
+that while gender is a fluid, cultural, _subjective_ element, sex isn't like
+that. Sex is scientific. Sex is observable, predictable, determined. Sex is
 _objective_. While this notion casts itself as a progressive impulse of noting
-the variablity and cultural definition of gender, what it is actually doing is
-protecting the presumed objectifity of sex.
+the variation and cultural definition of gender, what it is actually doing is
+protecting the presumed objectivity of sex.
 
 When she spoke, I was a little disturbed. Yes, absolutely, for myself and the
 queer community, but also because of the subject matter. Because, it positions
 our specific understanding of sex as not just accurate but in fact universal.
 That, in every moment of time, sex acts as a simplistic, scientific feature. In
-fact, this is rather colonial. We argue sex is of the bones. But who might
-disagree? We may think that, from just a few bones, we can dictate and govern an
-individuals' sex, and that this matters. Who may disagree?
+fact, I would go as far as to argue this is rather colonial. We argue sex is of
+the bones. But who might disagree? We may think that, from just a few bones, we
+can dictate and govern an individuals' sex, and that this matters. Who may
+disagree?
 
 Will you let the bones speak? What will they say? Perhaps we may hear whispers
 emanating from their mandible, yet are too busy analyzing their teeth for
-chromosomes. Perhaps if we put our ear right up to their ribs, we will hear the
-beat of a heart undefined by our society, yet we cannot even begin to fathom
-what that could be. Wrap your hand around their femur, and you will feel the
-aroma of the individual, yet all we can do is compare its circumference to our
-sheet of preconceived ratios and expectations.
+chromosomes. Maybe if we put our ear right up to their ribs, we will hear the
+beat of a heart in an incomprehensible form from our limited perspective,
+failing to even begin to fathom what that could be. Wrap your hand around their
+femur, and you will feel the history of their struggles, yet all we can do is
+compare its circumference to our sheet of preconceived ratios and expectations.
 
 Instead, we conquer. We speak for the bones, and tell the world that they are
 exactly in line with how we happen to view the world. Isn't it so convenient
@@ -112,21 +112,26 @@ that we can cleanly cleave off gender from sex like a doctor cleaves off an
 infected limb? We must not let the infection spread. We must not let the bones
 speak.
 
+This is the danger of constructing the body as little more than a piece of meat
+for our objective study. Will we ever be able to look at a body and see it
+beyond how we see our own bodies? Will we ever find the courage to refuse to
+speak for the bones?
+
 ### Oh, the modifications you will make!
 
-If gender is so untethered to the body, then oh why must we change it? For
-years, I struggled with this question. I struggled to reconcile my endless
-desire for the modification of the body with the unyielding demands of feminist
-philosophy. You see, if I am separated into the body and the mind, the former
-holding sex and the latter holding gender, then why must I exert my mind onto my
-body?
+If gender is so untethered from the body, then why must we change it? For years,
+I struggled with this question. I struggled to reconcile my endless desire for
+the modification of my body with the unyielding demands of what I was told of
+feminist philosophy. You see, if I am separated into the body and the mind, the
+former holding sex and the latter holding gender, then why must I exert my mind
+over my body?
 
 The core idea here is body issues. My mom recently told me that in college, she
 wrote a paper on this subject. In it, she argued that trans people should not
-make such intensive modifications to their body. That trans people should,
-instead, socially transition, sure, but not quite take hormones, absolutely not
-get surgery. Because isn't that just plastic surgery, the desire of which
-derived from body issues implanted in them by patriarchy and transphobia?
+make such intensive modifications to their body. That trans people could
+socially transition, sure, but not quite take hormones, absolutely not get
+surgery. Because isn't that just plastic surgery, the desire of which is derived
+from body issues implanted in us all by patriarchy and transphobia?
 
 God, there is such an allure to the argument. Its seductive logic intoxicates
 me, begs me to embrace it, to deny my desires, to fulfill its demands. And yet,
@@ -134,18 +139,18 @@ like another substance that has a rather intoxicating effect, its consequences
 seem undesirable and toxic. Why must I forgo the modification of the body? Is my
 desire for modification purely derived from body issues?
 
-There's a certain narrative all trans people (especially those who undergo
-medical transition) know. (I will be telling it from my perspective, as a
-transfem.) I was born a woman. I have known my whole life. When I was young, I
-used to wish to wake up as a girl. Sometimes, I'd dream it. When I look into the
-mirror, I expect to see a woman, and feel misery when I don't. I used to dress
-up in my mother's or my sister's clothes when I was home alone. I've tried to
-deny it and hide it my whole life, but I can't anymore.
+There's a certain narrative all trans people know, especially those who
+medically transition. (I will be telling it from my perspective, as a transfem.)
+I was born a woman. I have known my whole life. When I was young, I used to wish
+to wake up as a girl. Sometimes, I'd dream it. When I look into the mirror, I
+expect to see a woman, and feel misery when I don't. I used to dress up in my
+mother's or my sister's clothes when I was home alone. I've tried to deny it and
+hide it my whole life, but I can't anymore.
 
 Do I believe most of this? No, not really. But we don't tell it because we
-believe it. We tell it because we know it's what they want to hear. The doctors.
-The therapists. The pyschoanalysts. Our parents. Our employers. Our teachers.
-Sometimes even our loved ones.
+believe it. We tell it because we know it's what they want to hear. Our doctors.
+Our therapists. Our parents. Our employers. Our teachers. Sometimes even our
+loved ones.
 
 And if we do not tell it, our desires, our needs, and our medication will be
 delayed and denied.
@@ -157,22 +162,27 @@ with our sex. And it's not like you can modify gender, right? That's simply the
 essence of our true self! So we modify the body.
 
 But what is a true self? And what the hell is the essence of it? Queer people
-are often casted as finding our true self. We do not choose to be gay, we are
-born this way. We come out and say, "this is me." We cast ourselves in this
-light for a very specific purpose―to appeal to the essence of gender. And in so
-doing, we justify our desires for the modification of our sex with a narrative
-of pain and dislocation. We say, "imagine if you were in the body of the
-opposite sex!" As if that is all there is to our experience.
+are often cast as finding our true self. We do not choose to be gay, we are born
+this way. We come out and say, "this is me!" We cast ourselves in this light for
+a very specific purpose―to appeal to this framework of gender. And in so doing,
+we justify our desires for the modification of our sex with a narrative of pain
+and dislocation. We say, "imagine if you were in the body of the opposite sex!"
+As if that is all there is to our experience.
 
 Surely, for many, even most, this is a critical component. But is it all? Is it
 the strongest motivator? I am not so sure.
 
 Considering the paper my mother once wrote, it hinges on the false idea that
-trans people transition out of pain. But do we always? To some extent, I did.
-But you know what else I transitioned for? The joy. The _euphoria_. The
-happiness and ecstasy one feels when they look into their mirror and see their
-"[Dream Girl]()." Oh, the modifications we make. It is ecstatic and joyful and
-just fucking awesome.
+trans people transition exclusively out of pain. But do we always? To some
+extent, I did. But you know what else I transitioned for? The joy. The
+_euphoria_. The happiness and ecstasy one feels when they look into their mirror
+and see their
+"[Dream Girl](https://open.spotify.com/track/0TNE9XzcP1uXWmhoyp3nFo)." The
+modification we make are not to save us from our pain, or to free us from the
+cage of our bodies. The modifications we make are the freedom, not from our
+bodies, but to our agency. It is so freeing, so liberating, and so euphoric to
+have that agency over your own body, and experiment with gender in however you
+please. This is why we transition.
 
 It was never that my gender was out of phase with my sex. I do not modify myself
 simply to bring my sex in line with my gender. What a bland and boring
@@ -198,13 +208,13 @@ discovery. Biology would never be the same. And importantly, neither would
 "Sex."
 
 Alexander Avila, in his video essay _How Conservatives Invented Gender
-Ideology_, charts the history of what is today labeled by the far-right "Gender
-Ideology." In it, he notes a critical component being exactly what we are
-discussing here toady: the sex/gender division. In discussion of its formation,
-he considers this revolution in biology. As biologists began to study sex, they
-were on the edge of their seats. Finally, they thought, they would
+Ideology_, charts the history of what is today labeled by the far-right as
+"Gender Ideology." In it, he notes a critical component being exactly what we
+are discussing here today: the sex/gender division. In discussion of its
+formation, he considers this revolution in biology. As biologists began to study
+sex, they were on the edge of their seats. Finally, they thought, they would
 
-> find some kind of final Essence, some fundamental distinguishing characters
+> find some kind of final essence, some fundamental distinguishing characters
 > that would finally explain all of the assumed differences between men and
 > women. The masculine and feminine. The metaphor to end all metaphors. The
 > logic of difference itself. But instead, they found something else.
@@ -216,7 +226,7 @@ quickly found that, like my previous blogpost,
 [_Liberating Biology_](/blogposts/post-8), points out, nature is actually rather
 _queer_:
 
-> Biologists discovered that sex wasn't a simple binary division symbollically
+> Biologists discovered that sex wasn't a simple binary division symbolically
 > contained in a genital. Sex was a complex system of hormones and internal
 > bodily communication all intertwined with other functional systems. Biologists
 > found that many species were naturally "intersexual," or at least that most
@@ -226,22 +236,23 @@ _queer_:
 Now, I hope this isn't news to you. But let's really put this in perspective. In
 western tradition, maleness and femaleness are seem as fundamentally in
 opposition to one another―dualist in nature (and that concept of "nature" is
-extremely important). Women were feminine, delicate, weak, submissive, and men
-were strong, dominant, powerful, clever. These concepts existed in totalizing
+extremely important). Women are feminine, delicate, weak, submissive, and men
+are strong, dominant, powerful, clever. These concepts existed in complete
 opposition to one another, and each independently had a constructed image of
 what is and is not "proper"―a "proper" man, a "proper" woman.
 
 So what happens when the science, then a newfound weapon of empire, begins to
 fail to confirm these beliefs? Well, what occurs is a crisis.
 
-Frederick Nietzsche wrote excessively about "Nihilism." In sum, he argued that
-as science, particularly biology, began to bear fruit invalidating the church's
+Frederick Nietzsche wrote at length about "Nihilism." In sum, he argued that as
+science, particularly biology, began to bear fruit weakening the church's
 arguments of God and Heaven, Europe would begin to have a crisis of meaning. In
 other words, "God is dead, and we have killed Him." And when this crisis of
 faith transpires, there is nowhere to go but down. Nietzsche argued one reaction
 to Nihilism was that, if God's Objectivity did not actually exist, we must
-create our own God. In eugenics, we are our own God. In Nazi Germany, Hitler is
-God. And in biology, Gender is God.
+create our own God. In eugenics, we are our own God, creating the perfect
+lifeform. In Nazi Germany, Hitler is God, pursuing Lebensraum. And in biology,
+Gender is God, protecting the natural order of society.
 
 On the dawn of these breakthroughs, the entire sexed structure of society began
 to fall apart. "Sexism" as an ordering of society crumpled to dust. But, of
@@ -251,12 +262,13 @@ At its core, the sex/gender division frees gender from sex. And that means that
 we can freely modify gender regardless of sex. So when intersex children are
 born, we do just that. We mutilate them without their permission, we tell them
 how they must act, how they must dress. We assign each and every baby born in a
-hospital a gender and tell them that is what they are, regardless of their sex.
-And when some of us later say, "Actually, I'm this gender," that's okay, because
-it's not like we're suggesting that the entire framework of gender is flawed. In
-fact, we're validating it. We are telling the world that, despite our sex, we
-are either male or female! Sometimes the doctors just get it a little wrong. And
-that's fair, because it's not like gender is a physical feature.
+hospital a gender and tell them that is what they are, whether its in-sync or
+not with their sex. And when some of us later say, "Actually, I'm this gender,"
+that's okay, because it's not like we're suggesting that the entire framework of
+gender is flawed. In fact, we're validating it. We are telling the world that,
+despite our sex, we are either male or female! Sometimes the doctors just get it
+a little wrong. And that's fair, because it's not like gender is a physical
+feature.
 
 In the early part of the nineteenth century, biologists encountered a crisis of
 faith. And in order to save their faith in dualist gender, they severed gender
@@ -271,10 +283,10 @@ This is the history of gender, the supposed savior of the trans community.
 ## Moving Forward: Constructing a New Framework
 
 If the very framework on which our existence rests is in fact antithetical to
-our existence, then it should be no wonder that we feel insane. Hermeneutical
-injustice is so integral to our existence that it is literally our founding
-feeling. So how do we move forward? How can we reframe and re-envision our
-existence to justify itself? What can we turn to?
+our existence, then it should be no wonder that we feel insane. If the very
+hermeneutics that instruct our existence are the same that produce the
+hermeneutical injustice with which we struggle, how do we move forward? How can
+we reframe and re-envision our existence to justify itself? What can we turn to?
 
 At times, it feels impossible to keep going. Struggling against the words of our
 professors, the contradictions of the narratives we must tell, the violence of
@@ -286,18 +298,18 @@ we must reunite our bodies with our selfs.
 
 In the conclusion of _Gender Trouble_, Judith Butler closes by arguing that we
 must "denaturalize" gender and thereby end the policing of it. Is the crux of
-the problem that we must justify that we truly "biogals," natural women and
+the problem that we must justify that we are truly "biogals," natural women and
 truly born to be such, or that there is even the conception of a "proper woman"?
 Is the problem that our sex does not necessarily imply a gender, or that
-anything ever could possibly imply, demand, or enforce a gender? Is the problem
-that others see our gender differently than we believe is right, or that we
-attempt to justify some kind of gendered essence?
+anything ever could possibly imply, demand, or enforce a set of gender? Is the
+problem that others see our gender differently than we believe is right, or that
+we attempt to justify some kind of gendered essence?
 
 I believe that to move forward, we must move beyond gender―that is not to say we
 must forgo its existence, but that the framework must begin with the element our
-society deems indiscutable, that is, sex.
+society deems indiscutable. That is, sex.
 
-### The Body: Not Just a Vessel, but The Performance
+### The Body: Not Just a Vessel, But The Performance
 
 On my first read through of _Gender Trouble_, I interpreted gender to be the
 focus of discussion, and the theory of performativity to be deeply focused on
@@ -332,7 +344,7 @@ an observer may think you are male, female, or simply be confused.
 What about when I put on my makeup? The eyeliner changes the shape of my face.
 The blush alters the texture of my expression. The lip tint enlarges or shrinks
 my lips. At will, I can alter the vessel I inhabit. I can morph and mold the
-substance of my being―_that_ is the performance.
+substance of my being―_that_ is the performance, not merely a canvas.
 
 Why must the performance be a window into the deeper essence of the self? Why
 must there be an essence to the self? Shortly before I realized I was
@@ -340,18 +352,20 @@ transgender, I tried to adopt some masculine characteristics. I bought
 masculine-smelling deodorant for literally the first time in my life, tried to
 find a more masculine style beyond the bland sweatpants-and-t-shirt style I
 could bare wearing, and thought I'd be happier if I just was a bit better at
-being a dude. I learned into the performance in the way society told me I must,
-and it really didn't make me any happier. But is it that the cause of
-unhappiness is a disconnect from performance and internal sense of gender, or
-that I just really didn't like performing my body in such a way, didn't like
-that particular substance of being?
+being a dude (and yes, I am embarrassed to write this). I learned into the
+performance in the way society told me I must, and it really didn't make me any
+happier. But is it that the cause of unhappiness is a disconnect from the body
+and my internal sense of gender, or that I just really didn't like performing my
+body in such a way, didn't like that particular substance of being, and didn't
+find comfort in that performance?
 
 This is an alternate narrative that I have felt for a while. There is certainly
-an appeal to it, but I have still felt that it is missing _something_. Recently,
-however one last piece of the puzzle has come into focus, something I have
-discovered within the realm of Anthropology: Bioculture.
+a appeal to it, but I have still felt that it is missing _something_. Parts of
+it feel compelling, yet other parts tug at me in irritation. However, I do
+believe that the integration of one last framework may allow us to see what
+exactly has been missing all along.
 
-## Bioculture: A Reintegration of Gender Into the Body
+## Hermeneutical Authority, or, Is there really a substance to The Body at all?
 
 If you have already noticed this, you get bonus points for this round, but for
 the rest of you, the theory I've laid out thus far has a critical error: while
@@ -363,33 +377,36 @@ our experience of gender lies in the matter of the body, then is this not an
 objective portrayal?
 
 Considering the history of gender in the twentieth century, it is all too easy
-to return the full authority of gender over to the body. Seeing the desecration
-of this substance and queer agency to it, there is a startling temptation to
-render the body the authority, to suggest that there is nothing beyond its
-walls. However, I believe the scope of possibility widens upon moving beyond
-this mistake.
+to return the full authority of our experiences over to the body. Seeing the
+desecration of our bodies and queer agency to it, there is a startling
+temptation to render the body the authority, to suggest that there is nothing
+beyond its walls. However, I believe the scope of possibility widens upon moving
+beyond this mistake.
 
-In order to account for this mistake and move forward, there is a particular
-framework through which Anthropologists tend to view both the human body and our
-culture: Bioculture.
+In order to account for this mistake and finally move forward, there is a
+particular framework through which anthropologists tend to view both the human
+body and our culture that may serve useful: Bioculture.
 
-### A Biocultural Account of Sex, The Body, and Gender
+### Bioculture: The Web of The Body
 
 Bioculture is a simple portmanteau of the words "Biology" and "Culture." Its
-meaning reflects that, attempting to highlight that to understand a person's
-biology without understanding their culture in conjunction is a grave error. For
-example, if we are to understand hair, we must understand not just biology, but
-culture: is it purely biological how the hair is cut? To what length? How about
-its style? As a quick example on that note, is it simply biological that, in our
-society, girls tend to have long hair, and boys tend to have short hair? Is it
-purely cultural? It's both. The form of the hair is often biological (for
-example, I tend to have wavy hair, but others may have straight), but its cut
-can be cultural. It can also be biological. People on chemo tend to have no hair
-at all. Is that cultural? Or is it biological? Again, its both.
+meaning reflects that, attempting to highlight that we simply cannot understand
+either a person's biology or a person's culture without understanding both in
+relation to one another. For example, if we are to understand hair, we must
+understand not just biology, but culture: is it purely biological how the hair
+is cut? To what length? How about its style? As a quick example on that note, is
+it simply biological that, in our society, girls tend to have long hair, and
+boys tend to have short hair? Is it purely cultural? It's both. The form of the
+hair is often biological (for example, I tend to have wavy hair, but others may
+have straight), but its cut can be cultural. It can also be biological. People
+on chemo tend to have no hair at all. Is that cultural? Or is it biological?
+Again, its both. We must understand both the biology and culture, but also the
+history, the environments, and the various factors that led to the biocultural
+outcome―variation, function, mutation, random chance, even simply taste.
 
-Let's take this hair metaphor and start running with it. Did you know that
-testosterone makes your hair a bit thicker? So when I started my transition, the
-first thing I did was get my hair cut―a cultural modification to a biological
+Let's take this hair metaphor and run with it. Did you know that testosterone
+makes your hair a bit thicker? So when I started my transition, the first thing
+I did was get my hair cut differently―a cultural modification to a biological
 component. But when I began taking estrogen, my hair thinned out a bit―a
 biological alteration to a cultural component. Do you see how these two
 structures are so intimately interlinked, it can often be exceedingly difficult
@@ -403,22 +420,21 @@ was considered feminine, and long hair was considered masculine? When I came
 out, I would've had long hair. And rather than getting a minor, feminine cut and
 then growing it out, I would've simply cut it short, and continued to do so. But
 still, when I took estrogen, my hair would thin out a bit. So here we have two
-slightly different modification to the body, each influenced by our culture, and
-influenced by biology, ultimately resting in this intersection between our
+slightly different modifications to the body, each influenced by our culture,
+and influenced by biology, ultimately resting in this intersection between our
 conception of "feminine" and our body's reaction to a given
 instruction-set―estrogen.
 
 I believe that "The Body" is this intersection. That substance that I talked
-about is _far_ from authoritative, but it is more like a symbolic product of
+about is _far_ from authoritative! Rather, it is more like a symbolic product of
 Sex, which is the biological instruction-set (and is incredibly mutable and not
 at all binary) and Gender, which is the cultural interpretation of physical
 elements. "The Body" is not really anything, rather, it is an illusion―a sock
-puppet―between the light of Gender (the intensity and hue of which influences
-the illusion) and the blocking object of Sex (the shape and transparency of
-which likewise influences the illusion).
+puppet―between Gender (the intensity and hue of which influences the illusion)
+and Sex (the shape and transparency of which likewise influences the illusion).
 
 Understanding The Body to be not an authority but a product reveals the
-dimensions of it and free us to explore each and every component of this
+dimensions of it and frees us to explore each and every component of this
 illusion in the fullest sense. It is not that our body is irrelevant, or that
 there is no "Gender Identity" that matters (which produces a kind of authority
 of "Gender Expression"), but that each and every one of these components
@@ -427,22 +443,24 @@ producing the final product: The Body.
 
 ## One Final Question, Two Final Answers: Feeling Gender
 
-There is one last question that I believe needs answering. What is it that
-compels us to construct our Body in the way that we desire? What creates,
-envisions, and maintains this desire in ourselves? What leads to its drifting
-throughout our life? Why, or as what, do we feel Gender?
+There is one last question that may leave us asking: what is it that compels us
+to construct our Body in the way that we desire? What creates, envisions, and
+maintains this desire in ourselves? What leads to its drifting throughout our
+life? Why, or as what, do we feel Gender?
 
-To be honest, I don't really have a good answer. And I don't really want to. I
-feel gender because I do. I continuously reformulate my Body as I do because I
-wish to, for fun, for exploration, simply to satisfy the interest, the need,
-itself. If you wish to pose, suggest, or advocate for an answer, be my guest.
-But do we need one? Do we need a justification to reimagine our selfs?
+To be honest, I don't really have a good answer. And I, personally, am not
+interested in looking for one. I feel gender because I do. I continuously
+reformulate my Body as I do because I wish to, for fun, for exploration, simply
+to satisfy the interest, the need, itself. If you wish to pose, suggest, or
+advocate for an answer, be my guest. But I do want to say that I do not think we
+need one, necessarily. I would hope we do not necessarily need justification to
+reimagine our selfs in our own image.
 
-If you are looking to explore this question, I will leave a few breadcrumbs to
-follow―beware, they may lead you astray. First is the primacy of the self, in
-that we are strangely born with some kind of desire, path, or goal we must
-pursue. This path suggest some kind of determinism or pre-destination, a
-simplistic and neat (but not necessarily incorrect) answer that allows us to
+That said, if you are looking to explore this question, I will leave a few
+breadcrumbs to follow―beware, they may lead you astray. First is the primacy of
+the self, in that we are strangely born with some kind of desire, path, or goal
+we must pursue. This path suggests some kind of determinism or pre-destination,
+a simplistic and neat (but not necessarily incorrect) answer that allows us to
 pursue our paths as we desire without fear.
 
 The alternative path is perhaps more treacherous. If you align yourselves with
@@ -456,25 +474,26 @@ every bit of your existence mixing into a certain kind of soup unique enough so
 that none will ever share it with you. Perhaps it, like everything else, is in
 large part a product of some form of socialization, of cultural narratives and
 metaphors, of stories told to you at bedtime (or simply the lack thereof), of
-characters and plotlines and settings you found yourself enraptured in at a
-young age. And if you were to ever look back at any of these components, none of
-it would add up, or perhaps all of it would, in a special kind of way that you
-could never predict, simply because at a certain point, the whole becomes too
-divergent to break into its parts.
+characters and plotlines and settings in which you found yourself enraptured at
+a young age. And if you were to ever look back at any of these components, none
+of it would add up, or perhaps all of it would, in a special kind of way that
+you could never predict, simply because at a certain point, the whole becomes
+too divergent to break into its parts.
 
 Regardless of your answer, if you have one at all, I hope you've learned
 something from this post. I hope you look at the world just a little bit
-differently. But most of all, I hope you look at yourself just a little bit
-differently, and I hope you can never look at your self the same way again.
+differently. But most of all, I hope you can never look at your self the same
+way again.
 
-[^1]: Interestingly, science still seems a bit stuck on this pursuit. The gender
-    gene, which itself deserves a whole blogpost, is incessently discussed. Even
-    in _Bitch_, the author can't help but think about the essential difference
-    between men and women. She, of course, points it to the sexual
-    differentiation of men for reproduction. But is there really any essential
-    difference between men and women? Even in the realm of "Sex," whatever that
-    means? The very fact that our society is so transfixed on this pursuit is
-    itself enlightening. But why must there be any difference at all?
+[^1]: Interestingly, science still seems a bit stuck on this pursuit. The
+    transgender gene, which itself deserves a whole blogpost, is discussed far
+    more often than I wish. Even in _Bitch_, the author can't help but think
+    about the essential difference between men and women. She, of course, points
+    it to the sexual differentiation that she suggests produced "men" for
+    reproduction. But is there really any essential difference between men and
+    women? Even in the realm of "Sex," whatever that means? The very fact that
+    our society is so transfixed on this pursuit is itself both enlightening and
+    frightening. But why must there be any difference at all?
 
 [^2]: This is a bit of jargon used in a lot of post-modern writing, but I find
     it to serve a useful place for the sake of clarity. You can think of it
