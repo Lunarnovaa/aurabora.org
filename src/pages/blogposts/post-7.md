@@ -1,24 +1,10 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'Sex: A Fragment of Bioculture'
+title: 'Redefining Sex, Gender, and The Body Itself'
 pubDate: 29 May 2025
-description: 'redefining what it means to have a body'
-tags: ["gender", "philosophy", "biology"]
+description: 'dismantling the separation of these queer components'
+tags: ["gender", "philosophy", "biology", "anthropology"]
 ---
-
-## Outline
-
-1. Introduction
-2. All Too Common: The Sex/Gender Division
-   1. The Seduction of Simplicity
-   2. Oh, the modifications you will make!
-3. Why does the sex/gender division exist?
-   1. The History of Sex in Biology
-   2. The Conservative Underbelly of Sex/Gender
-4. Moving Forward: Constructing a New Framework
-   1. Deconstructing Gender
-   2. The Body: A Vessel of Performance
-5. Bioculture: A Reintegration of Gender
 
 _Please note, this blogpost has been rewritten. For the old version, see
 [here](/old/post-7)._
