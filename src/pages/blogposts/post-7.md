@@ -352,6 +352,28 @@ discovered within the realm of Anthropology: Bioculture.
 
 ## Bioculture: A Reintegration of Gender Into the Body
 
+If you have already noticed this, you get bonus points for this round, but for
+the rest of you, the theory I've laid out thus far has a critical error: while
+it properly rejects the conception of either gender or sex as a kind of
+"essence" in which our authentic pre-discursive[^2] self originates, it replaces
+it with another kind of essence―the essence of the substance of the body.
+Because if the foundational point, really the only point that truly matters, of
+our experience of gender lies in the matter of the body, then is this not an
+objective portrayal?
+
+Considering the history of gender in the twentieth century, it is all too easy
+to return the full authority of gender over to the body. Seeing the desecration
+of this substance and queer agency to it, there is a startling temptation to
+render the body the authority, to suggest that there is nothing beyond its
+walls. However, I believe the scope of possibility widens upon moving beyond
+this mistake.
+
+In order to account for this mistake and move forward, there is a particular
+framework through which Anthropologists tend to view both the human body and our
+culture: Bioculture.
+
+### A Biocultural Account of Sex, The Body, and Gender
+
 [^1]: Interestingly, science still seems a bit stuck on this pursuit. The gender
     gene, which itself deserves a whole blogpost, is incessently discussed. Even
     in _Bitch_, the author can't help but think about the essential difference
@@ -360,3 +382,15 @@ discovered within the realm of Anthropology: Bioculture.
     difference between men and women? Even in the realm of "Sex," whatever that
     means? The very fact that our society is so transfixed on this pursuit is
     itself enlightening. But why must there be any difference at all?
+
+[^2]: This is a bit of jargon used in a lot of post-modern writing, but I find
+    it to serve a useful place for the sake of clarity. You can think of it
+    rather literally, meaning "before discussion," which is like another way of
+    saying something that exists the way it exists "before" any kind of cultural
+    or social factors or experiences are applied to it. Post-modernists tend to
+    scoff at the idea of anything "pre-discursive," because a key component of
+    post-modernist philosophy is that ontology is exclusively cultural. You'll
+    see this layered through a lot of Butler's work, for example―the very theory
+    of gender performativity denies a "being" (_especially_ pre-discursive) of
+    gender, instead arguing that the "doing" of gender creates the illusion of a
+    "being."
