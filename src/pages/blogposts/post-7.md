@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Redefining Sex, Gender, and The Body Itself'
-pubDate: 29 May 2025
+pubDate: 30 May 2025
 description: 'dismantling the separation of these queer components'
 tags: ["gender", "philosophy", "biology", "anthropology"]
 ---
@@ -9,22 +9,37 @@ tags: ["gender", "philosophy", "biology", "anthropology"]
 _Please note, this blogpost has been rewritten. For the old version, see
 [here](/old/post-7)._
 
-A strange, unnerving sense of contradiction has emerged for me over the past few
-years. As someone for whom sex is, quite literally, a defining element of my
-experience, my struggle with it as a paradoxically supposedly deterministic
-element I am labored and cursed with and also a liberatory, compelling element
-of my transgender experience, and this struggle makes itself clear as I began to
-look around my world and understand how not just trans individuals, but cishet
-ones must reconcile these polarizing and contradictory elements of sex, and not
-just sex, but of gender, of this amorphous blob of meaning that seems so
-callously hollow one must wonder how it ever came to be.
+Throughout the past few years, I have been struggling to reconcile my existence
+as a queer, transgender individual with the broader ideology of our society.
+Struggling against the dominant hermeneutics of gender and sex, paradoxically
+positioned as a viscerally liberating framework through which queer existence
+may be interpreted justly and accurately while in the same breath denying the
+very basics of how we understand ourselfs and our position in the society in
+which we find ourselfs, the mainstream, dominant, and even "progressive"
+conception of our very being as merely an insightful piece of evidence in favor
+of doing little more than nudging our liberal frameworks in a different decision
+as opposed to requiring a fundamental, radical alteration and restructuring of
+these concepts, it is hard, at times, to even begin to understand and reconcile
+my understanding of myself and my loved ones with these domineering
+hermeneutics.
 
-So today, I will chart this meaning. I will not just explore, but deeply
-interrogate the underlying elements, the histories, the presumptions, the
-narratives, and the conclusions. It is unendingly clear to me that if I am ever
-to understand my own existence, it is these elements of being that must not just
-be understood but deconstructed and reconstructed. And accordingly, I will
-reconstruct these meanings.
+My guiding light, through all of this, has been the body. The body is not merely
+a physical form as either a vessel or a prison of gender. Rather, it is the very
+core of my experience. In dealing with this hermeneutical injustice, the body
+has offered me safety and continuity, heralding me through my transition even as
+I struggle against the only frameworks I am offered to interpret my existence.
+
+So today, in order to alleviate this injustice not just for myself but for my
+community, I will chart this meaning. I will deeply and thoroughly interrogate
+these elements that make up our queer existence, the frameworks that have
+interpreted and underpinned them throughout history, the presumptions that act
+as the guardrails of interpretation, the narratives that construct our being in
+a way that denies our complex position, and the conclusions that position
+themselves as the final authority.
+
+It is clear to me that if we are ever to understand our own existence, it is not
+just the elements but the factors that construct, interpret, and produce them
+that must be understood, deconstructed, and reconstructed in our own image.
 
 ## All Too Common: The Sex/Gender Division
 
