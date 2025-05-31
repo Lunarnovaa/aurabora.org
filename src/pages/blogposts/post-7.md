@@ -98,23 +98,20 @@ go as far as to argue this is rather colonial. We argue sex is of the bones. But
 who might disagree? We may think that, from just a few bones, we can dictate and
 govern an individual's sex, and that this matters. Who may disagree?
 
-Will you let the bones speak? What will they say? Perhaps we may hear whispers
-emanating from their mandible, yet are too busy analyzing their teeth for
-chromosomes. Maybe if we put our ear right up to their ribs, we will hear an
-incomprehensible style of beat from a heart we could not hope to understand.
-Wrap your hand around their femur, and you will feel the history of their
-struggles, yet all we can do is compare its circumference to our sheet of
-preconceived ratios and expectations.
+By marginalizing sex to the objective, the scientific, we alienate it from our
+self. Because if sex is a matter of bones, tissues, and chromosomes, then it is
+outside ourselfs. It frees archaeologists to prescribe their beliefs to the
+bones they study, but it binds us all to not simply our bodies, but a
+particular, universalizing prescription of it.
 
-Instead, we conquer. We speak for the bones, and tell the world that they are
-exactly in line with how we happen to view the world. How convenient it is that
-we may cleanly cleave off gender from sex like a doctor cleaves off an infected
-limb. We must not let the infection spread. We must not let the bones speak.
-
+So instead, we conquer. We speak for the bones, speak _through_ the bones,
+interpret what they are and what they say through the narratives of our society.
 This is the danger of constructing the body as little more than a piece of meat
-for our objective study. Will we ever be able to look at a body and see it
-beyond how we see our own bodies? Will we ever find the courage to refuse to
-speak for the bones?
+for our objective study. For if we may speak through the skeletons as if we know
+what they really are, then who else may we be allowed to speak through? And what
+narratives may be essentialized and mandated despite the wishes, the
+experiences, the knowledge of the individuals? I feel for the bones, because I
+too have been spoken through. But what are those narratives?
 
 ### Oh, the modifications you will make!
 
