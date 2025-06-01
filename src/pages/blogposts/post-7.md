@@ -1,36 +1,40 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Redefining Sex, Gender, and The Body Itself'
-pubDate: 30 May 2025
+pubDate: 31 May 2025
 description: 'dismantling the separation of these queer components'
 tags: ["gender", "philosophy", "biology", "anthropology"]
 ---
 
+[here]: /old/post-7
+[_Liberating Biology_]: /blogposts/post-8
+[Dream Girl]: https://open.spotify.com/track/0TNE9XzcP1uXWmhoyp3nFo
+
 _Please note, this blogpost has been rewritten. For the old version, see
-[here](/old/post-7)._
+[here]._
 
 Throughout the past few years, I have been struggling to reconcile my existence
 as a queer, transgender individual with the broader ideology of our society. I
-struggle against the dominant hermeneutics of gender and sex―paradoxically
+struggle against the dominant ontology[^1] of gender and sex―paradoxically
 positioned as a viscerally liberating framework, through which queer existence
 may be interpreted justly and accurately, while in the same breath denying the
-very basics of how we understand ourselfs and our position in the society in
-which we find ourselfs. The mainstream, dominant, and even "progressive"
+very basics of how we understand our selfs and our position in the society in
+which we find our selfs. The mainstream, dominant, and even "progressive"
 conception of our very being is reduced to merely an insightful piece of
 evidence suggesting we should simply nudge our liberal frameworks in a different
 direction, rather than a radically altered way of being mandating a
 revolutionary reconstruction of these concepts. It is hard, at times, to even
-begin to understand and reconcile my understanding of myself and my loved ones
-with these domineering hermeneutics.
+begin to understand and reconcile my understanding of my self and my loved ones
+with these dominating ontologies.
 
 My guiding light, through this struggle, has been the body. The body is not
 merely a physical form as either a vessel or a prison of gender. Rather, it is
-the very core of my experience. In dealing with this hermaneutical injustice,
-the body has offered me safety and continuity, heralding me through my
-transition even as I struggle against the only frameworks I am offered to
-interpret my existence.
+the very core of my experience. In dealing with this hermeneutical
+injustice[^2], the body has offered me safety and continuity, heralding me
+through my transition even as I struggle against the only frameworks I am
+offered to interpret my existence.
 
-So today, in order to alleviate this injustice not just for myself but for my
+So today, in order to alleviate this injustice not just for my self but for my
 community, I will chart this meaning. I will deeply and thoroughly interrogate
 these elements that make up our queer existence, the frameworks that have
 interpreted and underpinned them throughout history, the presumptions that act
@@ -90,17 +94,17 @@ _objective_. While this notion casts itself as a progressive impulse of noting
 the variation and cultural definition of gender, what it is actually doing is
 protecting the presumed objectivity of sex.
 
-Her words disturbed me. Yes, absolutely, for myself and the queer community, but
-also because of the subject matter. Because it positions our specific
+Her words disturbed me. Yes, absolutely, for my self and the queer community,
+but also because of the subject matter. Because it positions our specific
 understanding of sex as not just accurate but in fact universal. That in every
 moment of time, sex acts as a simplistic, scientific feature. In fact, I would
 go as far as to argue this is rather colonial. We argue sex is of the bones. But
 who might disagree? We may think that, from just a few bones, we can dictate and
-govern an individual's sex, and that this matters. Who may disagree?
+govern an individual's sex, and that this matters. Would the bones disagree?
 
 By marginalizing sex to the objective, the scientific, we alienate it from our
 self. Because if sex is a matter of bones, tissues, and chromosomes, then it is
-outside ourselfs. It frees archaeologists to prescribe their beliefs to the
+outside our selfs. It frees archaeologists to prescribe their beliefs to the
 bones they study, but it binds us all to not simply our bodies, but a
 particular, universalizing prescription of it.
 
@@ -113,7 +117,7 @@ narratives may be essentialized and mandated despite the wishes, the
 experiences, the knowledge of the individuals? I feel for the bones, because I
 too have been spoken through. But what are those narratives?
 
-### Oh, the modifications you will make!
+### Governing Narratives
 
 If gender is so untethered from the body, then why must we change it? For years,
 I struggled with this question. I struggled to reconcile my endless desire for
@@ -143,13 +147,16 @@ I expect to see a woman, and feel misery when I see something else. I used to
 dress up in my mother's or my sister's clothes when I was home alone. I have
 tried to deny it and hide it my whole life, but I cannot any longer.
 
-Do I believe most of this? No, not really. But we don't tell it because we
-believe it. We tell it because we know it's what they want to hear. Our doctors.
-Our therapists. Our parents. Our employers. Our teachers. Sometimes even our
-loved ones.
+Do I believe most of this? Of course not. But we do not tell it because we
+believe it. Really, it is not even us speaking. Rather, our society speaks
+_through_ us, and this narrative is what is produced. Our society speaks through
+us to justify and reproduce its own narratives, its own ideology. And we allow
+our society to speak through us, because we know its what they want to hear. Our
+doctors. Our therapists. Our parents. Our employers. Our teachers. Sometimes
+even our loved ones.
 
-And if we do not tell it, our desires, our needs, our medicine, and most of all,
-our agency will be delayed and denied.
+And if we do not obey and do not tell it, our desires, our needs, our medicine,
+and most of all, our agency will be delayed and denied.
 
 But what does this narrative _really tell_? Where does it _really come from_? At
 its core, the narrative tells a story of two components of being: sex and
@@ -157,7 +164,7 @@ gender. When we tell it, we are telling them that our gender is out of phase
 with our sex. We simultaneously submit to the authority of a natural, essential
 sex that conforms to a specific gender. We suggest that when we look into the
 mirror and suffer, our suffering comes from a sex that aligns itself with the
-wrong gender. We submit ourselves to a naturalizing conception of the body.
+wrong gender. We submit our self to a naturalizing conception of the body.
 
 What really is a natural woman? Do we transition out of the desire to be one?
 Queer people are often cast merely as trying to found our true self. We do not
@@ -173,23 +180,22 @@ wrong and must be corrected, as if the extent of our experience is an improper
 separation between sex and gender.
 
 Considering the paper my mother once wrote, I realize it hinges on the false
-idea that our transition is premised on the idea that the body is wrong and must
-be corrected. That we hate ourselves so desperately that we morph our body to
-fit the culturally approved conception of the body. But is this true? Do we
-transition only our of pain, dislocation, and self-hate? To some extent, we do.
-But to a greater extent, for many of us, we transition out of joy. Out of the
-euphoria one finds within their transition. The happiness and ecstasy one feels
-when they look into their mirror and see their
-"[Dream Girl](https://open.spotify.com/track/0TNE9XzcP1uXWmhoyp3nFo)." And at
-the end of the day, it is the modifications we make that free us from our
-self-hate, and not because we now have a body that patriarchy and transphobia
-find agreeable, but because we have found a kind of liberating agency over our
-selfs that we never could imagine before. Because it is so freeing, so
-liberating, and so euphoric to have that kind of agency over your own body, and
-to experiment with the body however you please. This is why we transition.
+conception of transition as being premised on the idea that the body is wrong
+and must be corrected. That we hate our self so desperately that we morph our
+body to fit the culturally approved conception of the body. But is this true? Do
+we transition only our of pain, dislocation, and self-hate? To some extent, we
+do. But to a greater extent, for many of us, we transition out of joy. Out of
+the euphoria one finds within their transition. The happiness and ecstasy one
+feels when they look into their mirror and see their "[Dream Girl]." And at the
+end of the day, it is the modifications we make that free us from our self-hate,
+and not because we now have a body that patriarchy and transphobia find
+agreeable, but because we have found a kind of liberating agency over our selfs
+that we never could imagine before. Because it is so freeing, so liberating, and
+so euphoric to have that kind of agency over your own body, and to experiment
+with the body however you please. This is why we transition.
 
-It was never that my gender was out of phase with my sex. I do not modify myself
-simply to bring my sex in line with my gender. What a bland and boring
+It was never that my gender was out of phase with my sex. I do not modify my
+self simply to bring my sex in line with my gender. What a bland and boring
 narrative. I am glad I no longer must tell it.
 
 ---
@@ -226,10 +232,9 @@ sex, they were on the edge of their seats. Finally, they thought, they would
 > (43:21–43:38)
 
 Obviously, they did not find any kind of essence to establish patriarchy in
-science[^1]. In fact, they found something deeply challenging. Biologists
-quickly found that, like my previous blogpost,
-[_Liberating Biology_](/blogposts/post-8), points out, nature is actually rather
-_queer_:
+science[^3]. In fact, they found something deeply challenging. Biologists
+quickly found that, like my previous blogpost, [_Liberating Biology_], points
+out, nature is actually rather _queer_:
 
 > Biologists discovered that sex wasn't a simple binary division symbolically
 > contained in a genital. Sex was a complex system of hormones and internal
@@ -291,17 +296,17 @@ This is the history of gender, the supposed savior of the trans community.
 
 If the very framework on which our existence rests is in fact antithetical to
 our existence, then it should be no wonder that we feel insane. If the very
-hermeneutics that instruct our existence are the same that produce the
+ontologies that instruct our existence are the same that produce the
 hermeneutical injustice with which we struggle, how do we move forward? How can
 we reframe and re-envision our existence to justify itself? What can we turn to?
 
 At times, it feels impossible to keep going. Struggling against the words of our
 professors, the contradictions of the narratives we must tell, the violence of
-our founding hermeneutics, the imprisonment, the policing. And yet, we know we
-must. But if we are ever to do more than survive, we must create new narratives
-for us, not for our doctors. We must undermine the ontology of gender and
-liberate our possibilities for us all. And we must reunite our bodies with our
-selfs.
+our founding interpretations, the imprisonment, the policing. And yet, we know
+we must. But if we are ever to do more than survive, we must create new
+narratives for us, not for our doctors. We must undermine the ontology of gender
+and liberate our possibilities for us all. And we must reunite our bodies with
+our selfs.
 
 In the conclusion of _Gender Trouble_, Judith Butler closes by arguing that we
 must "denaturalize" gender and thereby end the policing of it. Is the crux of
@@ -387,7 +392,7 @@ known to me.
 If you have already noticed this, you get bonus points for this round, but for
 the rest of you, the theory I've laid out thus far has a critical error: while
 it properly rejects the conception of either gender or sex as a kind of
-"essence" in which our authentic pre-discursive[^2] self originates, it replaces
+"essence" in which our authentic pre-discursive[^4] self originates, it replaces
 it with another kind of essence―the essence of the substance of the body.
 Because if the foundational point, really the only point that truly matters, of
 our experience of gender lies in the matter of the body, then is this not an
@@ -431,7 +436,7 @@ structures are so intimately interlinked, it can often be exceedingly difficult
 to separate them? It would be more accurate to describe them as a dense mesh, a
 network that pulls and pushes in on itself, tangles and expands, than merely two
 factors that feed into one another. At a certain point, it becomes so impossible
-to separate them, we label them as one.[^3]
+to separate them, we label them as one.[^5]
 
 Let's take this one step further. What if I was in a society where short hair
 was considered feminine, and long hair was considered masculine? When I came
@@ -461,17 +466,17 @@ producing one final illusive product: The Body.
 ## One Final Question, Two Final Answers: Feeling Gender
 
 There is one last question that may leave us asking: what is it that compels us
-to construct the body in the way that we desire? What creates, envisions, and
-maintains this desire in ourselves? What leads to its drifting throughout our
+to construct our bodies in the way that we desire? What creates, envisions, and
+maintains this desire in our self? What leads to its drifting throughout our
 life? Why do we chase the performance?
 
 To be honest, I don't really have a good answer. And I, personally, am not
-interested in looking for one. I do gender because I do. I continuously
-reformulate my Body as I do because I wish to, for fun, for exploration, simply
-to satisfy the interest, the need, itself. If you wish to pose, suggest, or
-advocate for an answer, be my guest. But I do want to say that I do not think we
-need one, necessarily. I would hope we do not necessarily need justification to
-reimagine our selfs in our own image.
+interested in looking for one. I perform my body in the way I do because I do. I
+continuously reformulate my body as I do because I wish to, for fun, for
+exploration, simply to satisfy the interest, the need, itself. If you wish to
+pose, suggest, or advocate for an answer, be my guest. But I do want to say that
+I do not think we need one, necessarily. I would hope we do not necessarily need
+justification to reimagine our selfs in our own image.
 
 That said, if you are looking to explore this question, I will leave a few
 breadcrumbs to follow―beware, they may lead you astray. First is the primacy of
@@ -480,7 +485,7 @@ we must pursue. This path suggests some kind of determinism or pre-destination,
 a simplistic and neat (but not necessarily incorrect) answer that allows us to
 pursue our paths as we desire without fear.
 
-The alternative path is perhaps more treacherous. If you align yourselves with
+The alternative path is perhaps more treacherous. If you align your self with
 the post-modernists, the very idea of an original essence may leave your stomach
 turning, and you may desire another path away. Perhaps there is no
 pre-discursive self, no pre-destined path, no determined desire. Instead,
@@ -491,21 +496,30 @@ every bit of your existence mixing into a certain kind of soup unique enough so
 that none will ever share it with you. Perhaps it, like everything else, is in
 large part a product of some form of socialization, of cultural narratives and
 metaphors, of stories told to you at bedtime (or simply the lack thereof), of
-characters and plotlines and settings in which you found yourself enraptured at
+characters and plotlines and settings in which you found your self enraptured at
 a young age. And if you were to ever look back at any of these components, none
 of it would add up, or perhaps all of it would, in a special kind of way that
 you could never predict, simply because at a certain point, the whole becomes
 too divergent to break into its parts. And most interestingly of all, perhaps
 that soup is never final, always changing, always mixing in new elements, until
-we have lived a life full of exploration and euphoria, where The Body has never
-remained static.
+you have lived a life full of exploration and euphoria, where your body has
+never remained static.
 
 Regardless of your answer, if you have one at all, I hope you've learned
 something from this post. I hope you look at the world just a little bit
 differently. But most of all, I hope you can never look at your self the same
 way again.
 
-[^1]: Interestingly, science still seems a bit stuck on this pursuit. The
+[^1]: Ontology is the study of being, or existence. Here, I specifically refer
+    to a specific construction of our existence produced and informed by our
+    culture and society.
+
+[^2]: If you would like a full explanation of hermeneutical injustice, I would
+    direct you to my prior blogpost, [_Liberating Biology_]. The short
+    explanation is that it is a kind of extra injustice produced by not being
+    able to articulate the injustice you face.
+
+[^3]: Interestingly, science still seems a bit stuck on this pursuit. The
     transgender gene, which itself deserves a whole blogpost, is discussed far
     more often than I wish. Even in _Bitch_, the author can't help but think
     about the essential difference between men and women. She, of course, points
@@ -515,7 +529,7 @@ way again.
     our society is so transfixed on this pursuit is itself both enlightening and
     frightening. But why must there be any difference at all?
 
-[^2]: This is a bit of jargon used in a lot of post-modern writing, but I find
+[^4]: This is a bit of jargon used in a lot of post-modern writing, but I find
     it to serve a useful place for the sake of clarity. You can think of it
     rather literally, meaning "before discussion," which is like another way of
     saying something that exists the way it exists "before" any kind of cultural
@@ -527,7 +541,7 @@ way again.
     gender, instead arguing that the "doing" of gender creates the illusion of a
     "being."
 
-[^3]: For a fascinating comparison, just like we have begun to consider biology
+[^5]: For a fascinating comparison, just like we have begun to consider biology
     and culture so interlinked we label them in conjunction, so too have the
     connections between plants and fungus become so well known that we now label
     them as one: micorrhiza. In fact, the very products of "plants" are
