@@ -119,8 +119,11 @@ for our objective study. For if we may speak through the skeletons as if we know
 what they really are, then who else may we be allowed to speak through? And what
 narratives may be essentialized and mandated despite the wishes, the
 experiences, the knowledge of the queer society, always and forever living
-within our midst? I feel for the bones, because I too have been spoken through.
-But what are those narratives?
+within our midst?
+
+I am the bones that are being spoken for and through. What narratives are being
+told through the appropriation of my very existence? And, when I, the bones,
+find the power to speak to you, what narratives may I begin to tell?
 
 ### Governing Narratives
 
