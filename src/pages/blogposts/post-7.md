@@ -220,7 +220,7 @@ to fit within an inherently queerphobic framework. But then why does it exist?
 Where did it come from? And how did it come to be? These are the questions we
 must ask ourselves prior to moving forward.
 
-## A Crisis of Sexology and Faith
+## A Crisis of Faith and The Cage of Transition
 
 It has recently become abundantly clear that sex in nature is in fact not
 binary, male/female, and does not really conform to our prescriptions of what it
@@ -288,7 +288,7 @@ born, we do just that. We mutilate them without their permission, we tell them
 how they must act, how they must dress. In fact, we assign each and every baby
 born in a hospital a gender and tell them that is what they are, regardless of
 if its "in-sync" with their sex. And when some of us say, "Actually, I'm this
-gender, and would like to modify my body to fit that" that's totally okay!
+gender, and would like to modify my body to fit that," that's totally okay!
 Because it is not as if we are suddenly attempting to derive meaning elsewhere,
 to threaten the very origin of meaning, because we are still deriving it from
 gender. As long as we still say, "Just like an intersex person, regardless of my
@@ -304,18 +304,56 @@ we conform to the framework of gender. That we allow them to speak through and
 for us and proclaim the naturalness of gender. That we continuously assert and
 reassert that some of us are just naturally feminine, dainty, and maybe a bit
 dumb, and the rest of us are naturally masculine, strong, and clever, through
-the appropriation of our bodies as yet another apparatus of patriarchy. And if
-it sounds like I am angry, then let it be known that that cannot be the case,
-because natural women do not get angry. And if it sounds like I am emotional,
-then let it be known that that is the case, because natural women do get
-emotional. This is what the dominant interpretation of my existence demands.
+the appropriation of our bodies as yet another apparatus of patriarchy.
 
-This is how biologists resolved this crisis of faith. They knew only one way to
-save their faith in a natural gender: to sever gender from sex.
+Our perspectives, our experiences, our very bodies are manipulated and contorted
+like a voodoo doll, forced to speak of narratives that deradicalize and redirect
+our expression of our bodies, simultaneously undermining our very existence
+whilst constructing and supposedly justifying them in a particular framework,
+casting our very bodies as the objective and conformist production of
+"transition," a teleological journey that begins with an incorrect sex and ends
+with a proper gender. And we ourselves are complicit in this perpetuation in the
+discussion of a pre- and post-transition self. As if transition is a painful
+journey that must eventually come to an end with the cementation of a concrete
+body. As if our bodies are nothing more than a symbol of gender. And we all feel
+the pain that this contortion of self creates, but we have no other words
+through which we may explain and understand the radical alteration of self we
+know we could not live without.
+
+My very identity as a "transgender" person, suggesting a transversion of one
+gender to another, or even of "transsexual," suggesting that of sex, imbues in
+me a narrative of "transition," of a wound that today I must bear and tomorrow
+will scar. Will my transition ever end? The word itself demands a "yes," yet I
+refuse to ever allow it to end. The identity itself begs for my assimilation, it
+craves its own end, desires both my and its self to blend into the inky black
+sea of gender, endlessly reproduces in me a belief in a naturalness inherent to
+my gender. Is there such thing? Must there be a day when the alteration of the
+body stops? Must there come a day when I too may revel in the joys of knowing a
+difference between the good queers and the bad?
+
+The inherent incoherence of existence threatened biologists. And they knew only
+one way to save their faith in a natural gender: to sever gender from sex. And
+it is this severence that enforces an imposition of coherence on the body.
 
 > They assumed that nature would give them that coherence, and when it didn't,
 > they created that coherence at the expense of the lives they labeled
 > incoherent. (Avila 57:28–57:37)
+
+And if I choose incoherence, what then? What if I choose not to carve out a
+section of existence and label it my "transition"? What if I instead choose to
+live a life _of_ transition, a life _of_ incoherence? May I be allowed to speak?
+
+Paul B. Preciado, in his planned speech, "Will You Let the Monster Speak?"
+argues gender to be a prison of the self. That he has transitioned from the
+prison of a natural woman to the prison of a natural man. What a shallow victory
+it is that we may choose our own prison. The very framework that constructs and
+justifies our being, however, is the same that constructs these two prisons from
+which we may choose. Whether we consider ourselves to be "cis" or "trans,"
+"non-binary" or "binary," we have already lost. For we are already locked in the
+cage. Because we suggest that sex, gender, and the body are all dicrete and
+categorizeable elements. Because we deny ourselves the body as a playground, and
+instead cast gender as the origin of all meaning. And because we submit our
+selfs to the fantasy of a natural self.
 
 Welcome to gender, the supposed savior of the trans community.
 
