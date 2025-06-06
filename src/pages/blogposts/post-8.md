@@ -6,9 +6,6 @@ description: 'suffering through the cisheteropatriarchal naturalizations in biol
 tags: ["gender", "anthropology", "biology"]
 ---
 
-_Please note, this blogpost has been rewritten. For the old version, see
-[here](/old/post-8)._
-
 There is a strange kind of hermeneutical injustice one faces as a transgender
 person in academia these days. We are recognized as valid whilst the language
 and lesson plans of the lectures and textbooks simultaneously construct the
@@ -459,6 +456,9 @@ And more importantly, we queers need this language. I hope that my foray into
 the queer construction of that language has alleviated some of the hermeneutical
 injustice that we queers face. At its core, that has always been the goal of
 this writing.
+
+_Please note, this blogpost has been rewritten. For the old version, see
+[here](/old/post-8)._
 
 [^1]: I do want to point out how the doer of this injustice is our professors.
     In the sexual harassment example I gave, it is quite easy to vilify the man

@@ -10,9 +10,6 @@ tags: ["gender", "philosophy", "biology", "anthropology"]
 [_Liberating Biology_]: /blogposts/post-8
 [Dream Girl]: https://open.spotify.com/track/0TNE9XzcP1uXWmhoyp3nFo
 
-_Please note, this blogpost has been rewritten. For the old version, see
-[here]._
-
 Throughout the past few years, I have been struggling to reconcile my existence
 as a queer, transgender individual with the broader ideology of our society. I
 struggle against the dominant ontology[^1] of gender and sex―paradoxically
@@ -580,6 +577,9 @@ Regardless of your answer, if you have one at all, I hope you've learned
 something from this post. I hope you look at the world just a little bit
 differently. And most importantly, I hope you can never look at your self the
 same way again.
+
+_Please note, this blogpost has been rewritten. For the old version, see
+[here]._
 
 [^1]: Ontology is the study of being, or existence. Here, I specifically refer
     to a specific construction of our existence produced and informed by our
