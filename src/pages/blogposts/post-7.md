@@ -25,7 +25,7 @@ begin to understand and reconcile my understanding of my self and my loved ones
 with these dominating frameworks of interpretation.
 
 My guiding light, through this struggle, has been the body. The body is the very
-core of my experience. In dealing with this hermeneutical injustice[^2], the
+core of my experience. In dealing with this hermeneutical injustice,[^2] the
 body has offered me safety and continuity, heralding me through my transition
 even as I struggle against the only frameworks I am offered to interpret my
 existence.
@@ -45,13 +45,13 @@ them that must be understood, deconstructed, and reconstructed in our own image.
 ## All Too Common: The Sex/Gender Division
 
 Most allies and queer people have heard of the sex/gender division―that while a
-person may be of a certain sex, that does not necessarily follow that they are
-of a certain gender. In essence, this conception of sex/gender argues these do
-not necessarily align or bundle, rather, they act as two wholly discrete and
-independent categories. It maintains sex as a specific, biological category of
-male/female (although occasionally includes intersex), but constructs gender to
-mold all those who do not cleanly conform to the binary into a different kind of
-binary for the interpretation of the outsider.
+person may be of a certain sex, it does not necessarily follow that they are of
+a certain gender. In essence, this conception of sex/gender argues these do not
+necessarily align or bundle. Instead, it argues, they act as two wholly discrete
+and independent categories. It maintains sex as a specific, biological set of
+categories of the male/female/intersex trinary, but constructs gender to mold
+all those who do not cleanly conform to these rigid categories into a different
+set of essential categories for the interpretation of the outsider.
 
 In its contemporary conception, this acts as the foundation on which trans
 identity rests. It is critical in various fields that find its neat dividing
@@ -72,9 +72,9 @@ and allow those who adopt it to end the conversation there.
 Recently, a professor of mine shared a talk she gave at a conference a few years
 back on bioarchaeology (the excavation and study of human biological remains).
 In it, she makes a very important disclaimer: while bioarchaeologists can
-_sometimes_ infer sex from bones, this is not the same thing as gender―these are
-separate categories. She, of course, proceeded to gender each and every set of
-bones discussed.
+_sometimes_ infer sex from bones,[^3] this is not the same thing as gender―these
+are separate categories. She, of course, proceeded to gender each and every set
+of bones discussed.
 
 What is interesting here is not that a cis archaeologist chose to gender their
 skeletons. Nor is it particularly surprising to me that a liberal archaeologist
@@ -267,7 +267,7 @@ expected to validate their belief in an essential sex, and
 > (43:21–43:38)
 
 Rather than confirming their belief in an essential and total difference between
-the male and the female, they actually discovered that nature is rather _queer_:[^3]
+the male and the female, they actually discovered that nature is rather _queer_:[^4]
 
 > Biologists discovered that sex wasn't a simple binary division symbolically
 > contained in a genital. Sex was a complex system of hormones and internal
@@ -445,7 +445,7 @@ made itself known to me.
 If you have already noticed this, you get bonus points for this round, but for
 the rest of you, the theory I've laid out thus far has a critical error: while
 it properly rejects the conception of either gender or sex as a kind of
-"essence" in which our authentic pre-discursive[^4] self originates, it replaces
+"essence" in which our authentic pre-discursive[^5] self originates, it replaces
 it with another kind of essence―the essence of the body. Because if we portray
 the substance of being as little more than the matter of the body, we render the
 body _the_ objective authority in our experience, in our being.
@@ -490,7 +490,7 @@ structures are so intimately linked, it can often be exceedingly difficult to
 separate them? It would be more accurate to describe them as a dense mesh, a
 network that pulls and pushes in on itself, tangles and expands, than merely two
 factors that feed into one another. At a certain point, it becomes so impossible
-to separate them, we label them as one.[^5]
+to separate them, we label them as one.[^6]
 
 One step further: what if I was in a society where short hair was considered
 feminine, and long hair was considered masculine? When I came out, I would've
@@ -581,10 +581,34 @@ _Please note, this blogpost has been rewritten. For the old version, see
     explanation is that it is a kind of extra injustice produced by not being
     able to articulate the injustice you face.
 
-[^3]: Please see my prior blogpost, [_Liberating Biology_], for a more detailed
+[^3]: Please note the heavy emphasis on _sometimes_. Despite what some may
+    believe, it is actually usually not possible to infer someone's sex from
+    their bones, even with a complete skeleton, and this process is itself
+    heavily subject to cultural bias. At one point, archaeologists realized that
+    the vast majority of skeletal remains they had found had been labeled as
+    male. Of course, there is no reason for "male" remains to be more common or
+    recoverable than "female" remains. They realized that there was a heavy bias
+    to label indeterminate sexed remains as male, simply because male is seen as
+    the androgynous default. Nowadays, most remains are seen as indeterminately
+    sexed, with only a relatively small number being sexually differentiated
+    enough for archaeologists to tell the difference. Additionally, it is never
+    absolute, rather, a matter of likelihoods and probabilities. Take for
+    example, a contemporary method of determining sex, where archaeologists
+    study the tooth enamel. Bodies with a present Y chromosome have a certain
+    element in their enamel, so depending on if it is present or not,
+    archaeologists can define a probability of chromosomal sex. Of course, even
+    then, there are plenty of humans whose chromosomal sex does not conform to
+    their phenotype in the convention western way we presume it to, even tens of
+    thousands of years ago. Finally, do note that as explored in my previous
+    blogpost, [_Liberating Biology_], sex is not binary, and therefore there is
+    not so much the ability for us to determine a person's sex, so much as we
+    are able to determine the sexual differentiation of various components of
+    their body.
+
+[^4]: Please see my prior blogpost, [_Liberating Biology_], for a more detailed
     look at this.
 
-[^4]: This is a bit of jargon used in a lot of post-modern writing, but I find
+[^5]: This is a bit of jargon used in a lot of post-modern writing, but I find
     it to serve a useful place for the sake of clarity. You can think of it
     rather literally, meaning "before discussion," which is like another way of
     saying something that exists the way it exists "before" any kind of cultural
@@ -596,7 +620,7 @@ _Please note, this blogpost has been rewritten. For the old version, see
     gender, instead arguing that the "doing" of gender creates the illusion of a
     "being."
 
-[^5]: For a fascinating comparison, just like we have begun to consider biology
+[^6]: For a fascinating comparison, just like we have begun to consider biology
     and culture so interlinked we label them in conjunction, so too have the
     connections between plants and fungi become so well known that we now label
     them as one: micorrhiza. In fact, the very products of "plants" are
