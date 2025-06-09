@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Redefining Sex, Gender, and The Body Itself'
-pubDate: 03 June 2025
+pubDate: 09 June 2025
 description: 'dismantling the separation of these queer components'
 tags: ["gender", "philosophy", "biology", "anthropology"]
 ---
