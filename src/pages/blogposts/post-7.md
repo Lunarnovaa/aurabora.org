@@ -76,11 +76,11 @@ _sometimes_ infer sex from bones,[^3] this is not the same thing as gender―the
 are separate categories. She, of course, proceeded to gender each and every set
 of bones discussed.
 
-What is interesting here is not that a cis archaeologist chose to gender their
-skeletons. Nor is it particularly surprising to me that a liberal archaeologist
-did so while citing the sex/gender division as a protective oath in the manner
-of a land acknowledgement. What is _most_ interesting to me is that this reveals
-who the sex/gender division is _really_ for: the academic.
+What is particularly interesting here is not that a cis archaeologist chose to
+gender their skeletons. Nor is it particularly surprising to me that a liberal
+archaeologist did so while citing the sex/gender division as a protective oath
+in the manner of a land acknowledgement. What is _most_ interesting to me is
+that this reveals who the sex/gender division is _really_ for: the academic.
 
 Just a single layer underneath this conception of sex/gender lies a deeper idea
 that while gender is a fluid, cultural, _subjective_ element, sex isn't like
@@ -93,7 +93,7 @@ Her words disturbed me. Yes, absolutely, for my self and the queer community,
 but also because of the subject matter. Because it positions our specific
 (cisheteronormative) understanding of sex as not just accurate but in fact
 universal. That in every moment of time, sex acts as a simplistic, scientific
-feature. Is this not of a colonial impulse? The desire to not just know, but to
+feature. Is this not a colonial impulse? The desire to not just know, but to
 enforce your particular understanding on each set of bones that come under your
 microscope reproduces not just queerphobia, but the fundamental arrangement of
 power within a settler-colonial society. We argue sex is of the bones. But who
@@ -504,17 +504,17 @@ instruction-set―estrogen.
 
 I believe that "The Body" is this intersection. That substance that I talked
 about is _far_ from authoritative! Rather, it is more like a symbolic product of
-Sex, which is the biological instruction-set of human variation and
-differentiation (and not at all binary), and Gender, which is the cultural
-interpretation of physical, symbolic, and even abstract elements. "The Body" is
-not really anything, rather, it is an illusion―a sock puppet―produced by the
-intersection and manipulation of _both_ Sex and Gender. It is not a creature, so
-much as an ecosystem. It carries a history of evolution, life, and struggle, yet
-it is not an individual feature. It is the symbolic production of diverse webs
-of biological, individual, and social functions and components. The Body does
-not derive meaning from itself, rather it itself is a derivation of meaning
-produced by innumerable features, organisms, variations, changes, histories,
-interpretations, actions, choices, mutations, and so much more.
+Sex, which is the biological processes of human variation and differentiation
+(and not at all binary), and Gender, which is the cultural interpretation of
+physical, symbolic, and even abstract elements. "The Body" is not an
+independent, tangible object, rather, it is an illusion―a sock puppet―produced
+by the intersection and manipulation of _both_ Sex and Gender. It is not a
+creature, so much as an ecosystem. It carries a history of evolution, life, and
+struggle, yet it is not an individual feature. It is the symbolic production of
+diverse webs of biological, individual, and social functions and components. The
+Body does not derive meaning from itself, rather it itself is a derivation of
+meaning produced by innumerable features, organisms, variations, changes,
+histories, interpretations, actions, choices, mutations, and so much more.
 
 Understanding The Body to be not an authority but a product reveals the
 dimensions of it and frees us to explore each and every component of this
@@ -584,12 +584,13 @@ _Please note, this blogpost has been rewritten. For the old version, see
 [^3]: Please note the heavy emphasis on _sometimes_. Despite what some may
     believe, it is actually usually not possible to infer someone's sex from
     their bones, even with a complete skeleton, and this process is itself
-    heavily subject to cultural bias. At one point, archaeologists realized that
-    the vast majority of skeletal remains they had found had been labeled as
-    male. Of course, there is no reason for "male" remains to be more common or
-    recoverable than "female" remains. They realized that there was a heavy bias
-    to label indeterminate sexed remains as male, simply because male is seen as
-    the androgynous default. Nowadays, most remains are seen as indeterminately
+    heavily subject to cultural bias. For example, a professor of mine shared a
+    story that at a certain prominent museum, curators realized the large
+    majority of skeletal remains had been labeled male, despite there obviously
+    being no reason for "male" remains to be more common or recoverable than
+    "female" remains. They realized that there was a heavy bias to label
+    indeterminate sexed remains as male, simply because male is seen as the
+    androgynous default. Nowadays, most remains are labeled as indeterminately
     sexed, with only a relatively small number being sexually differentiated
     enough for archaeologists to tell the difference. Additionally, it is never
     absolute, rather, a matter of likelihoods and probabilities. Take for
@@ -598,8 +599,8 @@ _Please note, this blogpost has been rewritten. For the old version, see
     element in their enamel, so depending on if it is present or not,
     archaeologists can define a probability of chromosomal sex. Of course, even
     then, there are plenty of humans whose chromosomal sex does not conform to
-    their phenotype in the convention western way we presume it to, even tens of
-    thousands of years ago. Finally, do note that as explored in my previous
+    their phenotype in the conventional western way we presume it to, even tens
+    of thousands of years ago. Finally, do note that as explored in my previous
     blogpost, [_Liberating Biology_], sex is not binary, and therefore there is
     not so much the ability for us to determine a person's sex, so much as we
     are able to determine the sexual differentiation of various components of
