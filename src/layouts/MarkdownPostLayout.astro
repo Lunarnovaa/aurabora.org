@@ -2,10 +2,16 @@
 import BaseLayout from "./BaseLayout.astro";
 
 const { frontmatter } = Astro.props;
+
+// Taken from NotAShelf/notashelf.dev
+const content = await Astro.slots.render("default");
+const rawWordCount = content.split(/\s+/g).length;
+// End of notashelf.dev inspiration
+const wordCount = rawWordCount.toLocaleString(undefined)
 ---
 
 <BaseLayout pageTitle = {frontmatter.title} pageDescription = {frontmatter.description}>
-    <p class="subtitle">{frontmatter.pubDate}</p>
+  <p class="subtitle">{frontmatter.pubDate} - {wordCount} words</p>
     <slot />
 
     <div class="tags"> Tags:
