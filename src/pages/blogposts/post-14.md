@@ -29,7 +29,7 @@ In isolation, this clash seems more psychiatric than legal, an argument of
 ability and love more than of violence or force. But dig a little deeper, and we
 shall see more.
 
-## Just Another Gigalo
+## Just Another Gigolo
 
 After the prosecution argues Hye-Yeong, the victim, does not actually have the
 capacity to consent, Attorney Woo steps out of the courtroom, and Hye-Yeong
@@ -42,34 +42,35 @@ out of court by paying back the debt, which is why they hadn't heard of it.
 
 This angers Attorney Woo. She trusted the defendant, only to find out he was
 keeping the truth from her, and believes he truly was just using her, just like
-he used both the vitim and his past girlfriend. She tells him he'll resign the
+he used both the victim and his past girlfriend. She tells him she'll resign the
 case.
 
-That evening, Attorney Woo and her new boyfriend, who is not disabled, head out
-for a walk. On it, they greet some of her boyfriend's old friends. They tell him
-its so kind of him to be giving back, doing charity work. Confused, he tells
-them that he's on a date, and introduces them to Attorney Woo. Attorney Woo
+That evening, Attorney Woo and her boyfriend, who is not disabled, head out for
+a walk. On it, they greet some of her boyfriend's old friends. They tell him its
+so kind of him to be giving back, doing charity work. Confused, he tells them
+that he's on a date, and introduces them to Attorney Woo. Attorney Woo
 enthusiastically introduces herself to them,[^1] but his friends seem more
 embarrassed than anything else.
 
 [^1]: This scene really spoke to me, especially Attorney Woo's excitement. In a
     previous episode, when they were still just friends, Attorney Woo and her
-    boyfriend were on a walk when one of his friend's saw them and said
-    something similar. Similarly, he told him that they were friends, coworkers,
-    certainly not charity. This destroyed Attorney Woo, who felt happy to be
-    making close friends. Feeling like your friend or lover is only with you out
-    of sympathy is genuinely an awful feeling, especially for disabled people
-    who are continuously told that loving them is too difficult, or that they
-    aren't able to be a good friend. So, when Attorney Woo's boyfriend made it
+    boyfriend were on a walk when one of his friend's saw them and complimented
+    her boyfriend on his charity. Her boyfriend of course told him that they
+    were friends, coworkers, certainly not charity. And yet, the comment still
+    simply destroyed Attorney Woo, who had felt happy to be making close
+    friends. Feeling like your friend or lover is only with you out of sympathy
+    is genuinely an awful feeling, especially for disabled people who are
+    continuously told that loving them is too difficult, or that they aren't
+    able to be a good friend. So, when Attorney Woo's boyfriend made it
     explicitly clear that she was not a charity case, or a sympathy date, but
     rather a person he is _proud_ to say he is on a date with, I shared Attorney
-    Woo's ecstasy.
+    Woo's excitement.
 
 In this moment, however, Attorney Woo spotted the writing on the "friends'"
 coffee cups, and realized what Hye-Yeong meant by "BA": "Barista Academy." She
 ran off to find Hye-Yeong and speak to her as she wanted.
 
-## But Whose Gigalo?
+## But Whose Gigolo?
 
 Attorney Woo and her boyfriend barely caught the victim leaving Barista Academy.
 But when they did, she explained that she did not want the defendant to go to
@@ -160,28 +161,29 @@ improve, and sharing a better, still awkward kiss. Despite how the court
 interprets their love, they will love. It highlights a painfully recurring theme
 in many marginalized peoples' lives. Does the law know us?
 
-When discussing the North American Graves Repatriation and Protection Act, I
-argued that the many issues that have arisen in court over this are not
-anomalous, but rather, an inherent and unavoidable part of the law as an
-institution. "The court must decide authoritatively on the case, even if it does
-not actually have the functional authority to do so." Does the judge have the
-authority to decide if Hye-Yeong's love is authentic or just a product of
-manipulation? What about of Attorney Woo's? May Attorney Woo, or Hye-Yeong, or
-any autistic person―especially any autistic woman―love freely outside
-manipulation? Truly, as this episode shows, they do not have the authority to
-say so. And yet they must act with that authority, despite the consequences.
+When discussing the North American Graves Repatriation and Protection Act in my
+Intro to Archaeology class, I argued that the many issues that have arisen in
+court over this are not anomalous, but rather, an inherent and unavoidable part
+of the law as an institution. "The court must decide authoritatively on the
+case, even if it does not actually have the functional authority to do so." Does
+the judge have the authority to decide if Hye-Yeong's love is authentic or just
+a product of manipulation? What about of Attorney Woo's? May Attorney Woo, or
+Hye-Yeong, or any autistic person―especially any autistic woman―love freely
+outside manipulation? Truly, as this episode shows, the court does not have the
+authority to say so. And yet it must act with that authority, regardless of the
+consequences.
 
 A recurring theme in many marginalized peoples' lives, certainly mine, is the
 knowledge and authority of the law. The law must act with authority, and yet it
 has none. It must proclaim its validity, and yet it has none. It must express
 its knowledge, and yet it has none. The law's only authority comes from within
-itself, yet the law exists outside of our lives.
+itself, yet we, the marginalized, exist outside the law.
 
 If the law's authority comes from itself, then lives like mine, or Attorney
 Woo's, are unrecognizable to it. The judge cannot rule in Hye-Yeong's favor
 without truly undermining its own authority, recognizing that it does not have
-complete knowledge.
+complete knowledge, recognizing the Hye-Yeong knows something it does not.
 
 Yet the ending of the episode shows the joyful side of this: life outside the
 law. As Attorney Woo's boyfriend says, it does not matter what the law thinks of
-them. Only what they think of themselves, of their love.
+them. Only what they think of themselves. Only what they think of their love.
