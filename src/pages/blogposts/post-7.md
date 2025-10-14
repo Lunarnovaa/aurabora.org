@@ -89,11 +89,10 @@ _objective_. While this notion casts itself as a progressive impulse of noting
 the variation and cultural definition of gender, what it is actually doing is
 protecting the presumed objectivity of sex.
 
-Her words disturbed me. Yes, absolutely, for my self and the queer community,
-but also because of the subject matter. Because it positions our specific
+Her words positioned our particular
 (cisheteronormative) understanding of sex as not just accurate but in fact
 universal. That in every moment of time, sex acts as a simplistic, scientific
-feature. Is this not a colonial impulse? The desire to not just know, but to
+feature. It reveals the colonial desire to not just know, but to
 enforce your particular understanding on each set of bones that come under your
 microscope reproduces not just queerphobia, but the fundamental arrangement of
 power within a settler-colonial society. We argue sex is of the bones. But who
@@ -141,8 +140,7 @@ conceptions of gender not justify and reproduce gender as an ontological
 authority?
 
 God, there is such an allure to the argument. Its seductive logic intoxicates
-me, begs me to embrace it, to deny my desires, to fulfill its demands. And yet,
-like another intoxicating substance, its consequences seem undesirable and
+me, begs me to embrace it, to deny my desires, to fulfill its demands. And yet, its consequences seem undesirable,
 toxic. Why must I forgo the modification of the body? Is my desire for
 modification purely derived from body issues? Does the embrace of femininity
 reassert gender as an oppressive apparatus of patriarchy and
@@ -164,7 +162,8 @@ narratives, its own ideology. And we allow our society to speak through us,
 because we know its what they want to hear. Our doctors. Our therapists. Our
 parents. Our employers. Our teachers. Sometimes even our friends.
 
-And if we do not obey and do not tell it, our desires, our needs, our medicine,
+Even if it is not us who speak the words, it is the story through which they recognize
+our existence. And if we do not submit our self to the narrative, our desires, our needs, our medicine,
 and most of all, our agency will be delayed and denied.
 
 But what does this narrative _really tell_? Where does it _really come from_? At
@@ -176,7 +175,7 @@ mirror and suffer, our suffering comes from a sex that aligns itself with the
 wrong gender. We submit our self to a naturalizing conception of the body.
 
 What really is a natural woman or a natural man? Do we transition out of the
-desire to be one? Queer people are often cast merely as trying to found our true
+desire to be one? Queer people are often cast merely as trying to find our true
 self. We do not choose to be gay, we just are attracted to people of the same
 sex. We do not choose to be transgender, we just were born in the wrong body. We
 come out and say, "I am supposed to be a natural woman!" And we do this to
@@ -184,13 +183,13 @@ satisfy a very specific requirement set by a very particular framework. We must
 appeal to this framework, and in doing so, we justify our desires for the
 modification of the body with a narrative of pain and dislocation. We say
 "imagine if you were born in the body of the opposite sex!" as if there is any
-such thing as an opposing sex, as if it is just that our body is fundamentally
+such thing as an opposing sex, as if it is simply that our body is fundamentally
 wrong and must be corrected, as if the extent of our experience is an improper
 separation between sex and gender.
 
 Considering the paper my mother once wrote, I realize it hinges on the false
 conception of transition as being premised on the idea that the body is wrong
-and must be corrected. That we hate our self so desperately that we morph our
+and must be corrected. That we hate our self so desperately we choose morph our
 body to fit the culturally approved conception of the body. And that we desire
 to be feminine because we believe it is what a woman must be. But is this true?
 Do we transition only out of pain, dislocation, self-hate, and social pressure?
@@ -198,7 +197,7 @@ To some extent, we do. But to a greater extent, for many of us, we transition
 out of joy. Out of the euphoria one finds within their transition. The happiness
 and ecstasy one feels when they look into their mirror and see their
 "[Dream Girl]." And at the end of the day, it is the modifications we make that
-free us from our self-hate, and not because we now have a body that patriarchy
+free us from our self-hate, not because we now have a body that patriarchy
 and transphobia find agreeable, but because we have found a kind of liberating
 agency over our self that we never could imagine before. Because it is so
 freeing, so liberating, and so euphoric to have that kind of agency over your
@@ -212,7 +211,7 @@ particular way―what is that way? And on the dissolution of this narrative, wha
 presumptions might incidentally be destroyed? These are the questions we must
 consider before moving forward.
 
-## The Construction of The Ends, and the Devaluation of The Means
+## Islands of Coherence
 
 When I first began transitioning, my goal was simple: to become a woman. Simone
 de Beauvoir's seminal quote, "One is not born a woman: one becomes one" stuck in
@@ -220,7 +219,7 @@ my mind and guided my path (_The Second Sex_). And her argument against the
 conception of a "natural woman" is one to which a lot of trans people can relate
 to, I think. Many of us, like me, likely have it coursing through our brain,
 justifying our actions, comforting us in the darkest of times. And yet at the
-same time, we all feel this kind of impulse to define our selfs as originating
+same time, many of us feel this kind of impulse to define our selfs as originating
 in the soup of hormones and chemicals in our brains, or as a strange mutation
 transpiring in our very genome. We feel the need to proclaim our selfs to be
 born as a woman. And I believe many, like myself, feel conflicted by this
@@ -231,9 +230,9 @@ biologically-originating gender.
 
 We don't really know what else to hold on to. We know we must do as we feel we
 need to, whether due to dysphoria or euphoria, and without this framework of
-birthright, we do not know how else to justify it. The narratives we are forced
-to speak themselves compel this construction of self. We are diagnosed with
-gender dysphoria and are told everything we do as trans people are to cure it.
+birthright, we do not know how else to justify it. The binding narratives through which we are forced
+to articulate our selfs overwhelm our sense of self. We are diagnosed with
+gender dysphoria and are told everything we do as trans people is to cure it.
 We ourselves sometimes say, "Like it or not, gender dysphoria exists, and
 transition is the only proven treatment," framing our very being as little more
 than a medical and social intervention. And in doing so, we devalue the very
@@ -292,7 +291,7 @@ we have believed that there is some kind of intelligible origin of "women" and
 genome, our hormones. The reality is, however, that differentiation does not
 occur on such rigid, binary, essential lines. The reality is that humans, just
 as all of nature, are messy. That our sex may not be cleanly cleaved into
-"male/man" and "female/woman."
+male/female.
 
 And yet we still view the differentiation of nature as not merely an element of
 fluid variability, but of essentializing naturalization. That we diverge not
@@ -306,8 +305,8 @@ Pick a category. Pick up your scalpel and your suture. Fix the body.
 
 You see, maybe sex really is fluid. But we know better than nature. We are
 civilized. We know the difference between man and woman. So those whose bodies
-do not, we will ensure they do. If sex is so wild, then let us create the
-civilized concept of gender.
+do not, we will ensure they do. If sex is so wild, then let us manufacture gender
+as a dimension of civilization.
 
 So at its core, the resultant differentiation between sex and gender freed
 gender from sex. And that meant we may freely modify the body to enforce gender
@@ -316,7 +315,7 @@ without their knowledge or permission. We tell them how they must dress, how
 they must act, the kind of person they must marry. We tell them, if they do
 this, society will love them. Their heterosexual spouse will love them. And in
 fact, we do this to each and every baby born. We write on their birth
-certificate what gender they must perform. We tell them its essential to their
+certificate what gender they must perform. We tell them it is essential to their
 very being.
 
 And when I, a trans person, suggest that I was actually born a woman, we modify
@@ -337,7 +336,7 @@ as we never reject the authority of a legal document proclaiming our
 naturalness, as long as we shut up until we pass so well nobody would even think
 we transitioned so much as enjoyed it, only then might we be allowed the right
 to speak, to fight, to demand. And we may never be allowed to render our body
-ours by reconstructing it in our own image, in the way we want.
+ours by reconstructing it in an image that denies the essence of civilized gender.
 
 But at the end of the day, we must hate the fact that we are transgender. We
 must dread the acknowledgement of our transition. We must, at some point, bring
@@ -407,10 +406,11 @@ you are viewed and gendered. From one set of clothes to another, others may see
 you in a radically altered light. An observer could read you as male, female, or
 simply be overwhelmed by confusion.
 
-What about when I put on my makeup? The eyeliner changes the shape of my face.
+The eyeliner changes the shape of my face.
 The blush alters the texture of my expression. The lip tint enlarges or shrinks
-my lips. At will, I can alter the vessel I inhabit. I can morph and mold the
-substance of my being―_that_ is the performance, not merely a canvas.
+my lips. By taking estrogen, the very governing chemistry of my body morphs to conform to
+my vision, my self. At will, I can morph and mold the
+substance of my being―not merely as a canvas, but as my self.
 
 Must there be a doer behind the deed? I must admit, I am embarrassed to write
 this, but shortly before I realized I was transgender, I tried to adopt some
@@ -419,20 +419,20 @@ the first time in my life, tried to find a more masculine style beyond the bland
 sweatpants-and-t-shirt style I could bear wearing, and thought I would be
 happier if I just was a bit better at being a dude. I leaned into the
 performance in the way society told me I must, but it failed make me any
-happier. But must this mean I was simply "naturally" a woman this whole time? Or
-could the very story be used to invalidate the naturalization of gender?
+happier. But must this mean I was simply "naturally" a woman this whole time, lost
+without knowledge of my "true self," my governing essence?
 
-Recently, I have begun to view the performance as not just a theatrical layer of
-natural gender, but rather the very essence of gender itself. In other words, I
-have begun to view the body is the premier substance of the self. That each act
-I do, each piece of clothing I adorn, each movement I make, and each word I
-speak demonstrate a certain kind of self that I perform. And frankly, this
+I have realized the performance is not just a theatrical layer of
+natural gender, but rather the very essence of gender itself. In other words, if
+there is any truth to the self, any site from which to derive meaning, any essence
+that is "us," it is the body. That each act
+I do, each piece of clothing I adorn, each movement I make, each word I
+speak, and each alteration I make to my body demonstrate a certain kind of self that I perform. And frankly, this
 framework has felt deeply liberating. Because it frees me from the burden of
 finding my "true self," whatever that could mean, frees me from a teleological
 narrative that instructs and informs my histories and struggles, and allows me
 to sculpt my body and its adorned elements however I please with no fear of
-mistake. For there is no longer an end I must pursue, but rather a means through
-which I live.
+mistake. For if there is no end at which I must arrive, I may only ever live within the process.
 
 I find this alternate narrative so appealing. And yet, I have still felt there
 is a piece missing. The narrative compels me to tell it, but I fear an
@@ -442,17 +442,15 @@ made itself known to me.
 
 ## Must there be a substance to the body?
 
-If you have already noticed this, you get bonus points for this round, but for
-the rest of you, the theory I've laid out thus far has a critical error: while
-it properly rejects the conception of either gender or sex as a kind of
+While this idea, in my opinion, properly rejects the conception of either gender or sex as a kind of
 "essence" in which our authentic pre-discursive[^5] self originates, it replaces
 it with another kind of essence―the essence of the body. Because if we portray
 the substance of being as little more than the matter of the body, we render the
-body _the_ objective authority in our experience, in our being.
+body _the_ sole authority in our experience, in our being.
 
 Considering the history of gender in the twentieth century, it is all too easy
 to return the full authority of our experiences over to the body. Seeing the
-desecration of our bodies and queer agency to it, there is a startling
+desecration of our bodies and the denial of our agency to it, there is a startling
 temptation to render the body the authority, to suggest that there is nothing
 beyond its walls. However, I believe the scope of possibility widens upon moving
 beyond this mistake.
@@ -463,65 +461,77 @@ body and our culture that may serve useful: Bioculture.
 
 ### Bioculture: The Web of The Body
 
-Bioculture is a simple portmanteau of the words "Biology" and "Culture." Its
-meaning reflects that, arguing we simply cannot understand either a person's
-biology or a person's culture without understanding both in relation to one
-another. For example, if we are to understand hair, we must understand not just
-biology, but culture: is it purely biological how the hair is cut? To what
-length? How about its style? Is it simply biological that, in our society, girls
-tend to have long hair, and boys tend to have short hair? Is it purely cultural?
-It's both. The form of the hair is both biological and cultural: some have
-naturally wavy hair and use a hot iron to straighten it, others have naturally
-straight hair and use a curling iron to curl it. The cut is most often cultural,
-but absolutely can have biological factors as well. People on chemo tend to have
-no hair at all. Is that cultural? Or is it biological? It is most often both. We
-must understand both the biology and culture, but also the history, the
-environments, and the various factors that led to the biocultural
-outcome―variation, function, mutation, random chance, even simply taste.
-Bioculture is an ecosystem of these various factors thriving, adapting,
-mutating, evolving in conjunction.
+Biology and culture, just like sex and gender, have often been severed and defined
+in opposition to one another―where culture is socially defined, biology is objective,
+scientific. In fact, the very sex/gender division is often predicated on the idea of
+culture and biology as being cleanly separable. I was once taught that gender resides
+in culture, and sex resides in biology. But are these so separable? Do these two components of humanity exist in stark contrast
+between one another, with borders as clearly defined as that of two states?
 
-Let us take this hair metaphor and run with it. Did you know that testosterone
-makes your hair a bit thicker? So when I started my transition, the first thing
-I did was get my hair cut differently―a cultural modification to a biological
-component. But when I began taking estrogen, my hair thinned out a bit―a
-biological alteration to a cultural component. Do you see how these two
-structures are so intimately linked, it can often be exceedingly difficult to
-separate them? It would be more accurate to describe them as a dense mesh, a
-network that pulls and pushes in on itself, tangles and expands, than merely two
-factors that feed into one another. At a certain point, it becomes so impossible
-to separate them, we label them as one.[^6]
+In a class I took on indigenous North American cultures, my professor
+taught us the way to remember the Aleut was by the pointy "A"―the Aleut, a tribe in the
+arctic, learned to mold their finger nails into tools by sharpening them into pointy A's.
+In essence, a cultural component is dependent on an element of human biology, and included
+modifying the body into a tool. While we think of technology as a purely cultural element
+such as sharpening rocks into axes or fastening bows from twine and wood, for the Aleut,
+technology includes molding the body into a tool. To us, this is transhumanist―for them, it is
+little more than a clever technique learned and honed from skill and experience. Their
+culture is dependent on their biology, their biology dependent on their culture.
 
-One step further: what if I was in a society where short hair was considered
-feminine, and long hair was considered masculine? When I came out, I would've
-had long hair. And rather than getting a minor, feminine cut and then growing it
-out, I would've simply cut it short, and continued to do so. But still, when I
-took estrogen, my hair would thin out a bit. So here we have two slightly
-different modifications to the body, each influenced by our culture, and
-influenced by biology, ultimately resting in this intersection between our
-conception of "feminine" and our body's reaction to a given
-instruction-set―estrogen.
+A classic example I was taught revolves around food. Where we medicalize fat as a pathological
+problem that requires intervention, often of the medical nature, it in reality is a production
+of culture. Where we individualize our bodies and sever our selfs from our society, the reality
+is that our culture, our society, instructs what and how we eat. Our culture, and our position in
+society, molds our body in a particular way, and interprets it accordingly. At one point, in European societies,
+when food was scarce and work was not, it was seen as the height of privilege
+and wealth to be fat. As biology was molded according to the division of resources and labor,
+culture changed with it, as one. Today, as obesity rates skyrocket in the United States, we live
+in a society in which fatty, caloric dense foods are the most abundant, and excercise is a privilege,
+gym memberships and time to run in the mornings scarcer than food. Accordingly, our biology and
+culture change as one. Where the poor once were scrawny and the wealthy were plump, the poor
+now are fat and the wealthy are lean. And, simultaneously, where fat was once a symbol of
+wealth, it is now a symbol of individual failure and poverty.
 
-I believe that "The Body" is this intersection. That substance that I talked
-about is _far_ from authoritative! Rather, it is more like a symbolic product of
-Sex, which is the biological processes of human variation and differentiation
-(and not at all binary), and Gender, which is the cultural interpretation of
-physical, symbolic, and even abstract elements. "The Body" is not an
-independent, tangible object, rather, it is an illusion―a sock puppet―produced
-by the intersection and manipulation of _both_ Sex and Gender. It is not a
-creature, so much as an ecosystem. It carries a history of evolution, life, and
-struggle, yet it is not an individual feature. It is the symbolic production of
-diverse webs of biological, individual, and social functions and components. The
-Body does not derive meaning from itself, rather it itself is a derivation of
-meaning produced by innumerable features, organisms, variations, changes,
+Although we think of culture as a tool through which humanity adapts to its surroundings, and
+biology as the basis through which we are unified objectively, these two elements work in conjunction
+with our identies, our social and individual agency, and our environments to produce a cohesive
+subject. The individual body is as imagined as is the society in which we emerge.
+
+If anything, "The Body" is not so much a material substance, but a symbolic product,
+an imagination and extension of so many elements of how we understand and have narratively
+produced our "self" that reside not simply in our mind, but in our society, and in our blood. It is
+a symbol that is imposed upon us, often violently. It is a symbol that we recreate
+and reproduce with each step we take. It is a symbol that is inferred and reinterpreted
+countless times until we no longer see the text, and instead merely the interpretation.
+
+And when we choose to rewrite the words, or to tear up the symbol and start annew, or to
+demand that our interpretation, our reimagining of the symbol is real,
+we are told that our interpretation doesn't change the text. We are told, in so many words, that we are insane.
+
+While the body is seen as authoritative, concrete, permanent, the truth is that it is nothing
+more than a sock puppet with the hands of so many controlling it. It is the shadow on the wall
+when one manipulates sex and gender within the limitations and narratives of one's society, of
+one's world. It is an ecosystem of change, of relationships, of creatures that cannot merely
+be understood atomistically and only holistically. The body does not derive meaning from itself.
+It is the derivation of meaning produced by innumerable features, organisms, variations, changes,
 histories, interpretations, actions, choices, mutations, and so much more.
 
-Understanding The Body to be not an authority but a product reveals the
+There is a certain form to the body. But to suggest one could hope to understand that form
+on its own without grappling with the biocultural ecosystems it resides in is to declare oneself
+God, harbinger of objective truth. When I gaze upon my hand, I do not just see my hand as it is.
+I see it as it is produced within my culture, modified and affected by my biology, my society's
+biology. I could not hope to understand it and my relationship with it without grappling with how the
+color of my skin is understood, what the length of my fingers means to me, how my veins are produced
+and understood, what brought about my injury and how it is considered, the length and shape of my
+finger nails and why they are that way, how I have used it throughout
+my life. I do not simply see "my hand," but rather a text that changes me and is changed by me through interpretation and relation.
+
+Understanding the body to be not an authority but a product reveals the
 dimensions of it and frees us to explore each and every component of this
 illusion in the fullest sense. It is not that the body is irrelevant, or that
 there is no "Gender Identity" that matters, but that each and every one of these
 components influence one another in a tight-knit web of order, consequence, and
-influence, producing one final illusive product: The Body.
+influence, producing one final substantial product: The Body.
 
 ## One Final Question, Two Final Answers: The Origin of Bodily Vision
 
@@ -620,13 +630,3 @@ _Please note, this blogpost has been rewritten. For the old version, see
     of gender performativity denies a "being" (_especially_ pre-discursive) of
     gender, instead arguing that the "doing" of gender creates the illusion of a
     "being."
-
-[^6]: For a fascinating comparison, just like we have begun to consider biology
-    and culture so interlinked we label them in conjunction, so too have the
-    connections between plants and fungi become so well known that we now label
-    them as one: micorrhiza. In fact, the very products of "plants" are
-    literally modified by and dependent on the fungi that make up the
-    mycorrhiza. That fruit you're eating? It's not just of a plant, but of the
-    relationship between plants and fungi. For more information, I strongly
-    recommend checking out _Entangled Life: How Fungi Make Our Worlds, Change
-    Our Minds & Shape Our Futures_ by Merlin Sheldrake.
