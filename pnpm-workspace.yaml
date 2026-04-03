@@ -1,0 +1,4 @@
+allowBuilds:
+  esbuild: false
+  node: false
+  sharp: false

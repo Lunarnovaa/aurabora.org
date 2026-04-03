@@ -1,49 +1,103 @@
 ---
-import { Image } from 'astro:assets';
-import butlerImage1 from '../imgs/gender-performativity/pt1.jpg';
-import butlerImage2 from '../imgs/gender-performativity/pt2.png';
+import { Image } from "astro:assets";
+import butlerImage1 from "../imgs/gender-performativity/pt1.jpg";
+import butlerImage2 from "../imgs/gender-performativity/pt2.png";
 
-import BaseLayout from '../layouts/BaseLayout.astro';
+import BaseLayout from "../layouts/BaseLayout.astro";
 
 const pageTitle = "aurabora.org";
 const pageDescription = "an explanation of my website.";
 ---
-<BaseLayout pageTitle = {pageTitle} pageDescription = {pageDescription}>
-        <p>aurabora.org is a simple website I have built using Astro that serves as the hub for my blogposts and a collection of resources i find to be particularly useful. Its use may grow overtime so be on the lookout for changes.</p>
 
-        <h2>blogposts</h2>
-            <p>I often write "blogposts," an informal piece of writing that mostly exists for me to share my unfinished thoughts as I learn more.</p>
-            <p>Generally, there are two types of blogposts I tend to write:</p>
-            <ol>
-                <li>More thought-out pieces usually referencing my reading</li>
-                <li>Rants/vents of my feelings and/or loose thoughts</li>
-            </ol>
-            <p>Please keep in mind that these, at the end of the day, are informal pieces of writing, and I am not interested in treating them like academic writing.</p>
-            <p>Finally, I would like to say that my blogposts are a record of my growth and learning, and as such, I may not fully agree with everything I have written prior. This is, frankly speaking, a personal frustration of mine, but I cannot rewrite every blogpost I've ever written. I ask that you read each blogpost with a grain of salt, and, if you know me personally, perhaps talk with me about any doubts and critiques you may have.</p>
-        
-        <h2>library</h2>
-            <p>I sometimes add any resources I found interesting that I used in my blogposts. Maybe at some point I'll expand this, but for now it's pretty limited. </p>
+<BaseLayout pageTitle={pageTitle} pageDescription={pageDescription}>
+    <p>
+        aurabora.org is a simple website that serves as the hub for my blogposts
+        and a collection of resources i find to be particularly useful. Its use
+        may grow overtime so be on the lookout for changes.
+    </p>
 
-        <h2>who am I?</h2>
-            <p>I'm a college student studying Anthropology. I consider myself to be a highly well rounded person, however, with interests in many fields such as Philosophy, Politics, Gender Studies, Linguistics, Web Design, Linux Development and many, many more.</p>
-            <p>As a queer transgender person <em>(she/they pronouns)</em>, I'm naturally interested in many of these fields that have shaped my own personal identity and continue to shape my existence within society.</p>
-            <p>My hopes for this website are to open your mind to other possibilities in life and for you to learn more. I hope everything included in this website encourages creativity and curiosity in its readers.</p>
-            
-        <h2>extras</h2>
-            <p>  
-                <a href="https://www.pictureofhotdog.com">a picture of a hotdog for your enjoyment</a>
-            </p>
-            <p>  
-                Judith Butler's theory of gender performativity, explained with cats (<a href="https://www.themarysue.com/judith-butler-explained-with-cats/">Source</a>)  
-                <Image 
-                    src={butlerImage1}
-                    alt="the first part of butler's theory of gender performance explained with cats"
-                    class="chart"
-                />
-                <Image 
-                    src={butlerImage2}
-                    alt="the second part of butler's theory of gender performance explained with cats"
-                    class="chart"
-                />
-            </p>
+    <h2>blogposts</h2>
+    <p>
+        I leave here informal pieces of writing that mostly exists for me to
+        share my unfinished thoughts as I learn more.
+    </p>
+    <p>Generally, there are two types of blogposts I tend to write:</p>
+    <ol>
+        <li>More thought-out pieces usually referencing my reading</li>
+        <li>Rants/vents of my feelings and/or loose thoughts</li>
+    </ol>
+    <p>
+        Please keep in mind that these, at the end of the day, are informal
+        pieces of writing, and I am not interested in treating them like
+        academic writing.
+    </p>
+    <p>
+        Finally, I would like to say that my blogposts are a record of my growth
+        and learning, and as such, I may not fully agree with everything I have
+        written prior. This is, frankly speaking, a personal frustration of
+        mine, but I cannot rewrite every blogpost I've ever written. I ask that
+        you read each blogpost with a grain of salt, and, if you know me
+        personally, perhaps talk with me about any doubts and critiques you may
+        have.
+    </p>
+
+    <h2>library</h2>
+    <p>
+        I sometimes add any resources I found interesting that I used in my
+        blogposts. Maybe at some point I'll expand this, but for now it's pretty
+        limited.
+    </p>
+
+    <h2>who am I?</h2>
+    <p>
+        I'm a college student studying anthropology and linguistics, with a
+        focus in sociopolitical linguistic anthropology, especially relating to
+        power. I consider myself to be a highly well rounded person, however,
+        with interests in fields across society that relate to my person and
+        those of my friends, as well as a whole host of creative forms.
+    </p>
+    <p>
+        As a queer transgender person <em>(she/they pronouns)</em>, I'm
+        naturally interested in many of these fields that have shaped my own
+        personal identity and continue to shape my existence within society.
+    </p>
+    <p>
+        Above all else, the goal of my writing, and the goal of theory more
+        broadly, is liberation. Here, that means both idealistic liberation
+        (through envisioning one's self), but also building a model of practice
+        that informs how we may structure our lives moving forward to create
+        liberation and love in our lives.
+    </p>
+    <p>
+        <em>Add: a work on social and political imaginations</em>
+    </p>
+    <p>
+        My hopes for this website are to open your mind to other possibilities
+        in life, to broaden your understanding of who you are and the roads that
+        have brought <strong>us</strong> here together, and to begin to help chart
+        a path elsewhere.
+    </p>
+
+    <h2>extras</h2>
+    <p>
+        <a href="https://www.pictureofhotdog.com"
+            >a picture of a hotdog for your enjoyment</a
+        >
+    </p>
+    <p>
+        Judith Butler's theory of gender performativity, explained with cats (<a
+            href="https://www.themarysue.com/judith-butler-explained-with-cats/"
+            >Source</a
+        >)
+        <Image
+            src={butlerImage1}
+            alt="the first part of butler's theory of gender performance explained with cats"
+            class="chart"
+        />
+        <Image
+            src={butlerImage2}
+            alt="the second part of butler's theory of gender performance explained with cats"
+            class="chart"
+        />
+    </p>
 </BaseLayout>
