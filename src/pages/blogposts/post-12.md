@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'You Are Already Doing Anarchy'
+title: "You Are Already Doing Anarchy"
 pubDate: 7 May 2025
-description: 'proposing politics based on practice in our daily lives'
+description: "proposing politics based on practice in our daily lives"
 tags: ["politics", "philosophy"]
 ---
 

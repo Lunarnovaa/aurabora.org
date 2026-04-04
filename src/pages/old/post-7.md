@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'Gender/Sex & Culture/Biology'
+title: "Gender/Sex & Culture/Biology"
 pubDate: 31 January 2025
-description: 'analyzing gender through the biocultural approach of anthropology'
+description: "analyzing gender through the biocultural approach of anthropology"
 tags: ["gender", "anthropology"]
 ---
 

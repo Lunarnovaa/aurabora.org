@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'Liberating Biology'
+title: "Liberating Biology"
 pubDate: 18 March 2025
-description: 'suffering through the cisheteropatriarchal naturalizations in biology'
+description: "suffering through the cisheteropatriarchal naturalizations in biology"
 tags: ["gender", "anthropology", "biology"]
 ---
 

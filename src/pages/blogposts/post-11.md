@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'Criminalization of the Body'
+title: "Criminalization of the Body"
 pubDate: 9 April 2025
-description: 'feeling a strange empowerment at my most marginalized'
+description: "feeling a strange empowerment at my most marginalized"
 tags: ["politics", "gender"]
 ---
 

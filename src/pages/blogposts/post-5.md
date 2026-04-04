@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'Imagining Being Cis'
+title: "Imagining Being Cis"
 pubDate: 15 January 2025
-description: 'imagining my life turning out differently'
+description: "imagining my life turning out differently"
 tags: ["gender"]
 ---
 

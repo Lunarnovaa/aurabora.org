@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'Sex in Biology'
+title: "Sex in Biology"
 pubDate: 28 February 2025
 updateDate: 18 March 2025
-description: 'suffering through the heteropatriarchal naturalizations in biology'
+description: "suffering through the heteropatriarchal naturalizations in biology"
 tags: ["gender", "anthropology", "biology"]
 ---
 

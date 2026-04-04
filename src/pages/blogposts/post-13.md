@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'The Dreams of Muriel the Rebel'
+title: "The Dreams of Muriel the Rebel"
 pubDate: 19 May 2025
-description: 'considering rebellion, self-worth, and insanity'
+description: "considering rebellion, self-worth, and insanity"
 tags: ["politics", "philosophy"]
 ---
 

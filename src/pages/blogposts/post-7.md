@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'Redefining Sex, Gender, and The Body Itself'
+title: "Redefining Sex, Gender, and The Body Itself"
 pubDate: 09 June 2025
-description: 'dismantling the separation of these queer components'
+description: "dismantling the separation of these queer components"
 tags: ["gender", "philosophy", "biology", "anthropology"]
 ---
 
@@ -89,16 +89,15 @@ _objective_. While this notion casts itself as a progressive impulse of noting
 the variation and cultural definition of gender, what it is actually doing is
 protecting the presumed objectivity of sex.
 
-Her words positioned our particular
-(cisheteronormative) understanding of sex as not just accurate but in fact
-universal. That in every moment of time, sex acts as a simplistic, scientific
-feature. It reveals the colonial desire to not just know, but to
-enforce your particular understanding on each set of bones that come under your
-microscope reproduces not just queerphobia, but the fundamental arrangement of
-power within a settler-colonial society. We argue sex is of the bones. But who
-might disagree? We may think that, from just a few bones, we can dictate and
-govern an individual's body, and that this is just science. Would the bones
-disagree?
+Her words positioned our particular (cisheteronormative) understanding of sex as
+not just accurate but in fact universal. That in every moment of time, sex acts
+as a simplistic, scientific feature. It reveals the colonial desire to not just
+know, but to enforce your particular understanding on each set of bones that
+come under your microscope reproduces not just queerphobia, but the fundamental
+arrangement of power within a settler-colonial society. We argue sex is of the
+bones. But who might disagree? We may think that, from just a few bones, we can
+dictate and govern an individual's body, and that this is just science. Would
+the bones disagree?
 
 By marginalizing sex to the objective, the scientific, we alienate it from our
 self. Because if all there is to the body is the matter of bones, tissues, and
@@ -140,11 +139,11 @@ conceptions of gender not justify and reproduce gender as an ontological
 authority?
 
 God, there is such an allure to the argument. Its seductive logic intoxicates
-me, begs me to embrace it, to deny my desires, to fulfill its demands. And yet, its consequences seem undesirable,
-toxic. Why must I forgo the modification of the body? Is my desire for
-modification purely derived from body issues? Does the embrace of femininity
-reassert gender as an oppressive apparatus of patriarchy and
-cisheteronormativity?
+me, begs me to embrace it, to deny my desires, to fulfill its demands. And yet,
+its consequences seem undesirable, toxic. Why must I forgo the modification of
+the body? Is my desire for modification purely derived from body issues? Does
+the embrace of femininity reassert gender as an oppressive apparatus of
+patriarchy and cisheteronormativity?
 
 There is a certain narrative all trans people know, especially those who
 medically transition. (I will be telling it from my perspective, as a transfem.)
@@ -162,9 +161,10 @@ narratives, its own ideology. And we allow our society to speak through us,
 because we know its what they want to hear. Our doctors. Our therapists. Our
 parents. Our employers. Our teachers. Sometimes even our friends.
 
-Even if it is not us who speak the words, it is the story through which they recognize
-our existence. And if we do not submit our self to the narrative, our desires, our needs, our medicine,
-and most of all, our agency will be delayed and denied.
+Even if it is not us who speak the words, it is the story through which they
+recognize our existence. And if we do not submit our self to the narrative, our
+desires, our needs, our medicine, and most of all, our agency will be delayed
+and denied.
 
 But what does this narrative _really tell_? Where does it _really come from_? At
 its core, the narrative tells a story of two components of being: sex and
@@ -197,8 +197,8 @@ To some extent, we do. But to a greater extent, for many of us, we transition
 out of joy. Out of the euphoria one finds within their transition. The happiness
 and ecstasy one feels when they look into their mirror and see their
 "[Dream Girl]." And at the end of the day, it is the modifications we make that
-free us from our self-hate, not because we now have a body that patriarchy
-and transphobia find agreeable, but because we have found a kind of liberating
+free us from our self-hate, not because we now have a body that patriarchy and
+transphobia find agreeable, but because we have found a kind of liberating
 agency over our self that we never could imagine before. Because it is so
 freeing, so liberating, and so euphoric to have that kind of agency over your
 own body, and to experiment with your body however you please. This is why we
@@ -219,10 +219,10 @@ my mind and guided my path (_The Second Sex_). And her argument against the
 conception of a "natural woman" is one to which a lot of trans people can relate
 to, I think. Many of us, like me, likely have it coursing through our brain,
 justifying our actions, comforting us in the darkest of times. And yet at the
-same time, many of us feel this kind of impulse to define our selfs as originating
-in the soup of hormones and chemicals in our brains, or as a strange mutation
-transpiring in our very genome. We feel the need to proclaim our selfs to be
-born as a woman. And I believe many, like myself, feel conflicted by this
+same time, many of us feel this kind of impulse to define our selfs as
+originating in the soup of hormones and chemicals in our brains, or as a strange
+mutation transpiring in our very genome. We feel the need to proclaim our selfs
+to be born as a woman. And I believe many, like myself, feel conflicted by this
 prospect that we are simultaneously "natural woman" and also that nobody is
 "born a woman." We feel entranced by the notion of womanhood as a kind of
 becoming, a doing, a living, yet feel the pressure to subscribe to a
@@ -230,14 +230,14 @@ biologically-originating gender.
 
 We don't really know what else to hold on to. We know we must do as we feel we
 need to, whether due to dysphoria or euphoria, and without this framework of
-birthright, we do not know how else to justify it. The binding narratives through which we are forced
-to articulate our selfs overwhelm our sense of self. We are diagnosed with
-gender dysphoria and are told everything we do as trans people is to cure it.
-We ourselves sometimes say, "Like it or not, gender dysphoria exists, and
-transition is the only proven treatment," framing our very being as little more
-than a medical and social intervention. And in doing so, we devalue the very
-means through which we exist as trans people. We devalue the very process of
-transition.
+birthright, we do not know how else to justify it. The binding narratives
+through which we are forced to articulate our selfs overwhelm our sense of self.
+We are diagnosed with gender dysphoria and are told everything we do as trans
+people is to cure it. We ourselves sometimes say, "Like it or not, gender
+dysphoria exists, and transition is the only proven treatment," framing our very
+being as little more than a medical and social intervention. And in doing so, we
+devalue the very means through which we exist as trans people. We devalue the
+very process of transition.
 
 Yet is this conception of transition itself as a process of such worthy acclaim?
 Is our existence only demarcated by a kind of exceptional, temporary, and
@@ -305,8 +305,8 @@ Pick a category. Pick up your scalpel and your suture. Fix the body.
 
 You see, maybe sex really is fluid. But we know better than nature. We are
 civilized. We know the difference between man and woman. So those whose bodies
-do not, we will ensure they do. If sex is so wild, then let us manufacture gender
-as a dimension of civilization.
+do not, we will ensure they do. If sex is so wild, then let us manufacture
+gender as a dimension of civilization.
 
 So at its core, the resultant differentiation between sex and gender freed
 gender from sex. And that meant we may freely modify the body to enforce gender
@@ -336,7 +336,8 @@ as we never reject the authority of a legal document proclaiming our
 naturalness, as long as we shut up until we pass so well nobody would even think
 we transitioned so much as enjoyed it, only then might we be allowed the right
 to speak, to fight, to demand. And we may never be allowed to render our body
-ours by reconstructing it in an image that denies the essence of civilized gender.
+ours by reconstructing it in an image that denies the essence of civilized
+gender.
 
 But at the end of the day, we must hate the fact that we are transgender. We
 must dread the acknowledgement of our transition. We must, at some point, bring
@@ -406,11 +407,11 @@ you are viewed and gendered. From one set of clothes to another, others may see
 you in a radically altered light. An observer could read you as male, female, or
 simply be overwhelmed by confusion.
 
-The eyeliner changes the shape of my face.
-The blush alters the texture of my expression. The lip tint enlarges or shrinks
-my lips. By taking estrogen, the very governing chemistry of my body morphs to conform to
-my vision, my self. At will, I can morph and mold the
-substance of my being―not merely as a canvas, but as my self.
+The eyeliner changes the shape of my face. The blush alters the texture of my
+expression. The lip tint enlarges or shrinks my lips. By taking estrogen, the
+very governing chemistry of my body morphs to conform to my vision, my self. At
+will, I can morph and mold the substance of my being―not merely as a canvas, but
+as my self.
 
 Must there be a doer behind the deed? I must admit, I am embarrassed to write
 this, but shortly before I realized I was transgender, I tried to adopt some
@@ -419,20 +420,21 @@ the first time in my life, tried to find a more masculine style beyond the bland
 sweatpants-and-t-shirt style I could bear wearing, and thought I would be
 happier if I just was a bit better at being a dude. I leaned into the
 performance in the way society told me I must, but it failed make me any
-happier. But must this mean I was simply "naturally" a woman this whole time, lost
-without knowledge of my "true self," my governing essence?
+happier. But must this mean I was simply "naturally" a woman this whole time,
+lost without knowledge of my "true self," my governing essence?
 
-I have realized the performance is not just a theatrical layer of
-natural gender, but rather the very essence of gender itself. In other words, if
-there is any truth to the self, any site from which to derive meaning, any essence
-that is "us," it is the body. That each act
-I do, each piece of clothing I adorn, each movement I make, each word I
-speak, and each alteration I make to my body demonstrate a certain kind of self that I perform. And frankly, this
+I have realized the performance is not just a theatrical layer of natural
+gender, but rather the very essence of gender itself. In other words, if there
+is any truth to the self, any site from which to derive meaning, any essence
+that is "us," it is the body. That each act I do, each piece of clothing I
+adorn, each movement I make, each word I speak, and each alteration I make to my
+body demonstrate a certain kind of self that I perform. And frankly, this
 framework has felt deeply liberating. Because it frees me from the burden of
 finding my "true self," whatever that could mean, frees me from a teleological
 narrative that instructs and informs my histories and struggles, and allows me
 to sculpt my body and its adorned elements however I please with no fear of
-mistake. For if there is no end at which I must arrive, I may only ever live within the process.
+mistake. For if there is no end at which I must arrive, I may only ever live
+within the process.
 
 I find this alternate narrative so appealing. And yet, I have still felt there
 is a piece missing. The narrative compels me to tell it, but I fear an
@@ -442,18 +444,19 @@ made itself known to me.
 
 ## Must there be a substance to the body?
 
-While this idea, in my opinion, properly rejects the conception of either gender or sex as a kind of
-"essence" in which our authentic pre-discursive[^5] self originates, it replaces
-it with another kind of essence―the essence of the body. Because if we portray
-the substance of being as little more than the matter of the body, we render the
-body _the_ sole authority in our experience, in our being.
+While this idea, in my opinion, properly rejects the conception of either gender
+or sex as a kind of "essence" in which our authentic pre-discursive[^5] self
+originates, it replaces it with another kind of essence―the essence of the body.
+Because if we portray the substance of being as little more than the matter of
+the body, we render the body _the_ sole authority in our experience, in our
+being.
 
 Considering the history of gender in the twentieth century, it is all too easy
 to return the full authority of our experiences over to the body. Seeing the
-desecration of our bodies and the denial of our agency to it, there is a startling
-temptation to render the body the authority, to suggest that there is nothing
-beyond its walls. However, I believe the scope of possibility widens upon moving
-beyond this mistake.
+desecration of our bodies and the denial of our agency to it, there is a
+startling temptation to render the body the authority, to suggest that there is
+nothing beyond its walls. However, I believe the scope of possibility widens
+upon moving beyond this mistake.
 
 In order to account for this mistake and finally move forward, there is a
 particular framework through which anthropologists tend to view both the human
@@ -461,70 +464,83 @@ body and our culture that may serve useful: Bioculture.
 
 ### Bioculture: The Web of The Body
 
-Biology and culture, just like sex and gender, have often been severed and defined
-in opposition to one another―where culture is socially defined, biology is objective,
-scientific. In fact, the very sex/gender division is often predicated on the idea of
-culture and biology as being cleanly separable. I was once taught that gender resides
-in culture, and sex resides in biology. But are these so separable? Do these two components of humanity exist in stark contrast
+Biology and culture, just like sex and gender, have often been severed and
+defined in opposition to one another―where culture is socially defined, biology
+is objective, scientific. In fact, the very sex/gender division is often
+predicated on the idea of culture and biology as being cleanly separable. I was
+once taught that gender resides in culture, and sex resides in biology. But are
+these so separable? Do these two components of humanity exist in stark contrast
 between one another, with borders as clearly defined as that of two states?
 
-In a class I took on indigenous North American cultures, my professor
-taught us the way to remember the Aleut was by the pointy "A"―the Aleut, a tribe in the
-arctic, learned to mold their finger nails into tools by sharpening them into pointy A's.
-In essence, a cultural component is dependent on an element of human biology, and included
-modifying the body into a tool. While we think of technology as a purely cultural element
-such as sharpening rocks into axes or fastening bows from twine and wood, for the Aleut,
-technology includes molding the body into a tool. To us, this is transhumanist―for them, it is
-little more than a clever technique learned and honed from skill and experience. Their
+In a class I took on indigenous North American cultures, my professor taught us
+the way to remember the Aleut was by the pointy "A"―the Aleut, a tribe in the
+arctic, learned to mold their finger nails into tools by sharpening them into
+pointy A's. In essence, a cultural component is dependent on an element of human
+biology, and included modifying the body into a tool. While we think of
+technology as a purely cultural element such as sharpening rocks into axes or
+fastening bows from twine and wood, for the Aleut, technology includes molding
+the body into a tool. To us, this is transhumanist―for them, it is little more
+than a clever technique learned and honed from skill and experience. Their
 culture is dependent on their biology, their biology dependent on their culture.
 
-A classic example I was taught revolves around food. Where we medicalize fat as a pathological
-problem that requires intervention, often of the medical nature, it in reality is a production
-of culture. Where we individualize our bodies and sever our selfs from our society, the reality
-is that our culture, our society, instructs what and how we eat. Our culture, and our position in
-society, molds our body in a particular way, and interprets it accordingly. At one point, in European societies,
-when food was scarce and work was not, it was seen as the height of privilege
-and wealth to be fat. As biology was molded according to the division of resources and labor,
-culture changed with it, as one. Today, as obesity rates skyrocket in the United States, we live
-in a society in which fatty, caloric dense foods are the most abundant, and excercise is a privilege,
-gym memberships and time to run in the mornings scarcer than food. Accordingly, our biology and
-culture change as one. Where the poor once were scrawny and the wealthy were plump, the poor
-now are fat and the wealthy are lean. And, simultaneously, where fat was once a symbol of
-wealth, it is now a symbol of individual failure and poverty.
+A classic example I was taught revolves around food. Where we medicalize fat as
+a pathological problem that requires intervention, often of the medical nature,
+it in reality is a production of culture. Where we individualize our bodies and
+sever our selfs from our society, the reality is that our culture, our society,
+instructs what and how we eat. Our culture, and our position in society, molds
+our body in a particular way, and interprets it accordingly. At one point, in
+European societies, when food was scarce and work was not, it was seen as the
+height of privilege and wealth to be fat. As biology was molded according to the
+division of resources and labor, culture changed with it, as one. Today, as
+obesity rates skyrocket in the United States, we live in a society in which
+fatty, caloric dense foods are the most abundant, and excercise is a privilege,
+gym memberships and time to run in the mornings scarcer than food. Accordingly,
+our biology and culture change as one. Where the poor once were scrawny and the
+wealthy were plump, the poor now are fat and the wealthy are lean. And,
+simultaneously, where fat was once a symbol of wealth, it is now a symbol of
+individual failure and poverty.
 
-Although we think of culture as a tool through which humanity adapts to its surroundings, and
-biology as the basis through which we are unified objectively, these two elements work in conjunction
-with our identies, our social and individual agency, and our environments to produce a cohesive
-subject. The individual body is as imagined as is the society in which we emerge.
+Although we think of culture as a tool through which humanity adapts to its
+surroundings, and biology as the basis through which we are unified objectively,
+these two elements work in conjunction with our identies, our social and
+individual agency, and our environments to produce a cohesive subject. The
+individual body is as imagined as is the society in which we emerge.
 
-If anything, "The Body" is not so much a material substance, but a symbolic product,
-an imagination and extension of so many elements of how we understand and have narratively
-produced our "self" that reside not simply in our mind, but in our society, and in our blood. It is
-a symbol that is imposed upon us, often violently. It is a symbol that we recreate
-and reproduce with each step we take. It is a symbol that is inferred and reinterpreted
-countless times until we no longer see the text, and instead merely the interpretation.
+If anything, "The Body" is not so much a material substance, but a symbolic
+product, an imagination and extension of so many elements of how we understand
+and have narratively produced our "self" that reside not simply in our mind, but
+in our society, and in our blood. It is a symbol that is imposed upon us, often
+violently. It is a symbol that we recreate and reproduce with each step we take.
+It is a symbol that is inferred and reinterpreted countless times until we no
+longer see the text, and instead merely the interpretation.
 
-And when we choose to rewrite the words, or to tear up the symbol and start annew, or to
-demand that our interpretation, our reimagining of the symbol is real,
-we are told that our interpretation doesn't change the text. We are told, in so many words, that we are insane.
+And when we choose to rewrite the words, or to tear up the symbol and start
+annew, or to demand that our interpretation, our reimagining of the symbol is
+real, we are told that our interpretation doesn't change the text. We are told,
+in so many words, that we are insane.
 
-While the body is seen as authoritative, concrete, permanent, the truth is that it is nothing
-more than a sock puppet with the hands of so many controlling it. It is the shadow on the wall
-when one manipulates sex and gender within the limitations and narratives of one's society, of
-one's world. It is an ecosystem of change, of relationships, of creatures that cannot merely
-be understood atomistically and only holistically. The body does not derive meaning from itself.
-It is the derivation of meaning produced by innumerable features, organisms, variations, changes,
-histories, interpretations, actions, choices, mutations, and so much more.
+While the body is seen as authoritative, concrete, permanent, the truth is that
+it is nothing more than a sock puppet with the hands of so many controlling it.
+It is the shadow on the wall when one manipulates sex and gender within the
+limitations and narratives of one's society, of one's world. It is an ecosystem
+of change, of relationships, of creatures that cannot merely be understood
+atomistically and only holistically. The body does not derive meaning from
+itself. It is the derivation of meaning produced by innumerable features,
+organisms, variations, changes, histories, interpretations, actions, choices,
+mutations, and so much more.
 
-There is a certain form to the body. But to suggest one could hope to understand that form
-on its own without grappling with the biocultural ecosystems it resides in is to declare oneself
-God, harbinger of objective truth. When I gaze upon my hand, I do not just see my hand as it is.
-I see it as it is produced within my culture, modified and affected by my biology, my society's
-biology. I could not hope to understand it and my relationship with it without grappling with how the
-color of my skin is understood, what the length of my fingers means to me, how my veins are produced
-and understood, what brought about my injury and how it is considered, the length and shape of my
-finger nails and why they are that way, how I have used it throughout
-my life. I do not simply see "my hand," but rather a text that changes me and is changed by me through interpretation and relation.
+There is a certain form to the body. But to suggest one could hope to understand
+that form on its own without grappling with the biocultural ecosystems it
+resides in is to declare oneself God, harbinger of objective truth. When I gaze
+upon my hand, I do not just see my hand as it is. I see it as it is produced
+within my culture, modified and affected by my biology, my society's biology. I
+could not hope to understand it and my relationship with it without grappling
+with how the color of my skin is understood, what the length of my fingers means
+to me, how my veins are produced and understood, what brought about my injury
+and how it is considered, the length and shape of my finger nails and why they
+are that way, how I have used it throughout my life. I do not simply see "my
+hand," but rather a text that changes me and is changed by me through
+interpretation and relation.
 
 Understanding the body to be not an authority but a product reveals the
 dimensions of it and frees us to explore each and every component of this

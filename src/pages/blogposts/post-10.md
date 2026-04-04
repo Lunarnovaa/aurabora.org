@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'The Past & The Future'
+title: "The Past & The Future"
 pubDate: 31 March 2025
-description: 'illusions of perception'
+description: "illusions of perception"
 tags: ["philosophy", "gender"]
 ---
 

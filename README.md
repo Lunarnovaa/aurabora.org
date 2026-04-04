@@ -6,7 +6,9 @@ Info about my site is on it, go check it out!
 
 ## PRs
 
-I am open to PRs if you catch any spelling mistakes or have suggestions for me to make it more readable or have features you think I should add. You can also simply leave an issue and I can do it myself :)
+I am open to PRs if you catch any spelling mistakes or have suggestions for me
+to make it more readable or have features you think I should add. You can also
+simply leave an issue and I can do it myself :)
 
 ## Licenses
 

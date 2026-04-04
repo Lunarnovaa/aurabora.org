@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'Can the Law Know Me?'
+title: "Can the Law Know Me?"
 pubDate: 21 June 2025
 description: "conflicts between the law's vision of my life and what my life truly is"
 tags: ["politics", "philosophy"]
