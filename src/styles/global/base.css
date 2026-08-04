@@ -1,86 +1,129 @@
 html {
-    font-family: Arial, Helvetica, sans-serif;
+  font-family: Calibri, Arial, Helvetica, sans-serif;
 }
 
 body {
-    margin: 0 auto;
-    width: 100%;
-    max-width: 90ch;
-    padding: 1rem;
-    line-height: 1.5;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 90ch;
+  padding: 1rem;
+  line-height: 1.5;
+  font-size: 13pt;
 }
 
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
-h1, h2, h3, h4 {
-    margin: 1rem 0;
+p {
+  margin-top: 0.5rem;
+  margin-left: auto;
+}
+
+img,
+#img-title {
+  margin: 0 auto;
+  max-width: 80%;
+  max-height: 30rem;
+  width: auto;
+  height: auto;
+}
+
+p:has(> img) {
+  margin-bottom: 0;
+}
+
+img {
+  display: block;
+}
+
+#img-title {
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 1rem 0;
 }
 
 h1 {
-    font-size: 2rem;
+  font-size: 3rem;
+}
+
+h2,
+h3 {
+  font-size: 1.5rem;
 }
 
 h2 {
-    font-size: 1.5rem;
-    border-bottom: 3px solid;
+  border-bottom: 3px solid;
 }
 
-h3 h4 {
-    font-size: 1.25rem;
+h3,
+h4 {
+  margin-bottom: 0px;
+}
+
+h4 {
+  font-size: 1.2rem;
 }
 
 blockquote {
-    font-style: italic;
-    border-left: 3px solid;
-    padding-left: 20px;
-    margin-left: 15px;
+  font-style: italic;
+  border-left: 3px solid;
+  padding-left: 20px;
+  margin-left: 15px;
+}
+
+blockquote em {
+  font-style: normal;
 }
 
 footer {
-    text-align: center;
-    margin-top: 40px;
+  text-align: center;
+  margin-top: 40px;
 }
 
 a {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 .subtitle {
-    font-size: .9rem;
-    font-style: italic;
+  font-size: 0.9rem;
+  font-style: italic;
 }
 
 .footnotes {
-    font-size: .8rem;
-    text-align: center;
+  font-size: 0.8rem;
+  text-align: center;
 }
 
 .footnotes ol {
-    display: inline-block;
-    text-align: left;
+  display: inline-block;
+  text-align: left;
 }
 
 #footnote-label {
-    padding-top: 1em;
-    padding: 0 2em;
-    margin-bottom: 0;
-    font-size: 1rem;
-    font-weight: normal;
-    display: inline-block;
-    border-bottom: 1px solid;
+  padding-top: 1em;
+  padding: 0 2em;
+  margin-bottom: 0;
+  font-size: 1rem;
+  font-weight: normal;
+  display: inline-block;
+  border-bottom: 1px solid;
 }
 
 .tags {
-    text-align: center;
-    font-size: 0.8rem;
+  text-align: center;
+  font-size: 0.8rem;
 }
 
 .chart {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 80%;
-    height: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  height: 80%;
 }
