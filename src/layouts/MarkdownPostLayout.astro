@@ -11,21 +11,21 @@ const wordCount = rawWordCount.toLocaleString(undefined);
 ---
 
 <BaseLayout
-    pageTitle={frontmatter.title}
-    pageDescription={frontmatter.description}
+  pageTitle={frontmatter.title}
+  pageDescription={frontmatter.description}
 >
-    <p class="subtitle">{frontmatter.pubDate} - {wordCount} words</p>
-    <slot />
+  <p class="subtitle">{frontmatter.pubDate} - {wordCount} words</p>
+  <slot />
 
-    <div class="tags">
-        Tags:
-        {
-            frontmatter.tags.map((tag) => (
-                <a class="tag" href={`/tags/${tag}`}>
-                    {" "}
-                    {tag},
-                </a>
-            ))
-        }
-    </div>
+  <div class="tags">
+    Tags:
+    {
+      frontmatter.tags.map((tag) => (
+        <a class="tag" href={`/tags/${tag}`}>
+          {" "}
+          {tag},
+        </a>
+      ))
+    }
+  </div>
 </BaseLayout>

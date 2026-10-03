@@ -15,8 +15,9 @@
         pnpm
         git
       ];
-      buildInputs = with pkgs; [
+      packages = with pkgs; [
         git
+        deno
       ];
     };
   };
