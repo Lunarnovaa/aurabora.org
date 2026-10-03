@@ -1,4 +1,5 @@
 allowBuilds:
   esbuild: false
   node: false
+  puppeteer: false
   sharp: false
