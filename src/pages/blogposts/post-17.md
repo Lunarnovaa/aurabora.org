@@ -215,7 +215,7 @@ not just the crafting of states, but the dismantling of them, too.
 
 #### The 1919 Seattle General Strike
 
-The last city we're going to look at is one that is more familiar to us, and has
+The next city we're going to look at is one that is more familiar to us, and has
 a history of radicalism. Shortly after the Great War, as it was called then,
 workers in Seattle escalated from a shipyard workers' strike for better wages to
 a full-blown general strike that shut down wage labor, the state, and policing
@@ -239,8 +239,6 @@ could even see where they went. The result of this is that nobody thinks these
 kinds of practices could possibly work, because the dominant narratives are that
 we need authority and violence to keep us in line, and we've never been allowed
 to push beyond this and experiment outside of these narratives.
-
-I want to put this experiment in contrast to the previous two we looked at. In
 
 > During the strike, crime in the city decreased. The commander of the U.S. army
 > detachment sent into the area told the strikers’ committee that **in forty
