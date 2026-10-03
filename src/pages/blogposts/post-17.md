@@ -1,12 +1,15 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "Faith in Each Other"
-pubDate: 01 August 2026
-description:
-  "Learning how to envision and build a new world together in the crumbling
-  ruins of our own"
-tags: ["politics", "philosophy", "anthropology", "activism"]
+title: Faith in Each Other
+pubDate: 03 October 2026
+description: Learning how to envision and build a new world together in the crumbling ruins of our own
+tags:
+  - politics
+  - philosophy
+  - anthropology
+  - activism
 ---
+*Note: This blogpost has been released in a semi-unfinished state. However, I'm calling it done. Because I don't think it'll ever actually be finished. But please recognize that this is far, far, far from all there is to say―I don't have all the answers. Read it for what it is: one account of my politic.*
 
 It's far from a controversial opinion nowadays that something is seriously wrong
 with our world. We're having it screamed at us on every platform, in every feed,
@@ -1333,11 +1336,11 @@ when I think its warranted. But for now, this is what it is. I wish you luck.
 > uncorrupted faith. Sherma, the previously naive pilgrim, has seen the horrors
 > and false promises of the citadel, has indeed seen the entire structure
 > crumble, and yet has devoted himself to the shelter of others. "Though
-> kingdoms may fall, life endures still," he says, "And we bugs can build our
-> lands anew." Shakra, the cartographer, protects one of the few remaining
+> kingdoms may fall, life endures still," he says, **"And we bugs can build our
+> lands anew."** Shakra, the cartographer, protects one of the few remaining
 > enclaves from the dangers of the abyss outside. "If you are working towards
-> the venom's end, I shall fight," she says, **"with faith renewed."** … In Silksong, the apocalypse is not the end. Like war, like plague, it's another calamity that asks who we truly are.
+> the venom's end, **I shall fight," she says, "with faith renewed."** … In Silksong, the apocalypse is not the end. Like war, like plague, it's another calamity that asks who we truly are.
 > Is it the judgemental opportunity we've been waiting for, to decide who should
-> be saved and who should be damned? Or is it a time to turn our eyes to each
+> be saved and who should be damned? **Or is it a time to turn our eyes to each
 > other? And realize that whatever's next can only be built from our faith in
-> the present. (Jacob Geller, _Silksong and the Biblical Apocalypse_, 26:06-27:11, 29:30-29:56)
+> the present.** (Jacob Geller, _Silksong and the Biblical Apocalypse_, 26:06-27:11, 29:30-29:56)
