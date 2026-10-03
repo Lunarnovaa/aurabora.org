@@ -88,7 +88,7 @@ be.
 On a social level, shame is essentially the foundational level of violence to
 maintain social order, like an emotional or a psychological form of violence.
 The amount of shame you are supposed to, or expected, to feel is inversely
-proportional to your distance from what Audre Lorde called The Mythical Norm,
+proportional to your proximity to what Audre Lorde called The Mythical Norm,
 which is probably something like a cishet Anglo-Saxon man.
 
 Thus, shame acts like a motivator to trend towards this societal ideal. Is it a
