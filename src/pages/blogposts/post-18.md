@@ -14,9 +14,8 @@ action.
 It's important that I stipulate this because cruelty is very often conflated
 with a whole cluster of emotions, like anger, resentment, or perhaps hate. My
 discussion here is not lobbied against anger, which acts as the primary agent of
-justice, nor is it resentment, which, unlike cruelty, simmers over heat under a
-lid and breeds slowly over time until it inevitably must erupt―no, for me,
-cruelty is not a productive social force, nor is it something that brews.
+justice, nor is it really against resentment, which, is a feeling that gives rise after one represses their anger or at least grows under unchanging, injust circumstances―no, for me,
+cruelty is not a message to listen to, nor is it something that brews.
 
 Cruelty, instead, is a choice.
 
@@ -61,4 +60,4 @@ So of course I'm angry. Of course I'm furious. Because there is nothing on this 
 
 The most fucked up thing about it all, is that this kind of resentment, shame, tells you that it is tautological. That if you feel it, you deserve to feel it. The only thing worse than being what you are is not hating every fucking moment of that miserable existence. It lies to you, that if you listen to it, maybe it can make you into some kind of decent human being. If you listen to it, and if you hate yourself enough, if you hurt yourself enough, if you torture yourself enough, you'll be worthy. Because you'll have suffered all that you deserve. Believe me, that day is never coming. But doesn't it feel so good? Doesn't it feel so good to hurt yourself so bad? Doesn't it feel so good to hate what you are? Doesn't it just feel so fucking good to know that you are nothing, that you are inhuman, that you are pathetic, that the whole world would think you better off dead? Doesn't it just make you feel at least a little better that at least you're feeling all the pain that you rightfully deserve? Think about it. You're torturing someone as disgusting as you. Just as it should be.
 
-Don't listen to the lies. The knife is in your hands. Don't twist it. Resentment is like poison to the soul. 
+It is only from accepting that we are disgusting, and hurting ourselves, that we then move onto accepting someone else is disgusting, and hurting them. Cruelty starts against ourselves first. Cruelty then grows towards another person. The only way to not be cruel, is to choose, every day, to not be cruel to ourselves. The only way to love others is to love ourselves; funny how that becomes true.
