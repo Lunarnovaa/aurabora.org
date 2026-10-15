@@ -5,12 +5,11 @@ pubDate: 03 April 2026
 description: "Repoliticizing queerness"
 tags: ["politics", "gender"]
 ---
-
 What does it mean to be Queer? Since I have been made aware of the term, and
 since I have labeled myself using it, I have not spent much time thinking about
 what the term itself actually means. It seems largely taken for granted that
 Queer, of course, just means some kind of deviation from cisheteronormativity.
-Be you "gay," "trans," "nonbinary," "bisexual," or "aroace," "Queerness" existed
+Whether you're "gay," "trans," "nonbinary," "bisexual," or "aroace," "Queerness" existed
 primarily as an umbrella term for all of these.
 
 In rare instances, Queerness would also compose something
@@ -20,18 +19,20 @@ itself.
 
 When we think about what the word "Queer" actually means, we obviously may look
 towards a synonym of Queer, such as "weird." But Queer isn't quite the same as
-Weird, it's really a weirder version of the word. Queer, of course, in its
-applicaton towards people like me, originated as a slur. Quite a literal one,
+weird, it's really a weirder version of the word. Queer, of course, in its
+application towards people like me, originated as a slur. Quite a literal one,
 really, meaning that we deviate from the norm. We lie outside that which is
 considered ordinary, conventional, even acceptable.
 
 Perhaps this is why Queer has been reclaimed so effortlessly and so easily.
-There have, of course, been critiques of this reclamation from older folks, who
+There have, of course, been critiques of this reclamation from those who
 still feel the pain of the term. But on the whole, it's a struggle to find
 anyone who has any kind of negative connotation to this word. In fact, Queer
 seems to be particularly positioned to illicit the pride that is claimed to be
 central to our struggle. Most Queers adorn the word with a bold pride, feeling
-euphoric at its claim, myself included.
+euphoric at its claim, myself included.[^1]
+
+[^1]: In the time since initially writing this, I've met people who are rather uncomfortable with the word "queer," not because of its application as a slur, but because they find it "cringe," especially by growing up with (probably cishet?) people who see it as "cringe," or "weird." Discussion on "cringe" can wait, but I want to say that these people also seem to be rather uncomfortable with the idea of their gayness (this is usually cis allo gay/bi folks) as being political, or kind of just...at all? I used to think "LGBTQ+" was just something non-queer people said. One of the first times I met my ex-roommate, she said "the LGBTQ community" and I was like...wait is she not queer (we were living in queer housing)? So I totally thought she was cishet, because she didn't say queer. Now I've learned that not saying queer signals discomfort with queerness, which I found rather interesting. It is interesting how explicit(?) it is to be discomfortable with membership in this rather queer coalition, rather than being 'just gay,' because "I was born this way."
 
 Not only this, but Queerness acts like a coalition. Whether one is gay, trans,
 nonbinary, ace, aro, whether one dates members of the same gender or not,
@@ -46,34 +47,33 @@ But I really don't want to whitewash the Queer community, so-to-speak. In online
 discourse and certainly mainstream representation (though honestly, fuck
 mainstream representation), The Queer Voice is in fact The White Queer Voice.
 There is an abundance of biphobia. Somehow, both mononormativity and
-amatonormativity reign supreme. Passing is positioned as really the only thing
-for trans people to aspire towards.
+amatonormativity reign supreme. Passing is positioned as really the only thing for "respectable" trans people to aspire towards.
 
 I think somewhere along the line, we forgot where we came from and why we were
-fighting. Maybe it started in the 60s with the Gay Liberation Front, who decided
-that "we" would be better off if we threw the Black trans women that started the
-riots and led the struggle into the street and centered the struggle around the
-legalization of marriage; the liberal institutionalization of gayness. Because
+fighting. Maybe it started in the '60s with the Gay Liberation Front, who decided
+that "we" would be better off if we threw the Black trans women who started the
+riots, who led the struggle, into the street and centered the struggle around the
+legalization of marriage: the liberal institutionalization of gayness. Because
 let it be clear, Queerness is not about institutionalization. Quite literally,
 the word Queer is anti-thetical to institutionalization. How can we build this
 Queer Coalition of difference and weirdness if the structure of our project is
 one pursuing normalization and, inevitably, homogenization?
 
 Why are we at all surprised that The Queer Voice is white when our struggle has
-seemed to be trying to create a single Queer Voice, necessarily producing a
+been to thrust A Queer Voice into the mainstream, necessarily producing a
 zero-sum political structure of representation in a world that has quite
 literally been structured over centuries to center, empower, and universalize
 whiteness? Why are we surprised when Queerness has somehow been figured
 amatonormative when the largest political victory we have to point to is a
 legalization of marriage? Have we actually ever won anything at all when all we
-can say is that we've rendered gay love structurally identical to straight love?
+can say is that we've rendered gay (not "Queer") love structurally identical to straight love?
 How could trans people have anything to aspire to _but_ passing privilege when
 the only avenues of justice we've ever fought for are to let trans people have
 the pathways towards passing, and even then fighting tooth and nail and still
-somehow losing?
+somehow losing? How have we fallen for the myth of respectability politics, positioning the Good Trans People in the front, catering to cishet white abled bodily standards, necessarily erasing those of us who fight to destroy the hegemonic reign of the gender binary, the sex/gender/sexuality nexus, and the social hierarchy of worth?
 
 I want to ask us to do something really hard. I want to ask us to stop looking
-at that which the Mythical Norm of Love is, of Cis people, as something that we
+at that Mythical Norm of love and bodies as something that we
 wish we could have but sadly cannot. I want us to stop trying to imagine a world
 in which this shaky coalition we've managed to string together across time,
 space, geography, and culture can cease to exist because we've managed to enter
@@ -81,8 +81,8 @@ the institution with permanence. I want you to stop yearning to be less Queer.
 
 If we are to define where we went wrong not as a time or a place but as an idea,
 then I would argue that where we went wrong is seeking to define Queerness not
-as a political struggle but as an identity. Maybe we're born gay, maybe we're
-born trans, whatever I don't really care to debate your metaphysics. But none of
+as a political struggle but as a value-neutral identity. Maybe we're born gay, maybe we're
+born trans, sure, whatever. But none of
 us are born Queer. We are born, and society tells us what we must be, and those
 of us who are Queer say fuck you, I'm not obeying your rules. We don't look up
 and say, Please can you give us a shred of respect? We build respect through
@@ -126,8 +126,8 @@ building community, building Love, and connecting with our body, not within
 institutions but literally Without, all the power we find in Queerness will
 grow, our pride will begin to be more than a sense of identity and become a
 world in which we live, our shame will become bearable and we will be able to
-survive.
+survive, not alone, but together.
 
 In the past many decades, Queerness as a political struggle within the state has
 moved us from the closet to the streets. What could our coalition look like if
-we begin to orient Queerness as a sociopolitical struggle without the state?
+we begin to orient Queerness as a sociopolitical struggle building a world without the state?
