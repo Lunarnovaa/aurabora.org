@@ -5,6 +5,7 @@ pubDate: 14 October 2026
 description: Learning to feel once again
 tags:
   - philosophy
+  - feeling
 ---
 > Sometimes we drug ourselves with dreams of new ideas. The head will save us. The brain alone will set us free. But there are no new ideas still waiting in the wings to save us as women, as human. There are only old and forgotten ones, new combinations, extrapolations and recognitions from within ourselves―along with the renewed courage to try them out. And we must constantly encourage ourselves and each other to attempt the heretical actions that our dreams imply, and so many of our old ideas disparage. In the forefront of our move toward change, there is only poetry to hint at possibility made real. Our poems formulate the implications of ourselves, what we feel within and dare make real (or bring action into accordance with), our fears, our hopes, our most cherished terrors. (Audre Lorde, _Poetry Is Not a Luxury_)
 

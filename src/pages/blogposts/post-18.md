@@ -1,9 +1,11 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "Cruelty, Resentment, and Shame"
+title: Cruelty, Resentment, and Shame
 pubDate: 10 October 2026
-description: "Examining cruelty and its origins"
-tags: ["philosophy"]
+description: Examining cruelty and its origins
+tags:
+  - philosophy
+  - feeling
 ---
 
 The subject of this piece is cruelty. Cruelty is not an emotion or a feeling, it is not a desire or a need, it resides not just internally but especially externally. Cruelty, for the purposes of this piece, is an action.
