@@ -29,9 +29,9 @@ I used to have a rule that I would try to force myself to obey, it went
 something like this: never make life decisions based on love; the only permanent
 person in your life is you. Later I slightly shifted this to something like:
 never put romance before your friends, because your friends are the only people
-that will stay in your life. The clever among you will have predicted that the
+that will stay in your life. Some of you might predict that the
 eventual evolution of that is to view all relationships as permanent in my life.
-And that's true, but only through an extension of that second rule.
+And that's mostly the case.
 
 When I moved from exploring how life should be divided between romance and
 friendship, to exploring the very division between these two structures―and I do
@@ -82,8 +82,7 @@ love. What I mean here is that I think an often overlooked component of what
 love actually is in a society (and we do of course, live in a society) is that
 it is the very thing, arguably the only thing, that makes up social structure.
 The Deleuzian way of looking at this is that "desire" (not necessarily sexual)
-regulates the "flows" between all people and things, so for example when I eat
-an apple, I am pulled towards the apple through desire. In a house full of
+regulates the "flows" between all people and things. In a house full of
 friends, our social situation is held together by the desires that flow between
 us freely. I love my friends, my friends love me, and thus, we choose to stay
 together, we feed one another, we coordinate with one another (also maybe notice
