@@ -8,7 +8,7 @@ tags: ["politics", "philosophy"]
 
 About a month ago, a professor of mine asked how I came upon my politics, and I
 wasn't really sure what to say. What she was _asking_ was what was my political
-journey, what did I used to believe, and how did I come to my current beliefs? I
+journey, what did I use to believe, and how did I come to my current beliefs? I
 answered by explaining my vague political influences: first my dad, then social
 media, then a radical teacher, now my own lived experience.
 

@@ -24,21 +24,21 @@ head that I think is perfect, or argue that if everyone just conformed to that
 idea then everything would be lovely. That's ridiculous, and in fact,
 antithetical to what I want to do. As David Graeber wrote,
 
-> the fantasy that ... the human condition, desire, mortality, can all be
+> the fantasy that … the human condition, desire, mortality, can all be
 > somehow resolved seems to be an especially dangerous one, an image of utopia
 > which always seems to lurk somewhere behind the presentations of Power and the
 > state. (_Fragments of an Anarchist Anthropology_, 31)
 
 Instead, I'm going to give you a plurality of images, none perfect, all leaving
 something to be desired. My hope is that these illustrations of creativity will
-not just demonstrate that "a better world is possible," but jumpstart your
+not just demonstrate that "a better world is possible," but jump start your
 imagination and **enable you to begin the work of building that better world in
 your own life.** I don't want to build a world for you. I don't want to teach
 you what the world should look like. Really, what I want to do here is to offer
 you a series of windows into the possibilities that exists beyond our world. I
 want to inspire you, and begin to build a new world together, today.
 
-## "Another World is Possible"
+## "Another World Is Possible"
 
 > It might possibly turn out that such a world is _not_ possible. But one could
 > also make the argument which makes a commitment to optimism a moral
@@ -78,12 +78,7 @@ never questioned: **we are not capable of organizing or coordinating ourselves,
 and we could not survive without being controlled.**
 
 David Graeber's argument above is one such rejection of this hegemonic ideology.
-Mine is a bit more simple: we've already done it. I don't mean the "ideal world"
-lies in the past, but that humans, across time and space, have done all the
-things I think we should try to do. Societies have lived through and rejected
-empire, have seen the face of states and displaced it with more socioecological
-forms of coordination, we've been incredibly inventive and made things to
-radically alter our lives and make it more abundant and easier without relying
+Mine is a bit more simple: we've already done it. I don't mean the "ideal world" lies in the past, but that humans, across time and space, have done all the things I think we should try to do. Societies have lived through and rejected empire, have seen the face of states and displaced it with more socioecological forms of coordination, we've been incredibly inventive and made things to radically alter our lives and make it more abundant and easier without relying
 on exploitation. This is exactly what I find so useful in the anthropological
 method―**the more we look outside of our own world, the more we look outside of
 what our society has been telling us is possible, the more possible another
@@ -128,11 +123,11 @@ on our doorstep at a short-lived attempt at freedom with-out the state.
 #### Tiwanaku & Cultural Revolution
 
 What does it mean for an empire to collapse? Is it for the full weight of its
-might to come crashing down upon itself, for devestating outside influences like
+might to come crashing down upon itself, for devastating outside influences like
 ecological shifts or the invasions of "barbarians" to wreak havoc? Does it spell
 certain doom and a coming of dark times that must be feared? If you think about
 it, isn't it a bit strange that the collapse of the Roman Empire is something
-mourned? The Romans were expansionists, enslavers, conquerers, patriarchs,
+mourned? The Romans were expansionists, enslavers, conquerors, patriarchs,
 aristocrats―why would we identify with them, cheer on their success, and mourn
 their failures?
 
@@ -211,7 +206,7 @@ in the city. Laborers, with the exception of firemen, stopped working at their
 jobs and started working for each other.
 
 > **Every day thirty thousand meals were prepared in large kitchens, then
-> transported to halls all over the city and served cafeteria style** ... A
+> transported to halls all over the city and served cafeteria style** … A
 > Labor War Veteran’s Guard was organized to keep the peace. On the blackboard
 > at one of its headquarters was written: “The purpose of this organization is
 > to preserve law and order without the use of force. No volunteer will have any
@@ -264,10 +259,10 @@ faith in each other is seen as dangerous, a risk that can never be taken. And
 isn't this why we have the police? Isn't this why we have law, and order, and
 force? Isn't this why, if you ever suggest that we do not need to be controlled
 by violence to organize, to build a safe, strong, successful society, you'll
-get inquistive reactions at best, contemptful reactions at worst? We learned
+get inquisitive reactions at best, contemptful reactions at worst? We learned
 this as a child: the people of Seattle cannot govern themselves. But they can.
 
-Revolution has been written as a transferrance of who holds the guns. Who is
+Revolution has been written as a transference of who holds the guns. Who is
 aiming the gun at our head, at our friends' and neighbors' heads, at our children's
 heads? It has been so normalized, so universalized, that we can't even imagine
 what it would be like to put down the guns. And when it is so difficult to imagine,
@@ -277,7 +272,7 @@ have faith in our self?
 
 #### Ukrainian Megasites: Cities Without Kings
 
-In the 4th millenium BC, a set of urban dwellings―what we might call cities―were
+In the 4th millennium BC, a set of urban dwellings―what we might call cities―were
 inhabited for around eight centuries, which, for cities in this era, was really
 quite abnormal. But what is even more abnormal is the fact that, unlike most
 (well known) cities, there have been no ceremonial, administrative,
@@ -290,7 +285,7 @@ _something_, to have our bias confirmed, so when everything we thought we knew
 about cities turns up to not be true here, something's up.
 
 The prevailing belief about cities is in line with an argument thought of by
-Jean-Jaques Rousseau. According to Rousseau, humanity was blissfully ignorant,
+Jean-Jacques Rousseau. According to Rousseau, humanity was blissfully ignorant,
 free, and equal for much of human history, living in small bands of
 hunter-gatherers. Then, he says, these people (he would've actually used the
 term "savages") developed technologies like agriculture, metallurgy, and others,
@@ -299,7 +294,7 @@ create private property, hierarchy, and social control, until the land had been
 divided up, at which point we would begin to fight each other.
 
 This idea of course, rests on the assumption that all humans develop in a linear
-kind of way, approaching the kind of society he was familar with. It also rests
+kind of way, approaching the kind of society he was familiar with. It also rests
 on the idea that we are incapable of socially organizing without coercion. If
 this was true, then we probably would never see any kind of large scale
 organization, such as a city, without this coercion; **if we needed to be
@@ -335,7 +330,7 @@ webs of debate and consensus worthy of consideration?
 Archaeological evidence in the region has shown that the city was defined by its
 variation and diversity, rather than by its uniformity and conforming. Each home
 as its own "constant innovation, even playfulness," with its "own unique
-aesthestic style" (294). Households could vary from single families, to even
+aesthetic style" (294). Households could vary from single families, to even
 clusters as high as ten families in a home. Apparently, there was no template
 that was instituted on every household, no "nuclear family" that was
 universalized and mandated, only the flow of variation, change, and consensus
@@ -354,7 +349,7 @@ If we take a detour from the archaeological site for a moment, I want to try and
 imagine what a city without administration, without policing, without politicians,
 might look like. I imagine a city that is eclectic and messy, experimental and innovative,
 fragmented and diverse. Perhaps neighborhoods band together councils or simply
-meetings to plan festivals, feasts, or design streets, transportations, or caravans.
+meetings to plan festivals, feasts, or design streets, transportation, or caravans.
 In absence of large-scale farming, small gardens could line the streets, overflow balconies,
 cover roofs. I imagine once in a while, the whole city would organize to plan out
 events for people to meet others in the city they had never met, new faces mixing with
@@ -602,7 +597,7 @@ of this structure of love, this structure of society.**[^10]
     it is possible to parent without authority, certainly not as catering to a
     child's every whim, but as treating them as an equal, not as never saying
     "no" (do you treat your friends like that?), but treating them like a human
-    being. This can be in the same way of mentorships. A mentor, or an elder, should not have control over you. You should be equals, even though the relationship is founded in the idea that they have experience, knowledge, wisdom to pass down to you. This is, for the most part, how my parents raised me. My mom always tells me that from the time I was born, she always
+    being. This can be in the same way of mentorship. A mentor, or an elder, should not have control over you. You should be equals, even though the relationship is founded in the idea that they have experience, knowledge, wisdom to pass down to you. This is, for the most part, how my parents raised me. My mom always tells me that from the time I was born, she always
     saw and tried her best to treat me as a human being, not simply as some
     extension of herself, or some non-human she had to create a human out of,
     but as a living breathing person. It honestly makes me quite sick that this
@@ -633,7 +628,7 @@ only we let it.
 
 <div class="subtitle" id="img-title">"Lifeboat Library," by Scandinavian101, CC BY-SA 4.0</div>
 
-Anarchism is unique to me because it is probably the only poltical philosophy
+Anarchism is unique to me because it is probably the only political philosophy
 that conjoins not just that which is explicitly political, not just law and
 structuring, but ethics, love, art, games, and the natural world around us. In
 this way, anarchy is a descriptor and style of practice of inhabiting and
@@ -660,7 +655,7 @@ and a thriving connection. Third spaces, grocers, and community kitchens on the
 first floor, building community. The roof was a garden, with a thriving
 ecosystem yielding fresh and clean produce and the like. Mutual aid networks
 strung throughout the building with a cyclical gifting economy, building both
-solidarity, funding artisinality, and alleviating budget burdens. I'd live with
+solidarity, funding artisanality, and alleviating budget burdens. I'd live with
 either my spouse and my friends if it was a big apartment, or simply be
 neighbors to them. I'd be able to commute to work without a car.
 
@@ -926,7 +921,7 @@ the DIY HRT community.[^4]
 The DIY HRT community has become not only a market of material exchange, but of
 information exchange. It is not just a marketplace
 merely transferring "goods and services" from one to another, but a network
-fundamentally built upon relationshps and the knowledge that flows between them.
+fundamentally built upon relationships and the knowledge that flows between them.
 
 The DIY community is quite insular, but when you're in, flows of knowledge move
 towards, through, and from you. This is what the community is―an exchange of
@@ -1011,7 +1006,7 @@ scale, not requires it to function.
 > activity going for the BPP [Black Panther Party] and, as such, **is
 > potentially the greatest threat to efforts by authorities to neutralize the
 > BPP and destroy what it stands for."** . . . the US Department of Agriculture
-> expanded its federal free breakfast progam―built on a charity, not a
+> expanded its federal free breakfast program―built on a charity, not a
 > liberation, model―that still feeds millions of children today. (Dean Spade,
 > _Mutual Aid_, 2026, 12)
 
@@ -1238,7 +1233,7 @@ Deleuze, I promise. They're listed in roughly in the order that I think you
 should give them a try. Just try to read one, at least.
 
 I feel this list is lacking in several ways. Perhaps I'll come back to revise it
-when I think its warranted. But for now, this is what it is. I wish you luck.
+when I think it's warranted. But for now, this is what it is. I wish you luck.
 
 - **"How Anarchy Works,"** by Andrew Sage (this one's an hour long video) <br>
   Video essays have their problems, but Andrew's always have really gorgeous art
