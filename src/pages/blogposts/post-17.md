@@ -13,11 +13,11 @@ tags:
 
 This piece is a critique of the imperial ideology, its embodied apparatus, and an illustration of my proposed means and ends to displace it.
 
-This complex ideology spans and/or produces and/or regulates gender, race, love, the body, ability, imagination, care, and truly every other facet of existence that we can experience, is the very ideology of empire, embodied by the state.
+This complex ideology spans and/or produces and/or regulates gender, race, love, the body, ability, imagination, care, and truly every other facet of existence that we can experience. It is the very ideology of empire―embodied, reproduced, and enforced by the state.
 
-I want to argue that the idea of politics as statecraft, of politics as a rather serious business done by rather serious people, is the very same idea of politics as something novel, something "indigenous" people did not do before the white man came and taught them the power of the state; that it is the very same imperial ideology of the white man's burden; the very same state ideology that we are naturally dangerous to one another and that we must be controlled by someone or something; the very same denial of the possibility of love and imagination and variation and difference and compassion and care as the most profound tools of politics; the belief that the production of justice can be found only in the state; the same justification and reification of the father's, or the parent's, or the teacher's control over children, who are seen, like all humans in their natural state, as dangerous and violent and needing to be civilized by force; the very same disdain for human connection as the secondary kind of "politics," meaning "drama"; **the very same disbelief in our capacity to love non-violently, in our capability to live fully consensual social lives, in our competency to make and remake our world without picking up the guns.**
+I first want to detail the various beliefs and ideas that make up this ideology, and this list is by no means exhaustive. I want to argue that the idea of politics as statecraft, of politics as a rather serious business done by rather serious people, is the very same idea of politics as something novel, something "indigenous" people did not do before the white man came and taught them the power of the state; that it is the very same imperial ideology of the white man's burden; the very same paranoia that we are naturally dangerous to one another and that we must be controlled by someone or something; the very same denial of the possibility of love and imagination and variation and difference and compassion and care as the most profound tools of politics, the possibility of embodying rather than just navigating politics; the belief that the production of justice can be found only in the state, whether through policy or more tangible violence; the same justification and reification of the father's, or the parent's, and the teacher's control over children, who are seen, like all humans in their natural state, as dangerous and violent and needing to be civilized by force or at least shaped into proper citizens; the very same disdain for human connection as the secondary kind of "politics," meaning "drama."  **I argue here, that this ideology manifests as all these things, and perhaps its most elementary conception as the disbelief in our capacity to love non-violently, the disbelief in our capability to live fully consensual social lives, the disbelief in our competency to make and remake our world without picking up the guns.**
 
-If you'll come along with me for this ride, I'll argue for a new definition of politics, buffeted by some history and archaeology, then take a closer look at what I term the imperial ideology, and finally, learn how to imagine, create, and live a new world in the shell of the old―a method of prefigurative politics I call "sociopolitical creativity."
+If you'll come along with me for this ride, I'll argue for a new definition of politics, buffeted by some history and archaeology, then take a closer look at what I term the imperial ideology, and finally, learn how to imagine, create, and live a new world in the shell of the old―a method of prefigurative politics I call "sociopolitical creativity." **I want to show you how if we put our faith in our imaginations, our love, and ultimately, each other, we can begin to live and create a new world, day by day.**
 
 What I am not going to do is argue for "the ideal world" that I crafted in my
 head that I think is perfect, or argue that if everyone just conformed to that
@@ -29,7 +29,7 @@ antithetical to what I want to do. As David Graeber wrote,
 > which always seems to lurk somewhere behind the presentations of Power and the
 > state. (_Fragments of an Anarchist Anthropology_, 31)
 
-Instead, I'm going to give you a plurality of images, none perfect, all leaving
+Instead, I want to give you a plurality of images, none perfect, all leaving
 something to be desired. My hope is that these illustrations of creativity will
 not just demonstrate that "a better world is possible," but jump start your
 imagination and **enable you to begin the work of building that better world in
@@ -47,11 +47,10 @@ want to inspire you, and begin to build a new world together, today.
 > reproduce, the mess we have today?** (David Graeber, _Fragments of an
 > Anarchist Anthropology_, 10, bold added)
 
-I have the probably less radical than expected take that our society is quite
-literally accelerating towards its own demise. Imperialism has always been
+I think nowadays we can more or less agree that the current path our world is on is quite destructive. Imperialism has always been
 inherently unsustainable and self-destructive (this is seen over and over again
 in both the archeological and historical records), but European (and later
-American, Soviet, and Maoist) empire has taken this habit of empire to an
+American, Soviet, Maoist, and so on) empire has taken this habit of empire to an
 incredible new level with industrial mechanisms of extraction and coercion.
 We've literally engineered a society that is incentivized to maximally destroy
 the world we inhabit by forcing people across the world to destroy their bodies
@@ -62,27 +61,12 @@ it's destroying the society they've built and doing things a new way. The
 problem is, if there's one thing empire is good at, it's justifying its own
 existence.
 
-Ask pretty much anyone on the street, they'll probably tell you that, yeah, the
-world kinda sucks, but it's more or less the best one we can have, even if we
-can change it in subtle ways like building out "green" mass production instead
-of relying on coal, or trying to distribute wealth downwards a bit more. The
-core structure of society is never in doubt―for sure, "we" (actually they'll
-always point to a _someone else_) need to be controlled to continue growing the
-amount we produce, for some reason, whether that be so we can colonize space, so
-that we can consume more things, or nicer things, so that we can eventually have
-"fully automated luxury gay space communism," or just because, well, that's
-life.
-
-The details are all really in flux, especially now, but the core ideology is
-never questioned: **we are not capable of organizing or coordinating ourselves,
-and we could not survive without being controlled.**
+Ask any average liberally-inclined politically active individual, they'll probably tell you that, yeah, the world kinda sucks, but we absolutely can make it better, with better policy. That all we really need to do is vote up the right people and they'll create policies reforming the police, industry, resource distribution, etc., in the proper ways. Maybe we should build out more "green" mass production and have tighter regulation on grueling labor, maybe we should have designated mental health specialists to help out the police, maybe we should have more affordable housing, and hopefully someone will come along with the political power to make these changes. The core structure, however, is never truly in doubt. The core principle that change is something that comes from above―that we are powerless, except to give a strong (man) power (because thankfully, we live in a democracy). This is precisely the principle I want to push back on. **This is precisely the fundamental belief in natural powerlessness that is what I argue to be a key facet of state ideology: that we are powerless to create good without the state.**
 
 David Graeber's argument above is one such rejection of this hegemonic ideology.
 Mine is a bit more simple: we've already done it. I don't mean the "ideal world" lies in the past, but that humans, across time and space, have done all the things I think we should try to do. Societies have lived through and rejected empire, have seen the face of states and displaced it with more socioecological forms of coordination, we've been incredibly inventive and made things to radically alter our lives and make it more abundant and easier without relying
 on exploitation. This is exactly what I find so useful in the anthropological
-method―**the more we look outside of our own world, the more we look outside of
-what our society has been telling us is possible, the more possible another
-world looks.**
+method―**the more we look outside of what we already accept and deem to exist, to be possible, the more real another world becomes.**
 
 ![A group of people around a table during dusk, the stars light up the sky and the table is lit by happy faces, an abundance of food, and high energy. People to the side are playing and dancing to music, and off in the horizon are mindmills and a thriving city.](../../imgs/post-17/solarpunk-anarchy.jpg)
 
@@ -111,14 +95,13 @@ one from the historical one, of humans trying new things. Sometimes they
 succeed, sometimes they don't. Sometimes its in a direction I think is good,
 sometimes we don't even know what direction they're in. But in all of them, I
 think we'll find something new about what we think we know about human society.
-Each of these examples are about a city that has been rendered in an radically
+Each of these examples are about a city that has been rendered in a radically
 new way. We'll look at an ancient city in Ukraine, contructed in a way that
 isn't supposed to be possible, then we'll take a look at a capital in the Andes
 hundreds of years ago, destroyed by revolution, and finally, we'll take a look
 on our doorstep at a short-lived attempt at freedom with-out the state.
 
 ### A Tale of Three Cities
-
 
 #### Tiwanaku & Cultural Revolution
 
@@ -191,7 +174,7 @@ dismantling an oppressive regime of empire.
 How our society generally understands politics renders this outside of politics,
 and thus a thoughtless, intentionless act. But isn't this ridiculous? **Why
 would we assume the dismantling of an empire was apolitical merely because they
-did not choose to build another empire in its place?** The conclusion we have to
+did not choose to build another empire in its place?** The conclusion we should
 draw from this is that politics goes beyond statecraft, beyond empire-building,
 and instead can be the very act of destroying the state, destroying empire―of
 not just the crafting of states, but the dismantling of them, too.
@@ -234,7 +217,7 @@ sailors, and marines were brought in (Zinn 351). For the people of Seattle at
 this time, politics was redefined as not merely working within the state, not
 even merely fighting against the state, **but in fact building something new,
 building a new world and defending it against the old.** And it was this
-building, not merely the opposition, that was so terrifying for capital:
+building, not merely the opposition, that was so terrifying to capital:
 
 > The common man … losing faith in the old leadership, has experienced a new
 > access of self-confidence, or at least a new recklessness, **a readiness to
@@ -246,21 +229,20 @@ What does it look like when we find the self-confidence to "take chances on
 [our] own account"? It is notable that what was so threatening was not the
 taking up of arms, it was not the vanguard of a revolution armed with the tools
 of violence seizing the weapons of the state, it was not the threat of an open
-guillotine waiting for its next victim―it was the confidence to organize, the
+guillotine awaiting its next victim―it was the confidence to organize, the
 capacity to cooperate, the logistics of bread. **It was the fact that when they
 seized the city, they put down the guns, not picked them up.**
 
-To put down the guns is to refuse the tools of fear and distrust. Our world
+To put down the guns is to refuse the tools of fear, distrust, and coercion. Our world
 has been ordered on the idea that we, collectively, are inherently dangerous,
 inherently violent, inherently distrustful. We have lost such faith in one
-another that the most important thing a child is taught is "don't talk to
-strangers," i.e., do not trust your neighbor, be distrustful of all. To have
+another that the most important thing a child is taught when they leave the house alone is, "don't talk to strangers," i.e., do not trust your neighbor, be distrustful of all. To have
 faith in each other is seen as dangerous, a risk that can never be taken. And
 isn't this why we have the police? Isn't this why we have law, and order, and
 force? Isn't this why, if you ever suggest that we do not need to be controlled
 by violence to organize, to build a safe, strong, successful society, you'll
-get inquisitive reactions at best, contemptful reactions at worst? We learned
-this as a child: the people of Seattle cannot govern themselves. But they can.
+get inquisitive reactions at best, scornful looks at worst? We learned
+this as a child: the people of Seattle could never govern themselves. But they have.
 
 Revolution has been written as a transference of who holds the guns. Who is
 aiming the gun at our head, at our friends' and neighbors' heads, at our children's
@@ -284,28 +266,23 @@ over the world, all over time. In fact, we're predisposed to assume we'll find
 _something_, to have our bias confirmed, so when everything we thought we knew
 about cities turns up to not be true here, something's up.
 
-The prevailing belief about cities is in line with an argument thought of by
+The most common belief about the development cities is in line with an argument thought of by
 Jean-Jacques Rousseau. According to Rousseau, humanity was blissfully ignorant,
 free, and equal for much of human history, living in small bands of
-hunter-gatherers. Then, he says, these people (he would've actually used the
-term "savages") developed technologies like agriculture, metallurgy, and others,
+hunter-gatherers. Then, he says, these people developed technologies like agriculture, metallurgy, and others,
 requiring social organization, and settlement. Thus, he says, they chose to
 create private property, hierarchy, and social control, until the land had been
 divided up, at which point we would begin to fight each other.
 
-This idea of course, rests on the assumption that all humans develop in a linear
-kind of way, approaching the kind of society he was familiar with. It also rests
-on the idea that we are incapable of socially organizing without coercion. If
-this was true, then we probably would never see any kind of large scale
-organization, such as a city, without this coercion; **if we needed to be
-controlled to work together, we should never see people successfully working
-together without being controlled.**
+His narrative fuses neatly with a commonly cited number of how many people humans are "naturally" capable of living with, created by a British Anthropologist by measuring brain sizes in humans and primates to come up with the very scientific number, "150." According to her, to expand any group any larger than that requires coercion. Thus, tragically, just as Adam and Eve from the Garden of Eden, we fell from freedom with the establishment of cities. So the theory quite transparently predicts that any kind of cities we find in the archaeological record should also have clear evidence of coercion, administration, force, internal violence. As it turns out, this is not the case; people seem to be able to organize in groups much larger than this without violence.
 
 But if academics, and especially people more broadly, are so stuck in the assumption
-that people cannot organize without authority, evidence that continues to turn up
+that people cannot organize without authority, so evidence that continues to turn up
 is going to be lost in translation, left out by theorists who don't know
 how to understand what they're looking at, stuck in a paradox where theory fails
 to grapple with reality.
+
+"Megasites," a rather cute euphemism for very large residential settlements (we might call these "cities") were discovered in Ukraine with such a confusing lack of evidence for any "serious" politics. It's not that they just missed the evidence somehow, because archaeologists know very well how to detect signs of administration―they've seen it countless times, in other sites that are more affectionately called cities. So why do we still grow up believing cities must, necessarily, be organized through coercion?
 
 > Even more, perhaps, [the slow integration of this finding by academics] had to
 > do with the internal political life of the prehistoric settlements themselves.
@@ -314,7 +291,7 @@ to grapple with reality.
 > administration―or indeed, any form of ruling class. (_The Dawn of
 > Everything_, 289)
 
-By the _conventional views of politics_, they didn't have any, because we assume
+But by the "_conventional views of politics_," they didn't have any, because we assume
 politics to be the art of navigating control of tools of violence, not the
 coordination of navigating complex consensus based decision making, or
 experimenting with different social forms. But isn't this kind of ridiculous?
