@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: Faith in Each Other
+title: Displacing the Imperial Ideology With Sociopolitical Creativity
 pubDate: 03 October 2026
 description: Learning how to envision and build a new world together in the crumbling ruins of our own
 tags:
@@ -11,25 +11,13 @@ tags:
 ---
 *Note: This blogpost has been released in a semi-unfinished state. However, I'm calling it done. Because I don't think it'll ever actually be finished. But please recognize that this is far, far, far from all there is to say―I don't have all the answers. Read it for what it is: one account of my politic.*
 
-It's far from a controversial opinion nowadays that something is seriously wrong
-with our world. We're having it screamed at us on every platform, in every feed,
-by every person with an agenda, and even those without them, too. Across the
-world, people are running and winning on any agenda that can be scrounged
-together that talks about some kind of "change," whether that be Trump saying
-that the change we need is more white supremacy, or Orban finally being ousted
-from office.
+This piece is a critique of the imperial ideology, its embodied apparatus, and an illustration of my proposed means and ends to displace it.
 
-But what I don't think we ever really do, is think of change in terms of what
-kind of world, on a fundamental level, we want to see. There's lots of debate on
-what kind of _policy_ we want, like Mamdani's public grocery stores, but very
-few are really re-imagining the world in the public eye.
+This complex ideology spans and/or produces and/or regulates gender, race, love, the body, ability, imagination, care, and truly every other facet of existence that we can experience, is the very ideology of empire, embodied by the state.
 
-Right now you're probably a little lost, wondering what I'm even arguing for,
-what would I have us do? To answer these questions, I first want to take a
-deeper look at the world we have, and really illustrate what it looks like on a
-broader level. I want to contrast the omnipresent dark image of our world with
-the alternatives, or lack thereof, that exist. I then want us to practice a
-little of what I call sociopolitical creativity.
+I want to argue that the idea of politics as statecraft, of politics as a rather serious business done by rather serious people, is the very same idea of politics as something novel, something "indigenous" people did not do before the white man came and taught them the power of the state; that it is the very same imperial ideology of the white man's burden; the very same state ideology that we are naturally dangerous to one another and that we must be controlled by someone or something; the very same denial of the possibility of love and imagination and variation and difference and compassion and care as the most profound tools of politics; the belief that the production of justice can be found only in the state; the same justification and reification of the father's, or the parent's, or the teacher's control over children, who are seen, like all humans in their natural state, as dangerous and violent and needing to be civilized by force; the very same disdain for human connection as the secondary kind of "politics," meaning "drama"; **the very same disbelief in our capacity to love non-violently, in our capability to live fully consensual social lives, in our competency to make and remake our world without picking up the guns.**
+
+If you'll come along with me for this ride, I'll argue for a new definition of politics, buffeted by some history and archaeology, then take a closer look at what I term the imperial ideology, and finally, learn how to imagine, create, and live a new world in the shell of the old―a method of prefigurative politics I call "sociopolitical creativity."
 
 What I am not going to do is argue for "the ideal world" that I crafted in my
 head that I think is perfect, or argue that if everyone just conformed to that
@@ -431,15 +419,14 @@ circle for you, to allow yourself to accept that which you already know.
 
 > How could he have stared at reality for ten years and not seen it? (261)
 
-I think we fear this knowledge because we have utterly lost faith in each other.
+I think we fear the philosophies of anarchism even as we embody them daily because we have utterly lost faith in each other. We do not believe in anyone but ourself.
 It is ironic, because as a society, we pride ourselves on our democracy, on a
 pluralist system in which every person gets their say, and yet deep down, we
 have cultivated a process in which every vote is predicted on the idea that you
 should believe your answer to be the right one, and you win only by your answer
 being selected.
 
-Nobody really wants a democracy, **everyone wants to be the dictator,** the
-king, the patriarch, or perhaps if you're really woke, the matriarch. Our faith
+Nobody really wants a democracy, **everyone wants to be the dictator.** Our faith
 in each other has been broken down: this is perhaps the most ruthless necessity
 of empire.
 
@@ -460,7 +447,7 @@ need to wield violence as power, and the need to constrict resistance to
 power.**
 
 But I think, at the core, this is what I mean when I refer to myself as an
-anarchist: a firm, unwavering belief that no one society is the most supreme
+anarchist: a firm, unwavering belief that no one way of living is the most supreme
 one, and, especially, a humbling commitment to the reality that I cannot know
 you better than you know yourself, and that you cannot know me better than I
 know myself. From this, a true pluralism might arise. And by that I mean, a
@@ -470,18 +457,17 @@ disbelief in the power of kings.
 > live now, and can see through our fear-stricken society and its obsessive
 > technologies, to other ways of being. And even remember some real grounds for
 > hope . . . **We live in capitalism. Its power seems inescapable. So did the
-> divine right of kings** . . . Power can be resisted and changed by human
-> beings; resistance and change often begin in art, and very often in our
-> art―the art of words. (Ursula K. Le Guin)
+> divine right of kings**. (Ursula K. Le Guin)
 
-Pluralism not in the competition-obssessed sense of parliament or congress, not
+Pluralism not in the competition-obsessed sense of parliament or congress, not
 pluralism as in "a fight of many until the correct idea dominates," pluralism
 not as in competition, but as in variation: **variation of politics, variation
 of bodies, variation of questions and answers, variation with intrinsic value. A
 variation that disproves supremacy.**
 
-It is supremacy that I think anarchism is uniquely equipped to handle, and
-therefore empire that it is uniquely equipped to displace. Displace, not
+A belief in the power of dictatorship presumes that if only the right person had absolute power, if only *I* had absolute power, then I would be a good dictator, and I would make a good world. It presumes I would make a world that is superior to other worlds. It would truly be my burden to bear, uplifting the world to a more supreme society.
+
+Anarchism is the only "-ism" that is hostile to this belief. It is the only political stance that is committed to variation, to pluralism, to anti-imperialism. And therefore it is the ideology of empire and its tendrils of occupation, control, and force that anarchism is uniquely equipped to displace. Displace, not
 replace, because anarchy is not one system replacing another, it is a growth of
 networks, like mycelia, expanding, living off itself and each other, emerging
 everywhere and nowhere, displacing the nodes of extraction our roots have become
@@ -500,51 +486,45 @@ fashion.[^5]
     merely an extension of European dominance. But as authors from many of these
     decolonized states have pointed out again and again, these states are
     heavily subjugated by global systems of dominance, like the World Bank and
-    International Monetary Fund, but also multi-national corporations. And the
+    International Monetary Fund, but also multi-national corporations, and foreign aid such as from the US. And the
     state apparatus does an excellent job and passing that down to everyone in
     their territories. The imperial periphery, or the global south, or the
     "developing world" or what have you, has been pillaged, stolen from, and
     burned to the ground by colonial (mostly European) powers, and the state has
-    only really managed to manage this and maintain structures of dominance. In
+    only really managed this and maintained structures of dominance. In
     Latin America, for example, that means things like neo-colonialism, a racial
-    caste system, worker exploitation, and machismo. Even in the "success
-    stories," such as Botswana, there are very real, devestating
+    caste system, worker exploitation, machismo, femicide. Even in the "success
+    stories," such as Botswana, there are very real, devastating
     (socio-)ecological consequences to the established liberal order. This is
     all to say that these states are not purely an extension of western rule,
     but they are truly still in the family, maintaining similar modes of
     subjugation and are themselves still subjects of the global political
     economic infrastructure that puts white bodies in charge.
 
-Something that empire likes to do is to make everything that isn't it seem
-barbaric, evil, and render it a moral necessity to conquer it. For example, an
-Andean archeologist whose class I took talked a lot about how the narrative
+But replacement is all that we feel comfortable advocating for, because we have internalized the narratives of empire. Empires love to make everything that isn't it seem
+barbaric, evil, rendering it a moral necessity to conquer the other. For example, an
+Andean archaeologist whose class I took talked a lot about how the narrative
 parallels between the Incan Empire and the Spanish Empire that conquered it were
 quite striking―both cast their campaign of conquest and expansion in a mythos of
-civiziling work. Everyone else, of course, is a savage. Before our empire
-existed, people lived in a war of all against all, it was utter chaos. It would
-be a very terrible thing if our empire collapsed, because we'd return to our
-savage roots.
+civiziling work. The white man's burden―except whiteness is relative. The narrative goes like this: "before this empire existed, we lived in a war against all, violent people killing violent people, ever since the last great empire fell. We are its descendants, civilizing the savages that lived here before, the savages that live outside us. It would be a terrible, awful thing if our empire collapsed―we'd return to our savage, apocalyptic roots."
 
 Does this sound at all familiar to you? It should, because it's the same story
-we tell ourselves today―even if now we don't use quite the same terminology. But
+told today―even if now we don't use quite the same terminology. But
 the dominant narrative is that even if imperialism is bad, and indigenous people
-should be afforded sovereignty, and even if _our_ empire is evil, or _their_
+should be afforded state sovereignty, and even if _our_ empire is evil, or _their_
 empire is evil, the quiet part is that it was still a good thing that we spread
 civilization across the world, because the modern nation-state is the best and
 really only possible form of society. _Maybe_ we'll temper it with, "Well they
 could've developed it even if we hadn't forced it upon them," as if everyone is
 constantly in a race across the world to build European Civilization, which
-obviously must be the most supreme form of society. Even the most radical of us,
-excluding anarchists, position their politics in a way that suggests that even
+obviously must be the most supreme form of society, or "They actually did have great empires," as if there is nothing to human sociality outside of these violent regimes. Even some supposedly radical folks position their politics in a way that suggests that even
 if the form of society that white supremacist empire brought across the world
 through violence and bloodshed is bad, that there is some other kind of society
-that should be universalized across the world, wielding the tools that empire
-has so benevolently provided, ignoring the histories and violent realities of
-those tools.
+that should be universalized, wielding the very apparatus that has emerged out of the needs of empire. What would happen if we began to grow an organic apparatus out of the needs of each other, one designed to be burnt away and regrown with the passage of the seasons?
 
-I say all this because it is all too common to see an appeal to the status quo
+It is all too common to see an appeal to the status quo
 employed in what is otherwise a quite radical activity, to hear people say
-things like, "if only we had an ammendment stopping this," or "what they're
+things like, "if only we had an amendment stopping this," or "what they're
 doing is against the constitution," or, worst of all, and really underneath it
 all, "we need the right people in charge." Because who are the right people?
 They must not be us, if they must take charge. **If there must be _someone_ in
@@ -554,14 +534,9 @@ socially dangerous.**
 > Everyone believes they are capable of behaving reasonably themselves. **If
 > they think laws and police are necessary, it is only because they don't
 > believe that other people are.** But if you think about it, don't those people
-> all feel exactly the same about you? ... To cut a long story short: anarchists
-> believe that for the most part it is power itself, and the effects of power,
-> that make people stupid and irresponsible. (Graeber, _Are You an Anarchist?_)
+> all feel exactly the same about you? (Graeber, _Are You an Anarchist?_)
 
-It should really be no surprise that the anarchist, who wants to put power in
-_our_ hands, is seen as the quintessential social enemy, because the presumption
-is that power should only ever be taken out of our hands, and that with power,
-we would be dangerous. Somehow we accept the idea that we are dangerous to each
+Somehow we accept the idea that we are dangerous to each
 other, even when everyday, that presumption is disproven again, and again, and
 again, even when we actually do organize ourselves anarchically, cognitive
 dissonance emerges and makes us forget, because we have been convinced that
@@ -580,17 +555,15 @@ subordinates starve, or get the right job in the right part of the economy to
 become one of the lucky ones. Or, sometimes, we think about seizing the power of
 the state towards our ends, assuming that we can create freedom through
 coercion, that we can create egalitarian prosperity through a centralized
-control of resources, **that if only the ideas _I_ or _they_, often an educated
-person, came up with were enforced on a global level, then there would be
+control of resources, **that if only the ideas _I_ or _they_ came up with were enforced on a global level, then there would be
 everlasting peace and prosperity.**
 
-We never think about how to build prosperity and power for _us_, only for _me_.
 What if instead, we began to think first about how to build power from the
 bottom, how to seize what is taken from us by those above, how to build the
 world that we all wish we could live in today?
 
-It's quite telling that the family is the prototype of society. The patriarch as
-the authority, the state, and us, the children, subjugated under their rule.
+The traditional family is perhaps the most clear template of this.The patriarch as
+the authority, the state, and us, the children, subjugated under their rule, which we should be grateful for, because its violence towards us or at least power over us is what keeps us from being violent or unruly monsters.
 More than that, the family is seen as _the thing_ to aspire to, to build, except
 with us in the seat of power. The way our society tells us that we know we
 succeeded is by seizing this power and wielding it over our subordinates. And
@@ -629,26 +602,22 @@ of this structure of love, this structure of society.**[^10]
     it is possible to parent without authority, certainly not as catering to a
     child's every whim, but as treating them as an equal, not as never saying
     "no" (do you treat your friends like that?), but treating them like a human
-    being. This is, more or less, how my parents raised me. I have felt this to
-    be true. My mom always tells me that from the time I was born, she always
+    being. This can be in the same way of mentorships. A mentor, or an elder, should not have control over you. You should be equals, even though the relationship is founded in the idea that they have experience, knowledge, wisdom to pass down to you. This is, for the most part, how my parents raised me. My mom always tells me that from the time I was born, she always
     saw and tried her best to treat me as a human being, not simply as some
     extension of herself, or some non-human she had to create a human out of,
     but as a living breathing person. It honestly makes me quite sick that this
-    is so uncommon. One of my most uncontrollable, deep senses of injustice is
-    that of a parent treating a child like they are not a person, and this is
+    is so uncommon. One of my most uncontrollable, deep senses of injustice when I was younger was when I would a see parent treating a child like they are not a person, and this is
     something I have experienced over and over again as I have witnessed how my
     friends, growing up, were so viscerally subjugated by their parents. How my
     parents raised me was to treat me like a person, even if they were not
-    perfect at times, because of course, none of us always treat all persons as
-    perfectly as we wish. The point is to try, and to respect all those around
-    us as actual people. Because we all are.
+    perfect at times, because at the end of the day, they live in a society that does not believe children are whole people, and that it is okay to treat children as property. When I was 15, I asked to get hormone replacement therapy to modify my body how I wished, and I was not allowed, because my parents would not consent to it. This was utterly insanity to me. Why the hell do my *parents* have to consent to my own bodily autonomy? Why can a parent consent for a child to be married to an adult? The answer, of course, is that children's bodies and lives are controlled, even owned, by their parents, just as our bodies and lives are by our merciful state. I was lucky enough to get on hormones when I was almost 17 only because the state consented to it, just as my parents. Even if I was 34, I would have needed the state's consent. The debate over this is whether the parents should also have to consent, or just the state. But our own consent is never quite deemed sufficiently qualifying.
 
 It's true that I am influenced by the anarchists I have learned about, the
 anarchists who have written and spoken in the public eye over the past few
 hundred years. But equally so, I am inspired and enamored by the anarchists who
 have been with us for thousands of years, the anarchists I am surrounded by
 every day as I navigate a world that denies the truth of anarchy yet is
-inextricably entangled in anarchic relations, not just violent ones, the
+inextricably entangled in anarchic relations, the
 anarchists who will be here in a hundred years and until the last breath any
 living thing takes. I am in eternal pursuit of the anarchist that lives and
 breathes in myself and every one of us, because each day I am reminded that
@@ -773,7 +742,7 @@ craves his world, but knows it could never be, **he realizes that no amount of
 proof, no amount of rationalization, no amount of "seeing with your own eyes"
 can pull out that which is inside your heart.**
 
-I tell this story here because what I'm offering is image after image, idea
+I tell this story here because what I offer is image after image, idea
 after idea, desire after desire, but I know none of it is going to ignite the
 sparks in your heart. The more people I speak with, the more I see the sparks in
 all of our hearts, but these sparks are given no kindling to light, and are
@@ -799,7 +768,6 @@ and only _we are_.** I've realized that if we organize, if we fight, if we care
 for one another, if we build networks of love and mutuality, if we listen to our
 heart and figure out how to create the world we know we need, we can create
 change more profound than we ever thought was possible.
-
 
 I'm moving into a new house soon with some loved ones. Each step of the way, I
 have referenced the images produced with my social imagination, and considered
@@ -829,7 +797,7 @@ while losing a lot due to poor insulation. The other end of this, direct solar
 energy ovens, are instead designed to direct sunlight into food to heat it. This
 means they can only work when its sunny, which, of course, is not most of the
 time, especially farther from the equator. The solar electric design is instead
-engineered to be maximally insulative to minimize the heat energy input and
+engineered to be maximally insulated to minimize the heat energy input and
 enable it to work even when the solar panel is no longer functioning.
 Furthermore, it is designed with materials that pretty much anyone could get for
 fairly cheap and make on their own with some tools and skills.
@@ -860,7 +828,7 @@ ends up being more effective than those versions?[^3]
     safe cooking, but it does mean things need to be cooked slower (it takes
     about twice as long as a conventional oven). But, as the authors point out,
     that longer cooking time is supplemented with less stiring, and greater
-    retention of flavor―the food tastes better and is easier to cook. I also
+    retention of flavor―the food tastes better and is less laborious to cook. I also
     wonder how this design might be improved in the years, even decades to come.
     How might we make it even easier to use, or even more effective? In the vein
     of Graeber, it's currently impossible to know, but I can't wait to find out.
@@ -912,8 +880,7 @@ something a bit more radical, a bit more taboo.
 
 The Four Thieves Vinegar Collective is an anarchist group including chemists
 working to distribute access to medicine that have been locked behind paywalls.
-Why have these medicines that are literally lifesaving been locked away? Often
-times, it's literally just the profit incentive. Other times, it's pure bigotry.
+Why have these medicines that are literally lifesaving been locked away? Most often, its just the profit incentive, but sometimes it's plain bigotry.
 Whether it's the AIDS Pandemic in the late 20th century, hormone replacement
 therapy in the Trump presidency, or insulin in this ethically decrepit empire,
 literally lifesaving medicines are taken away from us.
@@ -930,7 +897,7 @@ create chemical molecules.
 <div class="subtitle" id="img-title">"microlab stirring," licensed under GPLv3 from the solderless-microlab GitHub repository.</div>
 
 I realize this is a bit more taboo, because when we think of DIY chemistry, most
-of us probably first think of Walter White in his winnebago. This is because
+of us probably first think of Walter White in his Winnebago. This is because
 substances are the primary drug that has been criminalized and driven
 underground, but also because the people making those kinds of chemicals are
 probably the people using them too (I presume, I haven't spoken to or read about
@@ -944,21 +911,20 @@ the DIY HRT community.[^4]
 [^4]: While the Microlab appears to be an exciting new technology, and
     definitely has turned heads in the community, it hasn't, and probably won't
     for a while, be shifting anything in that particular space. This is because
-    DIY HRT already operates in a gray-zone (there's a reason we use crypto as a
+    DIY HRT already operates in a gray-zone (there's a reason they use crypto as a
     currency), walking a tight rope of legality. Currently, sellers buy the raw
     molecules in bulk, and then compound it into an oil, something people can
     inject. The Microlab would only cut out the raw molecule purchasing, which
     wouldn't make it any cheaper, would probably make it harder to manufacture,
     (just adding more steps), and at this time, there's nothing threatening this
-    sourcing. Synthesizing our own molecules would just make what we do a little
+    sourcing or its pricing. Synthesizing our own molecules would just make what we do a little
     more precarious. There are certainly reasons to use the Microlab―more
     localization, practically an erasure of threat of supply chain disruption,
-    probably more that I'm unaware of―but currently, avoiding the state's eye
+    probably more that I'm unaware of―but currently, avoiding the state's ire
     and buying from industry is probably more wise.
 
 The DIY HRT community has become not only a market of material exchange, but of
-information exchange. The anthropologist Cliffort Geertz studied the bazaar (a
-kind of market) in Morocco and described it kind of like this: a marketplace not
+information exchange. It is not just a marketplace
 merely transferring "goods and services" from one to another, but a network
 fundamentally built upon relationshps and the knowledge that flows between them.
 
@@ -988,10 +954,10 @@ There is no leader in DIY HRT, there is no formal structure, there's no
 authority to manage and control us. The fact that we need this is ridiculous.
 We're doing just fine on our own. And actually, **we exist _because_ the
 authorities that are supposed to be doing a better job than we are at managing
-us are failing us!**
+us are failing us, because they seek to control us.**
 
 It is the creativity of saying, "this sucks, why is our society like this," and
-the gaul to finish with, "we can do it better ourselves."
+the gall to finish with, "we can do it better ourselves."
 
 > The problem is that those pills are under patent, and they cost $1,000 per
 > pill. “Literally, if you have $84,000 then hepatitis C is not your problem
@@ -1027,7 +993,7 @@ simply build a better world. Utopia is aspirational, and yes, we absolutely can
 imagine a world we want to aspire to, but I don't want this to stop us from
 doing work today. What we need is iterative work done by the day, not sitting
 around waiting for capital-R Revolution, not sitting around waiting for
-Mamdani's influence to come to our town, not waiting until we've been working
+Mamdani's influence to come to our city, not waiting until we've been working
 for so long all the hope and inspiration has been beaten out of us.
 
 Truly, the idea that it's all or nothing is what leads to us thinking it is not
@@ -1093,7 +1059,7 @@ structured in such a way that we will never be allowed power to recreate
 ourselves in our own vision. **We are forced to learn how to envision new
 possibilities in the dark, we have to reconstruct ourself in the crevices of the
 internet, we have to discover these new possibilities in the dumpster we dive in
-out of desperation.** There is a cacophany of voices around us telling us who we
+out of desperation.** There is a cacophony of voices around us telling us who we
 are, what we must be, what we are allowed to do, what we could possibly do, what
 could ever possibly exist, and we sit here and we listen. We have been trained
 so well to listen that we look down upon those who don't. The kid that doesn't
@@ -1118,7 +1084,7 @@ to ourselves?
 <div class="subtitle" id="img-title">"Solarpunk Strip Mall," by Joan de Art (Becca Bowlin), CC BY-NC 4.0</div>
 
 What I want to suggest here is that we stop looking above for the answers,
-whether thats in the academy, or in politicians, or in the law, and instead
+whether that's in the academy, or in politicians, or in the law, and instead
 start making up some answers. These answers aren't going to be the right ones.
 But we're not going to find the answers by thinking, we have to find them by
 doing. And the answers aren't going to come from somewhere else. And they're
@@ -1192,11 +1158,9 @@ They can never fully co-opt this power, because love is inherently something
 that cannot be controlled. It can only be directed, channeled. Love is, at the
 end of the day, quite naturally anarchic, at least mutual love. Loving someone
 who is violent and coercive to you, or vice versa, isn't really at all like what
-I'm referring to here, it's a fundamentally different relation that is more akin
-to infatuation. But love is truly the structure that binds us. And the most
+I'm referring to here. But love is truly the structure that binds us. And the most
 powerful thing we can do is free and build love by imagining a different
-structure, a different form, a new kind of love, one that doesn't require
-upholding systems of extraction.
+structure, a different form, a new kind of consensual and mutual and collective and unrepressed love: **it is creating a free, unfiltered, abundantly loving network of care that we may end up building a new world for ourselves.**
 
 This is what I mean when I say imagination, too, is an elementary tool of
 liberation: the power to envison new worlds, the power to imagine our world as
@@ -1207,9 +1171,9 @@ first so that we cannot imagine our body outside of what we are told it must be,
 a boy's body or a girl's body, then so that we accept that certain people must
 have dominion over us and we do not have agency to who we are, and finally so
 that we don't even consider a possibility outside the nuclear family, and we
-tell our children the same lies of what is and what is not possible. **And here
+tell our children the same lies of what is and what is not possible. And here
 we are, again, love has been contained within a myth of what is true love:
-either domination, or a means towards _reproducing_ domination.**
+either domination, or a means towards _reproducing_ domination.
 
 ![Solarpunk scene on a sunny wheat field, where some small robots do the harvest while a kid is reading on a woman’s lap. The community works on building wind energy while also having some free time to enjoy themselves. All three elements of the title are reunited and sourced sustainably in the image.](../../imgs/post-17/earth-water-air.jpg)
 
@@ -1238,7 +1202,7 @@ each other, a belief in the wisdom of creation that knows authority to be
 antithetical to its momentum. But this is not a work to be done by one, whether
 that one is an individual or group; it is something that has always been done
 and will always be done. And that makes it a bit less stressful. We can, and
-should, learn not only from our practice, but also from our textual elders.
+should, learn not only from our practice, but also from our elders.
 
 > I keep saying that theory and practice must work together. You read to expand
 > your knowledge, **you read so that you're not reinventing the wheel over and
@@ -1258,7 +1222,7 @@ should. I can't do all that here, but I don't have to.
 
 I do want to say that a lot of this is quite theory driven and maybe a little
 bit abstract. There's a lot of important work, especially in the realm of
-skilling, that needs to be done, that isn't quite so exciting to write about.
+(re)skilling, that needs to be done, that isn't quite so exciting to write about.
 Whether its textiles, cooking, building machines, decorating, painting,
 gardening, tending to animals, there are countless creative and caring skills we
 have forgotten that we may need in our toolkit to imagine and build the world we
@@ -1297,6 +1261,11 @@ when I think its warranted. But for now, this is what it is. I wish you luck.
   enjoy reading my work, you will love his. This is an all around collection of
   essays on "the west," economics, power, anarchism, care, and play. I cannot
   recommend this enough!
+- **_Sister Outsider_**, by Audre Lorde <br> I sincerely adore Audre Lorde, and
+  this collection of essays and speeches is still one of the most inspiring
+  works for me. Some pieces can be a little hard to get into, and some is a
+  little dated, but her works on the methods of revolution, both in theory and
+  practice, is remarkably relevant and incredibly inspiring. You don't have to read every piece in the book in a row―jump around if you'd like.
 - **_The Dispossessed_**, by Ursula K. Le Guin <br> I'm honestly not the biggest
   fan of how Le Guin depicts anarchy in this piece, it's not super imaginative,
   but it really is just her working through the ideas of anarchy, and I think on
@@ -1312,11 +1281,6 @@ when I think its warranted. But for now, this is what it is. I wish you luck.
   refreshingly straightforward, and in general this piece does a great job at
   pushing the reader to truly contend with the realities of settler-colonialism
   that are still going on today.
-- **_Sister Outsider_**, by Audre Lorde <br> I sincerely adore Audre Lorde, and
-  this collection of essays and speeches is still one of the most inspiring
-  works for me. Some pieces can be a little hard to get into, and some is a
-  little dated, but her works on the methods of revolution, both in theory and
-  practice, is remarkably relevant and incredibly inspiring.
 - For the academics: **_Fragments of an Anarchist Anthropology_**, by David
   Graeber <br> Truly, if you are interested in doing any kind of research in the
   academy, especially in the social sciences, please give this a read. Again,
@@ -1327,18 +1291,3 @@ when I think its warranted. But for now, this is what it is. I wish you luck.
   research. (Hint: most of these are in the library up at the top if you would
   like a pdf, but I strongly recommend either checking the book out at your
   library or buying it from a used books seller like thriftbooks.com.)
-
-> No one is yet saved, no one is yet free. The work is still not done … what I
-> realized as I wandered back through Silksong's demolished world, is the force
-> that keeps Pharloom's flickering compassion alive. Not religion, per se, but
-> uncorrupted faith. Sherma, the previously naive pilgrim, has seen the horrors
-> and false promises of the citadel, has indeed seen the entire structure
-> crumble, and yet has devoted himself to the shelter of others. "Though
-> kingdoms may fall, life endures still," he says, **"And we bugs can build our
-> lands anew."** Shakra, the cartographer, protects one of the few remaining
-> enclaves from the dangers of the abyss outside. "If you are working towards
-> the venom's end, **I shall fight," she says, "with faith renewed."** … In Silksong, the apocalypse is not the end. Like war, like plague, it's another calamity that asks who we truly are.
-> Is it the judgemental opportunity we've been waiting for, to decide who should
-> be saved and who should be damned? **Or is it a time to turn our eyes to each
-> other? And realize that whatever's next can only be built from our faith in
-> the present.** (Jacob Geller, _Silksong and the Biblical Apocalypse_, 26:06-27:11, 29:30-29:56)
