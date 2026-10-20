@@ -9,9 +9,7 @@ tags:
   - anthropology
   - activism
 ---
-*Note: This blogpost has been released in a semi-unfinished state. However, I'm calling it done. Because I don't think it'll ever actually be finished. But please recognize that this is far, far, far from all there is to say―I don't have all the answers. Read it for what it is: one account of my politic.*
-
-This piece is a critique of the imperial ideology, its embodied apparatus, and an illustration of my proposed means and ends to displace it.
+This piece is a critique of the imperial ideology, its embodying apparatus, and an illustration of my proposed means and ends to displace it.
 
 This complex ideology spans and/or produces and/or regulates gender, race, love, the body, ability, imagination, care, and truly every other facet of existence that we can experience. It is the very ideology of empire―embodied, reproduced, and enforced by the state.
 
@@ -36,9 +34,9 @@ imagination and **enable you to begin the work of building that better world in
 your own life.** I don't want to build a world for you. I don't want to teach
 you what the world should look like. Really, what I want to do here is to offer
 you a series of windows into the possibilities that exists beyond our world. I
-want to inspire you, and begin to build a new world together, today.
+want to inspire you, and begin to build a new world together, today. Above all, I am excited by the prospect of parallel and contrasting experimentation, as we find ourselves differing and diverging in our creation of a non-imperial world.
 
-## "Another World Is Possible"
+### "Another World Is Possible"
 
 > It might possibly turn out that such a world is _not_ possible. But one could
 > also make the argument which makes a commitment to optimism a moral
@@ -52,37 +50,21 @@ inherently unsustainable and self-destructive (this is seen over and over again
 in both the archeological and historical records), but European (and later
 American, Soviet, Maoist, and so on) empire has taken this habit of empire to an
 incredible new level with industrial mechanisms of extraction and coercion.
-We've literally engineered a society that is incentivized to maximally destroy
-the world we inhabit by forcing people across the world to destroy their bodies
-and minds with both production and consumption.
+We've literally engineered a machine that we all compose incentivizing all of us to maximally destroy the world through both production and consumption.
 
-This is bad on its own, but thankfully, if there's one thing people are good at,
-it's destroying the society they've built and doing things a new way. The
-problem is, if there's one thing empire is good at, it's justifying its own
-existence.
+This is obviously terrible―but we're all already well aware of that, aren't we?
 
-Ask any average liberally-inclined politically active individual, they'll probably tell you that, yeah, the world kinda sucks, but we absolutely can make it better, with better policy. That all we really need to do is vote up the right people and they'll create policies reforming the police, industry, resource distribution, etc., in the proper ways. Maybe we should build out more "green" mass production and have tighter regulation on grueling labor, maybe we should have designated mental health specialists to help out the police, maybe we should have more affordable housing, and hopefully someone will come along with the political power to make these changes. The core structure, however, is never truly in doubt. The core principle that change is something that comes from above―that we are powerless, except to give a strong (man) power (because thankfully, we live in a democracy). This is precisely the principle I want to push back on. **This is precisely the fundamental belief in natural powerlessness that is what I argue to be a key facet of state ideology: that we are powerless to create good without the state.**
-
-David Graeber's argument above is one such rejection of this hegemonic ideology.
-Mine is a bit more simple: we've already done it. I don't mean the "ideal world" lies in the past, but that humans, across time and space, have done all the things I think we should try to do. Societies have lived through and rejected empire, have seen the face of states and displaced it with more socioecological forms of coordination, we've been incredibly inventive and made things to radically alter our lives and make it more abundant and easier without relying
-on exploitation. This is exactly what I find so useful in the anthropological
-method―**the more we look outside of what we already accept and deem to exist, to be possible, the more real another world becomes.**
+Ask any average liberally-inclined, or heck, most any "leftist," individual, they'll probably tell you that, yeah, the world kinda sucks, but we absolutely can make it better, with better policy. That all we really need to do is vote up the right people and they'll create policies reforming the police, industry, resource distribution, etc., in the proper ways. Maybe we should build out more "green" mass production and have tighter regulation on grueling labor, maybe we should have designated mental health specialists to help out the police, maybe we should have more affordable housing, and hopefully someone will come along with the political power to make these changes. The core structure, however, is never truly in doubt. The core principle that change is something that comes from above―that we are powerless, except to give a strong (man) power (because thankfully, we live in a democracy). This is precisely the principle I want to push back on. **This is precisely the fundamental belief in natural powerlessness that is what I argue to be a key facet of the imperial ideology: that we are powerless to create good without the state.**
 
 ![A group of people around a table during dusk, the stars light up the sky and the table is lit by happy faces, an abundance of food, and high energy. People to the side are playing and dancing to music, and off in the horizon are mindmills and a thriving city.](../../imgs/post-17/solarpunk-anarchy.jpg)
 
 <div class="subtitle" id="img-title">"Solarpunk Anarchy," by Sean Bodley, CC BY-SA 4.0</div>
 
-What I am really proposing here is not one kind of imagery I want to put in your
-head and then put on the ground. What I am proposing instead is that _you_ are
-capable of imagining another world if only we cultivate these skills, and that
-it is only when _we_ imagine these things and try our best to experiment with
-what we can create can we truly exist in a new world.
+I think if you look inward and outward, if you really consider the things we do every day and the things we, humans, have done in the past, you'll see we have been doing it all along. Across time and space, humans have been doing all the things that in fact compose consensual sociality. Not universally, not everywhere all at once, but this always lurks within our sociality. Whether it be the uprooting and overthrowing of empire, which has often been reduced to environmental changes or "savagery," or it be the simple connections of friends which necessarily must flow without coercion or hierarchy, we can, and have, organized despite the imperial ideology. I want you to understand that this is not merely a marginal activity. It is everywhere. And no matter how much we deny this possibility, no matter how much we cry that we are powerless and that the state, like the fantasy of Great White Men, will come down with its power to save and rescue us, we can and will live in contradiction to the imperial ideology. I think if we are ever to build and live in another world, a world without crushing authority and extraction, we must embrace this. We must displace this ideology that we need someone stronger than us. We must displace it with a new form of politics.
 
-### Expanding Politics
+## Expanding Politics
 
-I've suggested that what makes us so special as a species is our capacity for
-constant re-imagination of society, and doing the work of destruction and
-reconstruction that goes along with that. But I want to go farther: I want to
+I first want to take a look at politics on the ground, and examine its different faces. Politics has been reduced to merely statecraft, the doing of governance, the doing of coercion, and I think this is something we need to push back on if we are to chart a new direction. I've already suggested that the undoing and displacement of empire is another dimension of empire―I want to illustrate that, and go farther: I want to
 argue that **"politics" is really how humans conduct the formation and
 reformation, or, if you prefer, the organization and reorganization, of society
 through both language and practice.** And, I want to argue that the reduction of
@@ -708,7 +690,7 @@ changing, never truly ossified, always in flux. It is only when we accept that,
 only when we finally take that leap, may we render the world as we know it must
 be. Only then can we let what is inside of us come out, and begin that
 transition that we know must occur. Shevak thought he could reach into the
-hearts of his "brothers" on Urras and pull out what he knows is there. But when
+hearts of his "brothers" on Urras and pull out what he knows is there: the desire to love and live freely. But when
 he comes face to face with the ambassador from Earth, and she tells him she
 craves his world, but knows it could never be, **he realizes that no amount of
 proof, no amount of rationalization, no amount of "seeing with your own eyes"
